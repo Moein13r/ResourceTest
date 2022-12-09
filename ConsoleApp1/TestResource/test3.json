@@ -1,0 +1,140 @@
+{
+    "Words": [
+        {
+            "Persian": "کد گروه",
+            "English": "Group code"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "کاربر مدیر",
+            "English": "Admin user"
+        },
+        {
+            "Persian": "نـام گروه",
+            "English": "The name of the group"
+        },
+        {
+            "Persian": "دستگاه",
+            "English": "device"
+        },
+        {
+            "Persian": "کلمه عبور",
+            "English": "Password"
+        },
+        {
+            "Persian": "ارسال کاربران",
+            "English": "Send users"
+        },
+        {
+            "Persian": "گروه",
+            "English": "group"
+        },
+        {
+            "Persian": "کد شناسایی",
+            "English": "Identification code"
+        },
+        {
+            "Persian": "کارت",
+            "English": "Card"
+        },
+        {
+            "Persian": "کاربر عادی",
+            "English": "Normal user"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "نام گروه",
+            "English": "the name of the group"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "کاربر مدیر ارشد",
+            "English": "Senior admin user"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "انتخاب دستگاه",
+            "English": "Select device"
+        },
+        {
+            "Persian": "دریافت کاربران",
+            "English": "Get users"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "انتخاب گروه",
+            "English": "Select group"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "نـام",
+            "English": "the name"
+        },
+        {
+            "Persian": "کد پرسنلی",
+            "English": "Personnel Code"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "شماره کارت",
+            "English": "card number"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "دریافت کاربران از دستگاه",
+            "English": "Get users from the device"
+        },
+        {
+            "Persian": "مدیریت دستگاه",
+            "English": "Device management"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "مدیریت گروه ها",
+            "English": "Manage groups"
+        },
+        {
+            "Persian": "سطح دسترسی",
+            "English": "Access level"
+        },
+        {
+            "Persian": "واحد",
+            "English": "the unit"
+        },
+        {
+            "Persian": "ارسال کاربران به دستگاه",
+            "English": "Send users to the device"
+        },
+        {
+            "Persian": "کاربر ثبات اثرانگشت",
+            "English": "Fingerprint user"
+        }
+    ]
+}

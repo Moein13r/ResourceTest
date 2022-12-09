@@ -1,0 +1,102 @@
+<data name="Group code" xml:space="preserve">
+                    <value>کد گروه</value>
+                </data>
+<data name="Condition" xml:space="preserve">
+                    <value>وضعیت</value>
+                </data>
+<data name="Admin user" xml:space="preserve">
+                    <value>کاربر مدیر</value>
+                </data>
+<data name="The name of the group" xml:space="preserve">
+                    <value>نـام گروه</value>
+                </data>
+<data name="device" xml:space="preserve">
+                    <value>دستگاه</value>
+                </data>
+<data name="Password" xml:space="preserve">
+                    <value>کلمه عبور</value>
+                </data>
+<data name="Send users" xml:space="preserve">
+                    <value>ارسال کاربران</value>
+                </data>
+<data name="group" xml:space="preserve">
+                    <value>گروه</value>
+                </data>
+<data name="Identification code" xml:space="preserve">
+                    <value>کد شناسایی</value>
+                </data>
+<data name="Card" xml:space="preserve">
+                    <value>کارت</value>
+                </data>
+<data name="Normal user" xml:space="preserve">
+                    <value>کاربر عادی</value>
+                </data>
+<data name="User ID, Personnel ID" xml:space="preserve">
+                    <value>شماره پرسنلی</value>
+                </data>
+<data name="the name of the group" xml:space="preserve">
+                    <value>نام گروه</value>
+                </data>
+<data name="Row" xml:space="preserve">
+                    <value>ردیف</value>
+                </data>
+<data name="Senior admin user" xml:space="preserve">
+                    <value>کاربر مدیر ارشد</value>
+                </data>
+<data name="name" xml:space="preserve">
+                    <value>نام</value>
+                </data>
+<data name="Select device" xml:space="preserve">
+                    <value>انتخاب دستگاه</value>
+                </data>
+<data name="Get users" xml:space="preserve">
+                    <value>دریافت کاربران</value>
+                </data>
+<data name="New" xml:space="preserve">
+                    <value>جدید</value>
+                </data>
+<data name="Select group" xml:space="preserve">
+                    <value>انتخاب گروه</value>
+                </data>
+<data name="Organization" xml:space="preserve">
+                    <value>سازمان</value>
+                </data>
+<data name="the name" xml:space="preserve">
+                    <value>نـام</value>
+                </data>
+<data name="Personnel Code" xml:space="preserve">
+                    <value>کد پرسنلی</value>
+                </data>
+<data name="the operation" xml:space="preserve">
+                    <value>عملیات</value>
+                </data>
+<data name="card number" xml:space="preserve">
+                    <value>شماره کارت</value>
+                </data>
+<data name="Store" xml:space="preserve">
+                    <value>ذخیره</value>
+                </data>
+<data name="Get users from the device" xml:space="preserve">
+                    <value>دریافت کاربران از دستگاه</value>
+                </data>
+<data name="Device management" xml:space="preserve">
+                    <value>مدیریت دستگاه</value>
+                </data>
+<data name="last name" xml:space="preserve">
+                    <value>نام خانوادگی</value>
+                </data>
+<data name="Manage groups" xml:space="preserve">
+                    <value>مدیریت گروه ها</value>
+                </data>
+<data name="Access level" xml:space="preserve">
+                    <value>سطح دسترسی</value>
+                </data>
+<data name="the unit" xml:space="preserve">
+                    <value>واحد</value>
+                </data>
+<data name="Send users to the device" xml:space="preserve">
+                    <value>ارسال کاربران به دستگاه</value>
+                </data>
+<data name="Fingerprint user" xml:space="preserve">
+                    <value>کاربر ثبات اثرانگشت</value>
+                </data>

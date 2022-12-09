@@ -1,0 +1,340 @@
+{
+    "Words": [
+        {
+            "Persian": "کلمه کاربری اکتیو دایرکتوری",
+            "English": "Active Directory password"
+        },
+        {
+            "Persian": "مشخصات",
+            "English": "Specifications"
+        },
+        {
+            "Persian": "شروع مودال ذخیره دسترسی کاربران به گروه ها",
+            "English": "The start of the module saves users' access to groups"
+        },
+        {
+            "Persian": "مشخصات کاربر",
+            "English": "User profile"
+        },
+        {
+            "Persian": "انتخاب ورودی و خروجی پارکینگ",
+            "English": "Choosing the entrance and exit of the parking lot"
+        },
+        {
+            "Persian": "شروع مودال انتخاب بخش های پارکینگ",
+            "English": "Start of the parking lot selection modal"
+        },
+        {
+            "Persian": "عملکرد رکورد",
+            "English": "Record performance"
+        },
+        {
+            "Persian": "نام واحد",
+            "English": "Unit Name"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "انتصاب گروه",
+            "English": "Appointment of the group"
+        },
+        {
+            "Persian": "مدیریت امنیت کاربر",
+            "English": "User security management"
+        },
+        {
+            "Persian": "پایان مودال ذخیره دسترسی کاربران به گروه ها",
+            "English": "End of the modal to save user access to groups"
+        },
+        {
+            "Persian": "هر دو",
+            "English": "both"
+        },
+        {
+            "Persian": "تکرار کلمه عبور",
+            "English": "Repeat password"
+        },
+        {
+            "Persian": "شروع مودال جستجو",
+            "English": "Start the search modal"
+        },
+        {
+            "Persian": "سوال",
+            "English": "Question"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "ویرایش",
+            "English": "Edit"
+        },
+        {
+            "Persian": "کلمه کاربری",
+            "English": "Username"
+        },
+        {
+            "Persian": "تاریخ و زمان فعالیت",
+            "English": "Date and time of activity"
+        },
+        {
+            "Persian": "نـام گـروه",
+            "English": "The name of the group"
+        },
+        {
+            "Persian": "وضعیت کاربر",
+            "English": "User status"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "نـام خانوادگی",
+            "English": "Surname"
+        },
+        {
+            "Persian": "کـد گـروه",
+            "English": "Group code"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "کلمه عبور",
+            "English": "Password"
+        },
+        {
+            "Persian": "نوع کاربر",
+            "English": "User type"
+        },
+        {
+            "Persian": "بروزرسانی",
+            "English": "Update"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "واحدهای خروجی پارکینگ ها",
+            "English": "Exit units of parking lots"
+        },
+        {
+            "Persian": "پایان مودال انتخاب بخش های پارکینگ",
+            "English": "End of modal selection of parking lots"
+        },
+        {
+            "Persian": "شروع مودال تنظیم دسترسی های کاربر در پارکینگ",
+            "English": "Start of the modal for setting user accesses in the parking lot"
+        },
+        {
+            "Persian": "نـام",
+            "English": "the name"
+        },
+        {
+            "Persian": "نرم افزار",
+            "English": "software"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "نام و نام خانوادگی کاربر",
+            "English": "User name and surname"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "نام جدول",
+            "English": "Name of the table"
+        },
+        {
+            "Persian": "وضعیت کـاربر",
+            "English": "User status"
+        },
+        {
+            "Persian": "آخرین زمان ورود به سیستم",
+            "English": "Last login time"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "منوی نرم افزار",
+            "English": "Software menu"
+        },
+        {
+            "Persian": "وضعیت اتصال به سامانه",
+            "English": "System connection status"
+        },
+        {
+            "Persian": "آدرس سیستم",
+            "English": "System address"
+        },
+        {
+            "Persian": "فایل",
+            "English": "file"
+        },
+        {
+            "Persian": "ذخیره دسترسی کاربران به گروه ها",
+            "English": "Save user access to groups"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "افزودن",
+            "English": "Add"
+        },
+        {
+            "Persian": "تنظیم دسترسی های کاربر در پارکینگ",
+            "English": "Setting user accesses in the parking lot"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "غیرفعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "فعال",
+            "English": "active"
+        },
+        {
+            "Persian": "رکورد",
+            "English": "Record"
+        },
+        {
+            "Persian": "نـام گروه",
+            "English": "The name of the group"
+        },
+        {
+            "Persian": "پایان مودال تنظیم دسترسی های کاربر در پارکینگ",
+            "English": "The end of the modal for setting user accesses in the parking lot"
+        },
+        {
+            "Persian": "کاربر عادی",
+            "English": "Normal user"
+        },
+        {
+            "Persian": "کاربر",
+            "English": "user"
+        },
+        {
+            "Persian": "گـروه",
+            "English": "the group"
+        },
+        {
+            "Persian": "عملکرد",
+            "English": "Function"
+        },
+        {
+            "Persian": "متن مورد نظر خود را جستجو نمایید",
+            "English": "Search for the text you want"
+        },
+        {
+            "Persian": "جواب",
+            "English": "Answer"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "شناسه رکورد",
+            "English": "Record ID"
+        },
+        {
+            "Persian": "نام منو",
+            "English": "my name"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "غیر فعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "ایمپورت",
+            "English": "import"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "ایمپورت کاربران از فایل اکسل",
+            "English": "Import users from Excel file"
+        },
+        {
+            "Persian": "پایان مودال جستجو",
+            "English": "End of search modal"
+        },
+        {
+            "Persian": "نمایش منو های درختی",
+            "English": "Show tree menus"
+        },
+        {
+            "Persian": "جدول",
+            "English": "Table"
+        },
+        {
+            "Persian": "تعریف کاربران",
+            "English": "Define users"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "تعریف گروه ها",
+            "English": "Define groups"
+        },
+        {
+            "Persian": "راهنما",
+            "English": "Guide"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "نام نرم افزار",
+            "English": "software name"
+        },
+        {
+            "Persian": "کاربر ارشد",
+            "English": "Senior user"
+        },
+        {
+            "Persian": "واحدهای ورودی پارکینگ ها",
+            "English": "Entrance units of parking lots"
+        }
+    ]
+}

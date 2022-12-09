@@ -1,0 +1,252 @@
+<data name="Active Directory password" xml:space="preserve">
+                    <value>کلمه کاربری اکتیو دایرکتوری</value>
+                </data>
+<data name="Specifications" xml:space="preserve">
+                    <value>مشخصات</value>
+                </data>
+<data name="The start of the module saves users' access to groups" xml:space="preserve">
+                    <value>شروع مودال ذخیره دسترسی کاربران به گروه ها</value>
+                </data>
+<data name="User profile" xml:space="preserve">
+                    <value>مشخصات کاربر</value>
+                </data>
+<data name="Choosing the entrance and exit of the parking lot" xml:space="preserve">
+                    <value>انتخاب ورودی و خروجی پارکینگ</value>
+                </data>
+<data name="Start of the parking lot selection modal" xml:space="preserve">
+                    <value>شروع مودال انتخاب بخش های پارکینگ</value>
+                </data>
+<data name="Record performance" xml:space="preserve">
+                    <value>عملکرد رکورد</value>
+                </data>
+<data name="Unit Name" xml:space="preserve">
+                    <value>نام واحد</value>
+                </data>
+<data name="Delete" xml:space="preserve">
+                    <value>حذف</value>
+                </data>
+<data name="Appointment of the group" xml:space="preserve">
+                    <value>انتصاب گروه</value>
+                </data>
+<data name="User security management" xml:space="preserve">
+                    <value>مدیریت امنیت کاربر</value>
+                </data>
+<data name="End of the modal to save user access to groups" xml:space="preserve">
+                    <value>پایان مودال ذخیره دسترسی کاربران به گروه ها</value>
+                </data>
+<data name="both" xml:space="preserve">
+                    <value>هر دو</value>
+                </data>
+<data name="Repeat password" xml:space="preserve">
+                    <value>تکرار کلمه عبور</value>
+                </data>
+<data name="Start the search modal" xml:space="preserve">
+                    <value>شروع مودال جستجو</value>
+                </data>
+<data name="Question" xml:space="preserve">
+                    <value>سوال</value>
+                </data>
+<data name="Selection" xml:space="preserve">
+                    <value>انتخاب</value>
+                </data>
+<data name="Edit" xml:space="preserve">
+                    <value>ویرایش</value>
+                </data>
+<data name="Username" xml:space="preserve">
+                    <value>کلمه کاربری</value>
+                </data>
+<data name="Date and time of activity" xml:space="preserve">
+                    <value>تاریخ و زمان فعالیت</value>
+                </data>
+<data name="The name of the group" xml:space="preserve">
+                    <value>نـام گـروه</value>
+                </data>
+<data name="User status" xml:space="preserve">
+                    <value>وضعیت کاربر</value>
+                </data>
+<data name="Store" xml:space="preserve">
+                    <value>ذخیره</value>
+                </data>
+<data name="Surname" xml:space="preserve">
+                    <value>نـام خانوادگی</value>
+                </data>
+<data name="Group code" xml:space="preserve">
+                    <value>کـد گـروه</value>
+                </data>
+<data name="Modal ending" xml:space="preserve">
+                    <value>پایان مودال</value>
+                </data>
+<data name="Password" xml:space="preserve">
+                    <value>کلمه عبور</value>
+                </data>
+<data name="User type" xml:space="preserve">
+                    <value>نوع کاربر</value>
+                </data>
+<data name="Update" xml:space="preserve">
+                    <value>بروزرسانی</value>
+                </data>
+<data name="New" xml:space="preserve">
+                    <value>جدید</value>
+                </data>
+<data name="Exit units of parking lots" xml:space="preserve">
+                    <value>واحدهای خروجی پارکینگ ها</value>
+                </data>
+<data name="End of modal selection of parking lots" xml:space="preserve">
+                    <value>پایان مودال انتخاب بخش های پارکینگ</value>
+                </data>
+<data name="Start of the modal for setting user accesses in the parking lot" xml:space="preserve">
+                    <value>شروع مودال تنظیم دسترسی های کاربر در پارکینگ</value>
+                </data>
+<data name="the name" xml:space="preserve">
+                    <value>نـام</value>
+                </data>
+<data name="software" xml:space="preserve">
+                    <value>نرم افزار</value>
+                </data>
+<data name="print" xml:space="preserve">
+                    <value>چاپ</value>
+                </data>
+<data name="User name and surname" xml:space="preserve">
+                    <value>نام و نام خانوادگی کاربر</value>
+                </data>
+<data name="Row" xml:space="preserve">
+                    <value>ردیف</value>
+                </data>
+<data name="Name of the table" xml:space="preserve">
+                    <value>نام جدول</value>
+                </data>
+<data name="User status" xml:space="preserve">
+                    <value>وضعیت کـاربر</value>
+                </data>
+<data name="Last login time" xml:space="preserve">
+                    <value>آخرین زمان ورود به سیستم</value>
+                </data>
+<data name="Up to date" xml:space="preserve">
+                    <value>تا تاریخ</value>
+                </data>
+<data name="Software menu" xml:space="preserve">
+                    <value>منوی نرم افزار</value>
+                </data>
+<data name="System connection status" xml:space="preserve">
+                    <value>وضعیت اتصال به سامانه</value>
+                </data>
+<data name="System address" xml:space="preserve">
+                    <value>آدرس سیستم</value>
+                </data>
+<data name="file" xml:space="preserve">
+                    <value>فایل</value>
+                </data>
+<data name="Save user access to groups" xml:space="preserve">
+                    <value>ذخیره دسترسی کاربران به گروه ها</value>
+                </data>
+<data name="the operation" xml:space="preserve">
+                    <value>عملیات</value>
+                </data>
+<data name="Add" xml:space="preserve">
+                    <value>افزودن</value>
+                </data>
+<data name="Setting user accesses in the parking lot" xml:space="preserve">
+                    <value>تنظیم دسترسی های کاربر در پارکینگ</value>
+                </data>
+<data name="until" xml:space="preserve">
+                    <value>تا ساعت</value>
+                </data>
+<data name="Inactive" xml:space="preserve">
+                    <value>غیرفعال</value>
+                </data>
+<data name="active" xml:space="preserve">
+                    <value>فعال</value>
+                </data>
+<data name="Record" xml:space="preserve">
+                    <value>رکورد</value>
+                </data>
+<data name="The name of the group" xml:space="preserve">
+                    <value>نـام گروه</value>
+                </data>
+<data name="The end of the modal for setting user accesses in the parking lot" xml:space="preserve">
+                    <value>پایان مودال تنظیم دسترسی های کاربر در پارکینگ</value>
+                </data>
+<data name="Normal user" xml:space="preserve">
+                    <value>کاربر عادی</value>
+                </data>
+<data name="user" xml:space="preserve">
+                    <value>کاربر</value>
+                </data>
+<data name="the group" xml:space="preserve">
+                    <value>گـروه</value>
+                </data>
+<data name="Function" xml:space="preserve">
+                    <value>عملکرد</value>
+                </data>
+<data name="Search for the text you want" xml:space="preserve">
+                    <value>متن مورد نظر خود را جستجو نمایید</value>
+                </data>
+<data name="Answer" xml:space="preserve">
+                    <value>جواب</value>
+                </data>
+<data name="Condition" xml:space="preserve">
+                    <value>وضعیت</value>
+                </data>
+<data name="Record ID" xml:space="preserve">
+                    <value>شناسه رکورد</value>
+                </data>
+<data name="my name" xml:space="preserve">
+                    <value>نام منو</value>
+                </data>
+<data name="Modal start" xml:space="preserve">
+                    <value>شروع مودال</value>
+                </data>
+<data name="Inactive" xml:space="preserve">
+                    <value>غیر فعال</value>
+                </data>
+<data name="Search" xml:space="preserve">
+                    <value>جستجو</value>
+                </data>
+<data name="coming back" xml:space="preserve">
+                    <value>بازگشت</value>
+                </data>
+<data name="import" xml:space="preserve">
+                    <value>ایمپورت</value>
+                </data>
+<data name="from" xml:space="preserve">
+                    <value>از تاریخ</value>
+                </data>
+<data name="Import users from Excel file" xml:space="preserve">
+                    <value>ایمپورت کاربران از فایل اکسل</value>
+                </data>
+<data name="End of search modal" xml:space="preserve">
+                    <value>پایان مودال جستجو</value>
+                </data>
+<data name="Show tree menus" xml:space="preserve">
+                    <value>نمایش منو های درختی</value>
+                </data>
+<data name="Table" xml:space="preserve">
+                    <value>جدول</value>
+                </data>
+<data name="Define users" xml:space="preserve">
+                    <value>تعریف کاربران</value>
+                </data>
+<data name="confirmation" xml:space="preserve">
+                    <value>تایید</value>
+                </data>
+<data name="from the hour" xml:space="preserve">
+                    <value>از ساعت</value>
+                </data>
+<data name="Define groups" xml:space="preserve">
+                    <value>تعریف گروه ها</value>
+                </data>
+<data name="Guide" xml:space="preserve">
+                    <value>راهنما</value>
+                </data>
+<data name="Description" xml:space="preserve">
+                    <value>توضیحات</value>
+                </data>
+<data name="software name" xml:space="preserve">
+                    <value>نام نرم افزار</value>
+                </data>
+<data name="Senior user" xml:space="preserve">
+                    <value>کاربر ارشد</value>
+                </data>
+<data name="Entrance units of parking lots" xml:space="preserve">
+                    <value>واحدهای ورودی پارکینگ ها</value>
+                </data>

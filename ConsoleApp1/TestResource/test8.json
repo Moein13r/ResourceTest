@@ -1,0 +1,1740 @@
+{
+    "Words": [
+        {
+            "Persian": "آخرین زمان تخلیه اتوماتیک اطلاعات از دستگاه ها",
+            "English": "The last time of automatic data unloading from devices"
+        },
+        {
+            "Persian": "غیبت مجاز باشد",
+            "English": "Absence is allowed"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی اکسس برنامه مالی",
+            "English": "The coded path of the access database of the financial program"
+        },
+        {
+            "Persian": "از کارکرد کسر شود",
+            "English": "Deduct from work"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "در تعریف ارباب رجوع و پیمانکار دوربین نمایش داده شود",
+            "English": "The camera should be displayed in the definition of client and contractor"
+        },
+        {
+            "Persian": "ساعت شروع شام",
+            "English": "Dinner start time"
+        },
+        {
+            "Persian": "بر اساس طول ماه جاری",
+            "English": "Based on the length of the current month"
+        },
+        {
+            "Persian": "سایر",
+            "English": "other"
+        },
+        {
+            "Persian": "پست های مجاز در کارتابل",
+            "English": "Allowed posts in cartable"
+        },
+        {
+            "Persian": "بار تاخیر از اضافه کار کسر شود",
+            "English": "Deduct the delay charge from overtime"
+        },
+        {
+            "Persian": "ساعت پایان صبحانه",
+            "English": "End of breakfast"
+        },
+        {
+            "Persian": "کلمه عبور فعلی",
+            "English": "Current password"
+        },
+        {
+            "Persian": "همه پرسنل",
+            "English": "All personnel"
+        },
+        {
+            "Persian": "آچیلان در",
+            "English": "Achilan in"
+        },
+        {
+            "Persian": "درصد ماموریت",
+            "English": "Mission percentage"
+        },
+        {
+            "Persian": "آخرین زمان پشتیبان گیری از اطلاعات",
+            "English": "Last data backup time"
+        },
+        {
+            "Persian": "پیش فرض",
+            "English": "Assumption"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "پرسنل جانشین اجازه خروج در بازه جانشینی را دارند",
+            "English": "Substitute personnel are allowed to leave during the replacement period"
+        },
+        {
+            "Persian": "متن فیش پرینت در برنامه کنترل تردد",
+            "English": "The text of the printout in the traffic control program"
+        },
+        {
+            "Persian": "به ازای هر غذا در سلف پرینت مجزا داده شود",
+            "English": "Give a separate self-print for each meal"
+        },
+        {
+            "Persian": "از اضافه کار کسر شود",
+            "English": "be deducted from overtime"
+        },
+        {
+            "Persian": "نرم افزار فروردین",
+            "English": "April software"
+        },
+        {
+            "Persian": "از همه حالت ها در برنامه سلف سرویس آنلاین پرینت گرفته شود",
+            "English": "Print from all modes in the online self-service program"
+        },
+        {
+            "Persian": "کل گروه های زیرمجموعه",
+            "English": "All subgroups"
+        },
+        {
+            "Persian": "ماموریت بر اساس",
+            "English": "Mission based"
+        },
+        {
+            "Persian": "برحسب دقیقه",
+            "English": "in minutes"
+        },
+        {
+            "Persian": "ساعت شروع نهار",
+            "English": "Lunch time"
+        },
+        {
+            "Persian": "حداقل فاصله بین ترددها",
+            "English": "Minimum distance between traffic"
+        },
+        {
+            "Persian": "امکان ثبت وضعیت ملاقات مراجعه کننده را دارند",
+            "English": "It is possible to register the visit status of the client"
+        },
+        {
+            "Persian": "پسوند فایل عکس پرسنل در برنامه",
+            "English": "File extension of personnel photo in the program"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "گشت و نگهبانی و پارکینگ",
+            "English": "Patrolling and guarding and parking"
+        },
+        {
+            "Persian": "صنایع دفاع",
+            "English": "defense industries"
+        },
+        {
+            "Persian": "تاریخ تغییرات",
+            "English": "Date of changes"
+        },
+        {
+            "Persian": "تا پرسنل",
+            "English": "up to personnel"
+        },
+        {
+            "Persian": "ورود کد ملی در کنترل تردد اجباری باشد",
+            "English": "It is mandatory to enter the national code in traffic control"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "نرم افزار حساب رایان",
+            "English": "Rayan account software"
+        },
+        {
+            "Persian": "هم در کسر کار ساعتی و هم در غیبت روزانه لحاظ شود",
+            "English": "It should be included in both hourly work deductions and daily absences"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "انتخاب نحوه نمایش گروه ها",
+            "English": "Choose how to display groups"
+        },
+        {
+            "Persian": "بر اساس طول دوره کارکرد",
+            "English": "Based on the length of the working period"
+        },
+        {
+            "Persian": "بعد از چند ثانیه فرم نمایش پیغام بسته شود",
+            "English": "After a few seconds, the message display form will be closed"
+        },
+        {
+            "Persian": "نرم افزار رای دانا",
+            "English": "Rai Dana software"
+        },
+        {
+            "Persian": "ایران خودرو",
+            "English": "Iran Khodro"
+        },
+        {
+            "Persian": "روزانه",
+            "English": "Daily"
+        },
+        {
+            "Persian": "دقیقه",
+            "English": "minutes"
+        },
+        {
+            "Persian": "بر اساس تنظیمات ایساکو",
+            "English": "Based on Isacco's settings"
+        },
+        {
+            "Persian": "از آخرین تردد صرف نظر شود",
+            "English": "Ignore the last traffic"
+        },
+        {
+            "Persian": "تعرفه در برنامه پارکینگ هر برحسب",
+            "English": "Tariff in each parking program"
+        },
+        {
+            "Persian": "مسیر ارتباط با سیستم مانیتورینگ",
+            "English": "Communication path with the monitoring system"
+        },
+        {
+            "Persian": "به مرخصی روزانه تبدیل شود",
+            "English": "become a daily leave"
+        },
+        {
+            "Persian": "در ماموریت باحقوق به اندازه طول شیفت",
+            "English": "In the mission with rights equal to the length of the shift"
+        },
+        {
+            "Persian": "گروه های ساخته شده",
+            "English": "Created groups"
+        },
+        {
+            "Persian": "کارکرد آن روز غیبت لحاظ نشود",
+            "English": "The function of that day of absence should not be considered"
+        },
+        {
+            "Persian": "غیبت غیرمجاز باشد",
+            "English": "Absence is not allowed"
+        },
+        {
+            "Persian": "طول قانون حضور",
+            "English": "Length of attendance rule"
+        },
+        {
+            "Persian": "خطاهای رخ داده در سیستم ذخیره شود",
+            "English": "The errors that occurred are stored in the system"
+        },
+        {
+            "Persian": "راهنما",
+            "English": "Guide"
+        },
+        {
+            "Persian": "یک روز کامل کاری",
+            "English": "A full working day"
+        },
+        {
+            "Persian": "کارکرد در روز ماموریت اضافه کار در نظر گرفته شود",
+            "English": "Working on the day of the mission should be considered overtime"
+        },
+        {
+            "Persian": "بر اساس تردد",
+            "English": "Based on traffic"
+        },
+        {
+            "Persian": "شرکت اس اچ اس",
+            "English": "SHS company"
+        },
+        {
+            "Persian": "نرم افزار پایا",
+            "English": "Stable software"
+        },
+        {
+            "Persian": "آنها را با علامت",
+            "English": "Mark them"
+        },
+        {
+            "Persian": "تنظیمات زندان مشهد",
+            "English": "Mashhad prison settings"
+        },
+        {
+            "Persian": "انتخاب نمایش پرینت در برگه مراجعه کننده",
+            "English": "Choosing to display the print in the client tab"
+        },
+        {
+            "Persian": "حداکثر زمان مجاز جهت سرو غذا",
+            "English": "Maximum time allowed to serve food"
+        },
+        {
+            "Persian": "بر اساس تنظیمات دانشگاه آزاد",
+            "English": "Based on Azad University settings"
+        },
+        {
+            "Persian": "مبلغ ماموریت ساعتی",
+            "English": "Hourly mission amount"
+        },
+        {
+            "Persian": "وب سرویس",
+            "English": "Web service"
+        },
+        {
+            "Persian": "تاریخ نصب",
+            "English": "Installation Date"
+        },
+        {
+            "Persian": "زمان اضافه کاری بعد از وقتی که نیاز به ثبت مجوز ندارد",
+            "English": "Overtime after the time that does not need to register a license"
+        },
+        {
+            "Persian": "حضور و غیاب ماداکتو",
+            "English": "Madakto's presence and absence"
+        },
+        {
+            "Persian": "منو",
+            "English": "Menu"
+        },
+        {
+            "Persian": "بازیابی فایل پشتیبان",
+            "English": "Backup file recovery"
+        },
+        {
+            "Persian": "مرخصی ساعتی بیش از",
+            "English": "Hourly leave over"
+        },
+        {
+            "Persian": "پیام گستر",
+            "English": "Payam Gostar"
+        },
+        {
+            "Persian": "درصد کسر کار ساعتی",
+            "English": "Hourly deduction percentage"
+        },
+        {
+            "Persian": "ترددهای نیتجن و ویردی در برنامه ویندوزی",
+            "English": "Netjen and Virdi traffic in Windows program"
+        },
+        {
+            "Persian": "آی پی سرور دستگاه نیتجن",
+            "English": "Netjen device server IP"
+        },
+        {
+            "Persian": "آی پی سرور دستگاه",
+            "English": "Device server IP"
+        },
+        {
+            "Persian": "ویرایش کننده درخواست",
+            "English": "Application editor"
+        },
+        {
+            "Persian": "شما مجاز به انجام این عملیات نیستید",
+            "English": "You are not authorized to perform this operation"
+        },
+        {
+            "Persian": "مشمول اضافه کار می شود",
+            "English": "Subject to overtime"
+        },
+        {
+            "Persian": "آدرس سرور اکتیو دایرکتوری",
+            "English": "Active Directory server address"
+        },
+        {
+            "Persian": "رنگ تردد ها در گزارش کارکرد جزئی نمایش داده شود",
+            "English": "The color of the traffics should be displayed in the partial performance report"
+        },
+        {
+            "Persian": "ثابت",
+            "English": "Fixed"
+        },
+        {
+            "Persian": "اعمال نشود",
+            "English": "Do not apply"
+        },
+        {
+            "Persian": "کاردکس و مانده مرخصی به ساعت و دقیقه نشان داده شود",
+            "English": "Cardex and leave balance should be shown in hours and minutes"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "تنظیمات کلی",
+            "English": "General settings"
+        },
+        {
+            "Persian": "سازنده درخواست و روسای وی",
+            "English": "Request maker and his bosses"
+        },
+        {
+            "Persian": "نهار و شام در وقت اضافه کاری از مدت اضافه کار کسر شود",
+            "English": "Lunch and dinner during overtime should be deducted from the overtime period"
+        },
+        {
+            "Persian": "مبلغ ماموریت روزانه",
+            "English": "Daily mission amount"
+        },
+        {
+            "Persian": "زمان انتظار برای اتصال به دستگاه های",
+            "English": "Waiting time to connect to devices"
+        },
+        {
+            "Persian": "نوع حضور",
+            "English": "type of presence"
+        },
+        {
+            "Persian": "در ورودی و خروجی پارکینگ",
+            "English": "At the entrance and exit of the parking lot"
+        },
+        {
+            "Persian": "نرم افزار محک",
+            "English": "Benchmark software"
+        },
+        {
+            "Persian": "کارکرد در روز مرخصی اضافه کار در نظر گرفته شود",
+            "English": "Working on a day off should be considered overtime"
+        },
+        {
+            "Persian": "اس ام اس تا خیر و غیبت بر اساس",
+            "English": "SMS to good and absence based"
+        },
+        {
+            "Persian": "متن مورد نظر خود را جستجو نمایید",
+            "English": "Search for the text you want"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "و",
+            "English": "And"
+        },
+        {
+            "Persian": "ارسال",
+            "English": "submit"
+        },
+        {
+            "Persian": "بر اساس شیفت",
+            "English": "Based on the shift"
+        },
+        {
+            "Persian": "بر اساس تنظیمات صحت عبور ماداکتو",
+            "English": "Based on Madakto pass accuracy settings"
+        },
+        {
+            "Persian": "شخصی سازی",
+            "English": "Personalization"
+        },
+        {
+            "Persian": "زمان اصلی تردد و زمان تردد ثبت شده موثر است",
+            "English": "The original travel time and recorded travel time are effective"
+        },
+        {
+            "Persian": "آفیس",
+            "English": "office"
+        },
+        {
+            "Persian": "بار تعجیل از اضافه کار کسر شود",
+            "English": "Be deducted from overtime"
+        },
+        {
+            "Persian": "شروع مودال تعداد روزهای دارای تردد ناقص",
+            "English": "Modal start number of days with incomplete traffic"
+        },
+        {
+            "Persian": "نرم افزار علم و صنعت",
+            "English": "Science and industry software"
+        },
+        {
+            "Persian": "مشمول تعطیل کاری می شود",
+            "English": "Subject to work holiday"
+        },
+        {
+            "Persian": "مرخصی",
+            "English": "Leave"
+        },
+        {
+            "Persian": "تنظیمات دوره ای سیستم",
+            "English": "Periodic system settings"
+        },
+        {
+            "Persian": "تعداد نمایش هر صفحه",
+            "English": "The number of views per page"
+        },
+        {
+            "Persian": "مجوزهای برنامه سلف سرویس چک شود",
+            "English": "Check the permissions of the self-service program"
+        },
+        {
+            "Persian": "مبلغ تعطیل کاری",
+            "English": "Holiday amount"
+        },
+        {
+            "Persian": "نام دستگاه تردد در کنار ساعت تردد نشان داده شود",
+            "English": "The name of the traffic device should be shown next to the traffic clock"
+        },
+        {
+            "Persian": "مسیر ذخیره فایل عکس پرسنل",
+            "English": "The path to save the personnel photo file"
+        },
+        {
+            "Persian": "ماموریت",
+            "English": "Mission"
+        },
+        {
+            "Persian": "نام منو را جستجو نمایید",
+            "English": "Search for the menu name"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی اس کیو ال مشتری جهت ذخیره اطلاعات",
+            "English": "The coded path of the client's SQL database to store information"
+        },
+        {
+            "Persian": "بر اساس طول سال",
+            "English": "Based on the length of the year"
+        },
+        {
+            "Persian": "تعطیلات بین غیبت مجاز جز",
+            "English": "Holidays between authorized absences except"
+        },
+        {
+            "Persian": "شروع مودال جستجو",
+            "English": "Start the search modal"
+        },
+        {
+            "Persian": "غیبت",
+            "English": "absence"
+        },
+        {
+            "Persian": "گرفتن فایل  پشتیبان",
+            "English": "Get the backup file"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی نیتجن",
+            "English": "Encoded path of Netgen database"
+        },
+        {
+            "Persian": "تمامی دستگاه ها در صفحه آنلاین خودرو به صورت اتوماتیک آنلاین شوند",
+            "English": "All devices are automatically online on the car's online page"
+        },
+        {
+            "Persian": "تنظیمات",
+            "English": "Settings"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "کارکرد در روز غیبت مجاز اضافه کار در نظر گرفته شود",
+            "English": "Working on the day of authorized absence should be considered overtime"
+        },
+        {
+            "Persian": "نرم افزار رایورز",
+            "English": "Rivers software"
+        },
+        {
+            "Persian": "شماره کارت ارباب رجوع به صورت اتوماتیک اختصاص یابد",
+            "English": "The client's card number will be assigned automatically"
+        },
+        {
+            "Persian": "مجمع تشخیص مصلحت نظام",
+            "English": "Expediency Council"
+        },
+        {
+            "Persian": "ساعت پایان نهار",
+            "English": "End of lunch"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی اوراکل مشتری جهت ایمپورت اطلاعات",
+            "English": "The coded path of the customer's Oracle database to import information"
+        },
+        {
+            "Persian": "ظرفیت گروه چک شود",
+            "English": "Check the capacity of the group"
+        },
+        {
+            "Persian": "نام پدر",
+            "English": "father's name"
+        },
+        {
+            "Persian": "کد نرم افزار",
+            "English": "Software code"
+        },
+        {
+            "Persian": "افزودن تردد به جدول",
+            "English": "Add traffic to the table"
+        },
+        {
+            "Persian": "جدولی",
+            "English": "tabular"
+        },
+        {
+            "Persian": "تفاوت ساعت به دقیقه",
+            "English": "Hour to minute difference"
+        },
+        {
+            "Persian": "ساعت پایان شام",
+            "English": "End of dinner"
+        },
+        {
+            "Persian": "در صورت کسر مرخصی بدون حقوق از کارکرد",
+            "English": "In case of deduction of unpaid leave from work"
+        },
+        {
+            "Persian": "مرخصی استعلاجی باشد",
+            "English": "Sick leave"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی ویردی",
+            "English": "Coded path of Virdi database"
+        },
+        {
+            "Persian": "تابع",
+            "English": "Function"
+        },
+        {
+            "Persian": "تنظیمات کیان خودرو",
+            "English": "Kian car settings"
+        },
+        {
+            "Persian": "فاصله زمانی خواندن تگ های",
+            "English": "Time interval of reading tags"
+        },
+        {
+            "Persian": "از پرسنل",
+            "English": "From personnel"
+        },
+        {
+            "Persian": "از تاریخ بازه دوره کارکرد چک شود",
+            "English": "Check from the date of the operating period"
+        },
+        {
+            "Persian": "پروتکل نرم",
+            "English": "Soft protocol"
+        },
+        {
+            "Persian": "تاریخ و ساعت پایان مجوز تردد بروزرسانی گردد",
+            "English": "The date and time of the end of the traffic permit should be updated"
+        },
+        {
+            "Persian": "مجوزهای کارتابل اعمال شود",
+            "English": "Cartable permissions apply"
+        },
+        {
+            "Persian": "از مرخصی کسر شود",
+            "English": "Deduct from leave"
+        },
+        {
+            "Persian": "بعد از افزودن رکورد در تعریف ارباب رجوع و پیمانکار برگه هم چاپ شود",
+            "English": "After adding the record in the definition of client and contractor, the sheet should also be printed"
+        },
+        {
+            "Persian": "ماداکتو",
+            "English": "Madakto"
+        },
+        {
+            "Persian": "ورژن آفیس نصب شده در سیستم",
+            "English": "Office version installed in the system"
+        },
+        {
+            "Persian": "مرخصی استحقاقی باشد",
+            "English": "Paid leave"
+        },
+        {
+            "Persian": "در هنگام ارسال درخواست ویرایش شده در کارتابل",
+            "English": "When submitting the edited request in Cartable"
+        },
+        {
+            "Persian": "ارسال اس ام اس غیبت برای همه قوانین حضور",
+            "English": "Send absence sms for all attendance rules"
+        },
+        {
+            "Persian": "ثانیه",
+            "English": "Seconds"
+        },
+        {
+            "Persian": "برحسب ریال",
+            "English": "in Rials"
+        },
+        {
+            "Persian": "مدت کاهش مرخصی استحقاقی به ازای هر روز بیش از",
+            "English": "The duration of reduced paid leave for each day over"
+        },
+        {
+            "Persian": "ساعتی بر اساس کارکرد ثابت",
+            "English": "hourly based on constant operation"
+        },
+        {
+            "Persian": "تاریخ و ساعت شروع و پایان مجوز تردد",
+            "English": "The date and time of the start and end of the traffic permit"
+        },
+        {
+            "Persian": "آی پی سرور پلاک خوان",
+            "English": "License plate reader server IP"
+        },
+        {
+            "Persian": "نوع محاسبه حقوق",
+            "English": "Type of salary calculation"
+        },
+        {
+            "Persian": "ماه مرخصی استعلاجی",
+            "English": "Sick leave month"
+        },
+        {
+            "Persian": "در هنگام ذخیره اطلاعات",
+            "English": "When saving data"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی اوراکل مشتری جهت ذخیره اطلاعات",
+            "English": "The coded path of the customer's Oracle database to store information"
+        },
+        {
+            "Persian": "تنظیمات کنترل دسترسی",
+            "English": "Access control settings"
+        },
+        {
+            "Persian": "مرخصی حادثه باشد",
+            "English": "Accident leave"
+        },
+        {
+            "Persian": "مرخصی و ماموریت",
+            "English": "Leave and mission"
+        },
+        {
+            "Persian": "تردد بعد از تایید اپراتور",
+            "English": "Traffic after operator approval"
+        },
+        {
+            "Persian": "ساده",
+            "English": "simple"
+        },
+        {
+            "Persian": "مانده مرخصی منفی",
+            "English": "Negative leave balance"
+        },
+        {
+            "Persian": "بیش از یک تردد یعنی حضور",
+            "English": "More than one traffic means presence"
+        },
+        {
+            "Persian": "در هنگام خروج ارباب رجوع",
+            "English": "When the client leaves"
+        },
+        {
+            "Persian": "برای دریافت اطلاعات بیشتر با واحد پشتیبانی و برای خرید نسخه بالاتر با واحد فروش تماس حاصل نمایید",
+            "English": "For more information, contact the support unit and contact the sales unit to purchase a higher version"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "جهت وارد کرد چند",
+            "English": "How many directions have you entered?"
+        },
+        {
+            "Persian": "ترددهای مشتریان",
+            "English": "Customer traffic"
+        },
+        {
+            "Persian": "بر اساس مقادیر پیش فرض ماداکتو",
+            "English": "Based on Madakto's default values"
+        },
+        {
+            "Persian": "فایل خروجی حقوق و دستمزد",
+            "English": "Salary output file"
+        },
+        {
+            "Persian": "درصد تعطیل کاری",
+            "English": "The percentage of work holidays"
+        },
+        {
+            "Persian": "مرخصی روزانه بر اساس  مقدار انتخابی از مانده مرخصی کم میشود",
+            "English": "Daily leave is deducted from the leave balance based on the selected amount"
+        },
+        {
+            "Persian": "آی پی های مجاز جهت استفاده در سرو غذا",
+            "English": "Allowed Ip for use in serving food"
+        },
+        {
+            "Persian": "بهزیستی خراسان رضوی",
+            "English": "Welfare of Khorasan Razavi"
+        },
+        {
+            "Persian": "تنظیمات شهرداری مشهد",
+            "English": "Mashhad municipality settings"
+        },
+        {
+            "Persian": "تکرار کلمه عبور جدید",
+            "English": "Repeat the new password"
+        },
+        {
+            "Persian": "لیست منو",
+            "English": "menu list"
+        },
+        {
+            "Persian": "اضافه کار مجاز",
+            "English": "Allowed overtime"
+        },
+        {
+            "Persian": "امکان نمایش گزارش ارباب رجوع برای کاربران عادی تا",
+            "English": "The ability to display client reports for normal users"
+        },
+        {
+            "Persian": "فاصله فیلد های تا تاریخ و تا ساعت با بازه شروع",
+            "English": "The distance between the date and time fields with the start interval"
+        },
+        {
+            "Persian": "زمان واقعی تردد",
+            "English": "Real time traffic"
+        },
+        {
+            "Persian": "نوع بیمه",
+            "English": "Type of insurance"
+        },
+        {
+            "Persian": "پلاک خوان فعال باشد",
+            "English": "The license plate reader must be active"
+        },
+        {
+            "Persian": "نام چاپگر پیش فرض سیستم",
+            "English": "The name of the system default printer"
+        },
+        {
+            "Persian": "نام منو",
+            "English": "my name"
+        },
+        {
+            "Persian": "سازنده درخواست",
+            "English": "request builder"
+        },
+        {
+            "Persian": "لینک منو",
+            "English": "My link"
+        },
+        {
+            "Persian": "نام نرم افزار",
+            "English": "software name"
+        },
+        {
+            "Persian": "تعطیلات بین مرخصی سازمانی جز",
+            "English": "Holidays between organizational leave except"
+        },
+        {
+            "Persian": "تنظیمات جهاد تهران",
+            "English": "Jihad settings in Tehran"
+        },
+        {
+            "Persian": "وضعیت ملاقات",
+            "English": "meeting status"
+        },
+        {
+            "Persian": "ثبت شود",
+            "English": "be registered"
+        },
+        {
+            "Persian": "توضیحات منو",
+            "English": "Menu description"
+        },
+        {
+            "Persian": "کلیک روی دکمه جستجو",
+            "English": "Click on the search button"
+        },
+        {
+            "Persian": "بازه ثبت غیبت مجاز در کارتابل بین",
+            "English": "Allowed absence registration interval in Kartab Bin"
+        },
+        {
+            "Persian": "برگه محاسبه شود",
+            "English": "Calculate the sheet"
+        },
+        {
+            "Persian": "مبلغ اضافه کاری",
+            "English": "Overtime amount"
+        },
+        {
+            "Persian": "تلفن همراه",
+            "English": "Cellular phone"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "بر اساس تنظیمات انتقال خون",
+            "English": "Based on blood transfusion settings"
+        },
+        {
+            "Persian": "بر اساس تنظیمات ماداکتو",
+            "English": "Based on Madakto's settings"
+        },
+        {
+            "Persian": "امکان ثبت وضعیت ملاقات مراجعه کننده را دارد",
+            "English": "It is possible to record the visit status of the client"
+        },
+        {
+            "Persian": "جدول بیمه",
+            "English": "Insurance table"
+        },
+        {
+            "Persian": "مسیر ارتباطی جهت ارسال داده های تردد",
+            "English": "Communication path to send traffic data"
+        },
+        {
+            "Persian": "تعطیلات بین مرخصی استعلاجی جز",
+            "English": "Holidays between sick leave except"
+        },
+        {
+            "Persian": "لیست پرسنل",
+            "English": "Personal list"
+        },
+        {
+            "Persian": "پایان مودال جستجو",
+            "English": "End of search modal"
+        },
+        {
+            "Persian": "اضافه کار",
+            "English": "Overtime"
+        },
+        {
+            "Persian": "نوع مالیات",
+            "English": "Tax type"
+        },
+        {
+            "Persian": "مرخصی تشویقی افزوده گردد",
+            "English": "Incentive leave should be added"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی سوپریما",
+            "English": "Coded path of Suprema database"
+        },
+        {
+            "Persian": "تماس با پشتیبانی",
+            "English": "Contact support"
+        },
+        {
+            "Persian": "درصد اضافه کار",
+            "English": "Overtime percentage"
+        },
+        {
+            "Persian": "نرم افزار ماداکتو",
+            "English": "Madakto software"
+        },
+        {
+            "Persian": "نوع نمایش مقادیر پیش فرض فیلد های از تاریخ و تا تاریخ",
+            "English": "Display type of default values ​​of fields from date and to date"
+        },
+        {
+            "Persian": "آذرخش",
+            "English": "lightning"
+        },
+        {
+            "Persian": "رشته نام واحد و ملاقات شونده به ازای هر ملاقات شونده نشان داده شود",
+            "English": "The string of the name of the unit and the visitor should be shown for each visitor"
+        },
+        {
+            "Persian": "کل بازه دوره کارکرد چک شود",
+            "English": "Check the entire operation period"
+        },
+        {
+            "Persian": "عملیات کنترل تردد صرفا بر اساس شیفت بررسی شود",
+            "English": "Traffic control operations should be checked only on a shift basis"
+        },
+        {
+            "Persian": "مالیات صفر",
+            "English": "Zero tax"
+        },
+        {
+            "Persian": "مشمول کسر کار می شود",
+            "English": "It is subject to work deduction"
+        },
+        {
+            "Persian": "نوع تردد",
+            "English": "Type of traffic"
+        },
+        {
+            "Persian": "بازه ثبت اضافه کار در کارتابل بین",
+            "English": "Interval of recording overtime in Kartable Bin"
+        },
+        {
+            "Persian": "عملکرد",
+            "English": "Function"
+        },
+        {
+            "Persian": "مبلغ کسر کار ساعتی",
+            "English": "Hourly deduction amount"
+        },
+        {
+            "Persian": "کرمان موتور",
+            "English": "Kerman Motor"
+        },
+        {
+            "Persian": "فعال",
+            "English": "active"
+        },
+        {
+            "Persian": "اضافه کار و غیبت",
+            "English": "Overtime and absenteeism"
+        },
+        {
+            "Persian": "سفارشی پتروشیمی خراسان",
+            "English": "Khorasan Petrochemical Order"
+        },
+        {
+            "Persian": "بیمارستان رضوی",
+            "English": "Razavi Hospital"
+        },
+        {
+            "Persian": "مشمول غیبت می شود",
+            "English": "It is subject to absence"
+        },
+        {
+            "Persian": "نوع عملکرد سیستم حقوق و دستمزد",
+            "English": "The type of performance of the salary system"
+        },
+        {
+            "Persian": "به همه",
+            "English": "To all"
+        },
+        {
+            "Persian": "منوی والد",
+            "English": "Parent menu"
+        },
+        {
+            "Persian": "تنظیمات ماداکتو",
+            "English": "Modakto settings"
+        },
+        {
+            "Persian": "آزاد سازی کارت های روزهای قبل ارباب رجوع ها",
+            "English": "Releasing clients' previous days' cards"
+        },
+        {
+            "Persian": "بازه ثبت تردد در کارتابل بین",
+            "English": "Interval of traffic registration in Kartab Bin"
+        },
+        {
+            "Persian": "گاز قم",
+            "English": "Qom Gas"
+        },
+        {
+            "Persian": "در نمایش جدول و چاپ پرینت",
+            "English": "In table display and printout"
+        },
+        {
+            "Persian": "تایپ متن",
+            "English": "Type text"
+        },
+        {
+            "Persian": "انتخاب نحوه نمایش کاربران",
+            "English": "Choosing how to display users"
+        },
+        {
+            "Persian": "نرم افزار نماد ایران",
+            "English": "Iran icon software"
+        },
+        {
+            "Persian": "میزان شارژ سلف",
+            "English": "The charge level of the capacitor"
+        },
+        {
+            "Persian": "فایل خروجی خام تردد برای",
+            "English": "Raw traffic output file for"
+        },
+        {
+            "Persian": "گاز مشهد",
+            "English": "Mashhad Gas"
+        },
+        {
+            "Persian": "بخشوده شود",
+            "English": "be forgiven"
+        },
+        {
+            "Persian": "برای مسیر تعیین شده ارسال شود",
+            "English": "to be sent to the designated route"
+        },
+        {
+            "Persian": "تعداد غیبت",
+            "English": "number of absences"
+        },
+        {
+            "Persian": "کسر کار ماهانه کمتر از",
+            "English": "Monthly work deduction less than"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "خوابگاه",
+            "English": "Dorm"
+        },
+        {
+            "Persian": "مسیر کد شده بانک اطلاعاتی اس کیو ال مشتری جهت ایمپورت اطلاعات",
+            "English": "The coded path of the client's SQL database to import information"
+        },
+        {
+            "Persian": "مسیر وب سرویس ماداکتو",
+            "English": "Madakto web service path"
+        },
+        {
+            "Persian": "بازه ثبت ماموریت در کارتابل بین",
+            "English": "Mission registration interval in the bin folder"
+        },
+        {
+            "Persian": "نـام نرم افزار",
+            "English": "The name of the software"
+        },
+        {
+            "Persian": "آیکون",
+            "English": "icon"
+        },
+        {
+            "Persian": "نوع دستگاه در سیستم کنترل تردد چک شود",
+            "English": "Check the device type in the traffic control system"
+        },
+        {
+            "Persian": "نـام منو",
+            "English": "my name"
+        },
+        {
+            "Persian": "مدت صبحانه",
+            "English": "breakfast time"
+        },
+        {
+            "Persian": "الکتریک خودرو شرق",
+            "English": "East Electric Car"
+        },
+        {
+            "Persian": "گزینه ورود اتوماتیک به برنامه فعال باشد",
+            "English": "The option of automatic login to the program should be active"
+        },
+        {
+            "Persian": "به ازای هر اضافه کار روز تعطیل",
+            "English": "For every overtime on a holiday"
+        },
+        {
+            "Persian": "در صورت کسر مرخصی استعلاجی از کارکرد",
+            "English": "In case of deducting sick leave from work"
+        },
+        {
+            "Persian": "بر اساس تنظیمات سپاهان باتری",
+            "English": "Based on the settings of the battery corps"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "دسته",
+            "English": "Category"
+        },
+        {
+            "Persian": "تا تاریخ بازه دوره کارکرد چک شود",
+            "English": "To be checked by the date of the operating period"
+        },
+        {
+            "Persian": "کاربران هم سطح نشان داده شوند",
+            "English": "Users of the same level are shown"
+        },
+        {
+            "Persian": "در دیتابیس ماداکتو ذخیره شود",
+            "English": "be stored in Madakto's database"
+        },
+        {
+            "Persian": "سایپا",
+            "English": "Saipa"
+        },
+        {
+            "Persian": "دوره کارکرد مقصد",
+            "English": "Destination operating period"
+        },
+        {
+            "Persian": "نوع عملکرد برنامه ارباب رجوع بر اساس",
+            "English": "Based on client application performance type"
+        },
+        {
+            "Persian": "برق خراسان و نیروگاه طوس",
+            "English": "Khorasan electricity and Tus power plant"
+        },
+        {
+            "Persian": "در غیبت روزانه لحاظ شود",
+            "English": "To be included in the daily absence"
+        },
+        {
+            "Persian": "ماهانه بر اساس کسر کار ثابت",
+            "English": "Monthly based on fixed work deduction"
+        },
+        {
+            "Persian": "تاریخ انقضا چک شود",
+            "English": "Check the expiration date"
+        },
+        {
+            "Persian": "مرخصی سازمانی باشد",
+            "English": "Organizational leave"
+        },
+        {
+            "Persian": "مشمول ماموریت می شود",
+            "English": "It is included in the mission"
+        },
+        {
+            "Persian": "کد هوشمند",
+            "English": "Smart code"
+        },
+        {
+            "Persian": "ساعت تردد",
+            "English": "traffic hours"
+        },
+        {
+            "Persian": "افزار",
+            "English": "App"
+        },
+        {
+            "Persian": "نرم افزار همکاران سیستم",
+            "English": "System colleagues software"
+        },
+        {
+            "Persian": "کلمه عبور جدید",
+            "English": "New password"
+        },
+        {
+            "Persian": "بر اساس تنظیمات ایران خودرو",
+            "English": "Based on Iran Khodro settings"
+        },
+        {
+            "Persian": "بازه دوره کارکرد چک نشود",
+            "English": "Do not check the operation period"
+        },
+        {
+            "Persian": "اعمال شود",
+            "English": "Apply"
+        },
+        {
+            "Persian": "ماموریت باشد",
+            "English": "be a mission"
+        },
+        {
+            "Persian": "غیبت روزانه",
+            "English": "daily absence"
+        },
+        {
+            "Persian": "تعطیلات بین مرخصی حادثه جز",
+            "English": "Holidays between accident leave except"
+        },
+        {
+            "Persian": "زمان تایمر اتصال به دستگاه",
+            "English": "Device connection timer time"
+        },
+        {
+            "Persian": "زمان تاخیر باز کردن در به ثانیه",
+            "English": "Door opening delay time in seconds"
+        },
+        {
+            "Persian": "لیست آیتم های جدید",
+            "English": "List of new items"
+        },
+        {
+            "Persian": "مسیر فایل لوگوی نمایشی",
+            "English": "Display logo file path"
+        },
+        {
+            "Persian": "تردد فرد یعنی حضور",
+            "English": "A person's movement means presence"
+        },
+        {
+            "Persian": "تلفن",
+            "English": "Phone"
+        },
+        {
+            "Persian": "فقط یوزر ماداکتو بتواند تغییر دهد",
+            "English": "Only Madakto user can change"
+        },
+        {
+            "Persian": "نام و نام خانوادگی",
+            "English": "first name and last name"
+        },
+        {
+            "Persian": "سرور مشهد",
+            "English": "Mashhad server"
+        },
+        {
+            "Persian": "مرخصی بدون حقوق باشد",
+            "English": "Leave without pay"
+        },
+        {
+            "Persian": "بر اساس تنظیمات سایپا",
+            "English": "Based on Saipa settings"
+        },
+        {
+            "Persian": "هنگام خواندن ترددها",
+            "English": "When reading traffic"
+        },
+        {
+            "Persian": "کارت",
+            "English": "Card"
+        },
+        {
+            "Persian": "کسر کار",
+            "English": "low time work"
+        },
+        {
+            "Persian": "شناسه گروه خودرو جهت اختصاص کارت در حالت پارکینگ عمومی اتوماتیک",
+            "English": "Vehicle group ID to assign a card in automatic public parking mode"
+        },
+        {
+            "Persian": "کپی تنظیمات",
+            "English": "Copy settings"
+        },
+        {
+            "Persian": "محاسبه نشود",
+            "English": "Do not calculate"
+        },
+        {
+            "Persian": "نام و نام خانوادگی کاربر",
+            "English": "User name and surname"
+        },
+        {
+            "Persian": "غیرفعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "ترددهای حذف شده",
+            "English": "Deleted traffic"
+        },
+        {
+            "Persian": "بعد از بروزرسانی رکورد در تعریف ارباب رجوع و پیمانکار برگه هم چاپ شود",
+            "English": "After updating the record in the definition of the client and contractor, the sheet should also be printed"
+        },
+        {
+            "Persian": "در مرخصی سازمانی روزانه به اندازه طول شیفت",
+            "English": "On daily organizational leave equal to the length of the shift"
+        },
+        {
+            "Persian": "ساختار چند محیطی بر روی پرسنل نیز اعمال شود",
+            "English": "A multi-environmental structure should also be applied to personnel"
+        },
+        {
+            "Persian": "میادین نفتی سپهر",
+            "English": "Sepehr oil fields"
+        },
+        {
+            "Persian": "کل کاربران زیرمجموعه",
+            "English": "Total users of the subcategory"
+        },
+        {
+            "Persian": "تعطیلات بین مرخصی استحقاقی جز",
+            "English": "Holidays between paid leave except"
+        },
+        {
+            "Persian": "به ثانیه",
+            "English": "to seconds"
+        },
+        {
+            "Persian": "تاریخچه تردد",
+            "English": "Traffic history"
+        },
+        {
+            "Persian": "مرخصی براساس",
+            "English": "Leave based on"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "بیمه صفر",
+            "English": "Zero insurance"
+        },
+        {
+            "Persian": "در کسر کار ساعتی لحاظ شود",
+            "English": "be included in the deduction of hourly work"
+        },
+        {
+            "Persian": "نام کاربری",
+            "English": "user name"
+        },
+        {
+            "Persian": "تاریخ و ساعت جاری به صورت پیش فرض در فیلد های تاریخ و ساعت شروع مجوز تردد نمایش داده شود",
+            "English": "The current date and time should be displayed by default in the start date and time fields of the traffic permit"
+        },
+        {
+            "Persian": "نوع محاسبه مرخصی",
+            "English": "Leave calculation type"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "شماره شناسنامه",
+            "English": "Id"
+        },
+        {
+            "Persian": "مبلغ کارکرد ساعتی",
+            "English": "Hourly work amount"
+        },
+        {
+            "Persian": "ترددهای ناقص در گزارش غیبت نشان داده شود",
+            "English": "Incomplete traffic should be shown in the absence report"
+        },
+        {
+            "Persian": "میباشد",
+            "English": "is"
+        },
+        {
+            "Persian": "در مرخصی استحقاقی روزانه به اندازه طول شیفت",
+            "English": "On daily paid leave equal to the length of the shift"
+        },
+        {
+            "Persian": "بازه رزرو غذا بین",
+            "English": "Meal reservation interval between"
+        },
+        {
+            "Persian": "برای ورود و خروج ناقص",
+            "English": "For incomplete entry and exit"
+        },
+        {
+            "Persian": "حضور بیش از حد مجاز پرسنل بررسی و اعمال گردد",
+            "English": "The presence of more than the authorized personnel should be investigated and applied"
+        },
+        {
+            "Persian": "شماره پورت ارتباط وب سرویس با دستگاه",
+            "English": "The port number of the web service connection with the device"
+        },
+        {
+            "Persian": "دستگاه ها بر اساس واحد های سازمانی مجاز نمایش داده شوند",
+            "English": "Devices are displayed based on authorized organizational units"
+        },
+        {
+            "Persian": "براساس رزرو غذا",
+            "English": "Based on food reservation"
+        },
+        {
+            "Persian": "پشتیبان گیری از اطلاعات انجام شود",
+            "English": "Back up information"
+        },
+        {
+            "Persian": "با وارد کردن کد ملی اطلاعات مراجعه کننده نمایش داده شود",
+            "English": "By entering the national code, the client's information can be displayed"
+        },
+        {
+            "Persian": "ستون حضور در شیفت پر شود",
+            "English": "Fill in the shift attendance column"
+        },
+        {
+            "Persian": "تاریخ و ساعت ثبت",
+            "English": "Registration date and time"
+        },
+        {
+            "Persian": "میزان ساعات کارکرد یک روز به دقیقه",
+            "English": "The number of working hours per day per minute"
+        },
+        {
+            "Persian": "کسر کار ماهانه بیشتر از",
+            "English": "Monthly work deduction more than"
+        },
+        {
+            "Persian": "نوع غذادهی",
+            "English": "type of feeding"
+        },
+        {
+            "Persian": "محاسبه شود",
+            "English": "Calculate"
+        },
+        {
+            "Persian": "حقوق و دستمزد",
+            "English": "salary"
+        },
+        {
+            "Persian": "شما مجوز اکتیو دایرکتوری را ندارید",
+            "English": "You do not have Active Directory permissions"
+        },
+        {
+            "Persian": "سقف مرخصی منفی آخر ماه",
+            "English": "The limit of negative leave at the end of the month"
+        },
+        {
+            "Persian": "مسیر سرویس ذخیره عکس",
+            "English": "Photo storage service path"
+        },
+        {
+            "Persian": "ارسال ایمیل فعال باشد",
+            "English": "Email sending is active"
+        },
+        {
+            "Persian": "بیمارستان امام رضا",
+            "English": "Imam Reza Hospital"
+        },
+        {
+            "Persian": "تاریخ تردد",
+            "English": "Date of traffic"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "برحسب",
+            "English": "according to"
+        },
+        {
+            "Persian": "ارسال اس ام اس فعال باشد",
+            "English": "Send SMS is active"
+        },
+        {
+            "Persian": "قانون حضور",
+            "English": "law of presence"
+        },
+        {
+            "Persian": "کد منو",
+            "English": "menu code"
+        },
+        {
+            "Persian": "ذخیره و ارسال",
+            "English": "Save and send"
+        },
+        {
+            "Persian": "نرم افزار هلو",
+            "English": "Peach software"
+        },
+        {
+            "Persian": "درصد غیبت",
+            "English": "Absence percentage"
+        },
+        {
+            "Persian": "ریال",
+            "English": "Rials"
+        },
+        {
+            "Persian": "نرم افزار مهیمن",
+            "English": "Important software"
+        },
+        {
+            "Persian": "مدت کاهش مرخصی استحقاقی به ازای هر روز مرخصی بدون حقوق",
+            "English": "The duration of reduced paid leave for each day of unpaid leave"
+        },
+        {
+            "Persian": "از هم جدا کنید",
+            "English": "separate"
+        },
+        {
+            "Persian": "ایمیل",
+            "English": "email"
+        },
+        {
+            "Persian": "جدول مالیات",
+            "English": "Tax table"
+        },
+        {
+            "Persian": "مورد یافت نشد",
+            "English": "Item not found"
+        },
+        {
+            "Persian": "کاربران ساخته شده",
+            "English": "Created users"
+        },
+        {
+            "Persian": "تعطیلات بین مرخصی بدون حقوق جز",
+            "English": "Holidays between unpaid leave except"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "پرسنل ملاقات شونده",
+            "English": "Visiting personnel"
+        },
+        {
+            "Persian": "از تاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "محتوای نمایش در فیلد شخصی سازی",
+            "English": "Display content in the personalization field"
+        },
+        {
+            "Persian": "ماهانه",
+            "English": "monthly"
+        },
+        {
+            "Persian": "تعطیلات بین غیبت غیرمجاز جز",
+            "English": "Holidays between unauthorized absences except"
+        },
+        {
+            "Persian": "زمان تردد ثبت شده در سیستم موثر است",
+            "English": "The travel time recorded in the system is effective"
+        },
+        {
+            "Persian": "ساختار چند محیطی برای کاربران فعال باشد",
+            "English": "Multi-environment structure for active users"
+        },
+        {
+            "Persian": "مرخصی روزانه بر اساس",
+            "English": "Daily leave based on"
+        },
+        {
+            "Persian": "سالانه",
+            "English": "yearly"
+        },
+        {
+            "Persian": "نرم افزار",
+            "English": "software"
+        },
+        {
+            "Persian": "کد پرسنلی",
+            "English": "Personnel Code"
+        },
+        {
+            "Persian": "ساعت تغییرات",
+            "English": "Hour changes"
+        },
+        {
+            "Persian": "در برگه ارباب رجوع نظر سنجی با کد",
+            "English": "In the survey client tab with the code"
+        },
+        {
+            "Persian": "جستجو در فرم انتخاب پرسنل با",
+            "English": "Search in personnel selection form with"
+        },
+        {
+            "Persian": "شماره ترتیب منو",
+            "English": "Menu sequence number"
+        },
+        {
+            "Persian": "تردد محاسبه شود",
+            "English": "Traffic is calculated"
+        },
+        {
+            "Persian": "بازه ثبت مرخصی در کارتابل بین",
+            "English": "Leave registration interval in Kartab Bin"
+        },
+        {
+            "Persian": "تا تاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "شهرداری ها",
+            "English": "Municipalities"
+        },
+        {
+            "Persian": "تنظیم",
+            "English": "tuning"
+        },
+        {
+            "Persian": "دوره کارکرد",
+            "English": "period of operation"
+        },
+        {
+            "Persian": "تعداد ارقام شماره کارت",
+            "English": "The number of digits of the card number"
+        },
+        {
+            "Persian": "در خارج از وقت اداری",
+            "English": "Outside office hours"
+        },
+        {
+            "Persian": "فعالیت کاربر در سیستم ذخیره شود",
+            "English": "User activity is stored in the system"
+        },
+        {
+            "Persian": "کد دستگاه تردد در کنار ساعت تردد نشان داده شود",
+            "English": "The code of the traffic device should be shown next to the traffic clock"
+        },
+        {
+            "Persian": "کاراکتر جدا کننده در فایل حقوق و دستمزد",
+            "English": "The separator character in the salary file"
+        },
+        {
+            "Persian": "پرسنل ثبت کننده مراجعه کننده",
+            "English": "Referral registrar personnel"
+        },
+        {
+            "Persian": "تعداد تردد ناقص",
+            "English": "Incomplete traffic count"
+        },
+        {
+            "Persian": "ارسال اس ام اس تاخیر برای همه قوانین حضور",
+            "English": "Send SMS delay for all attendance rules"
+        },
+        {
+            "Persian": "تخلیه اتوماتیک اطلاعات از دستگاه ها انجام شود",
+            "English": "Automatic unloading of information from devices"
+        },
+        {
+            "Persian": "نحوه نمایش مجموع در گزارشات کارکرد جزئی و کلی",
+            "English": "How to display the total in partial and general performance reports"
+        },
+        {
+            "Persian": "آدرس وب سرویس صحت کد ملی",
+            "English": "Web address of the National Code Validity Service"
+        },
+        {
+            "Persian": "ساعت دستگاه با ساعت سرور تنظیم شود",
+            "English": "Set the device clock to the server clock"
+        },
+        {
+            "Persian": "زمان ثابت",
+            "English": "fixed time"
+        },
+        {
+            "Persian": "آیتم جدید",
+            "English": "New item"
+        },
+        {
+            "Persian": "تنظیمات دوره ای",
+            "English": "Periodic settings"
+        },
+        {
+            "Persian": "زمان استفاده از سالن چک شود",
+            "English": "Check the time of using the hall"
+        },
+        {
+            "Persian": "تایید کنندگان",
+            "English": "Approvers"
+        },
+        {
+            "Persian": "پایان مودال تعداد روزهای دارای تردد ناقص",
+            "English": "Modal end number of days with incomplete traffic"
+        },
+        {
+            "Persian": "تنظیمات کلی سیستم",
+            "English": "General system settings"
+        },
+        {
+            "Persian": "تعطیلات بین ماموریت جز",
+            "English": "Holidays between missions except"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "ساعت شروع صبحانه",
+            "English": "Breakfast start time"
+        },
+        {
+            "Persian": "سفارشی پالود پارسیان",
+            "English": "Ordered by Paloud Parsian"
+        },
+        {
+            "Persian": "ماهانه بر اساس کسر کار محاسباتی",
+            "English": "Monthly based on computing work deduction"
+        }
+    ]
+}

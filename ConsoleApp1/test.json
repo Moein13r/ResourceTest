@@ -1,0 +1,19 @@
+{
+    "titi":
+    [
+        {
+            "id":"1",
+            "EnrolNumber":"15",
+            "InoutMode":"2",
+            "persianDate":"1401/09/09",
+            "persianTime":"15:30"
+        },        
+        {
+            "id":"2",
+            "EnrolNumber":"15",
+            "InoutMode":"1",
+            "persianDate":"1401/09/09",
+            "persianTime":"16:30"
+        }
+    ]    
+}

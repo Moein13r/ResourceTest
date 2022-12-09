@@ -1,0 +1,716 @@
+{
+    "Words": [
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "شناسه رکورد",
+            "English": "Record ID"
+        },
+        {
+            "Persian": "تاریخ ورود",
+            "English": "entry date"
+        },
+        {
+            "Persian": "مرتب سازی",
+            "English": "Ordering"
+        },
+        {
+            "Persian": "بروز رسانی",
+            "English": "Update"
+        },
+        {
+            "Persian": "موتور",
+            "English": "Engine"
+        },
+        {
+            "Persian": "شروع",
+            "English": "Beginning"
+        },
+        {
+            "Persian": "خروج دا",
+            "English": "Exit Da"
+        },
+        {
+            "Persian": "دریافت تصویر",
+            "English": "Get the image"
+        },
+        {
+            "Persian": "پرداخت شده",
+            "English": "Paid"
+        },
+        {
+            "Persian": "ی",
+            "English": "Y"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "بسته",
+            "English": "Closed"
+        },
+        {
+            "Persian": "مبلغ جریمه",
+            "English": "The amount of fines"
+        },
+        {
+            "Persian": "اسکن فایل",
+            "English": "File scan"
+        },
+        {
+            "Persian": "ثبت جزییات کالا",
+            "English": "Registration of product details"
+        },
+        {
+            "Persian": "مرحله بعد",
+            "English": "next level"
+        },
+        {
+            "Persian": "شماره بارنامه",
+            "English": "freight number"
+        },
+        {
+            "Persian": "پرداخت جریمه",
+            "English": "Pay the fine"
+        },
+        {
+            "Persian": "محل ورود",
+            "English": "enterance"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "بازرسی",
+            "English": "Inspection"
+        },
+        {
+            "Persian": "پرداخت",
+            "English": "the payment"
+        },
+        {
+            "Persian": "تصویب کننده",
+            "English": "Approver"
+        },
+        {
+            "Persian": "تا مهلت بازگشت",
+            "English": "Until the return deadline"
+        },
+        {
+            "Persian": "ثبت کالا",
+            "English": "Product registration"
+        },
+        {
+            "Persian": "تایید شده",
+            "English": "confirmed"
+        },
+        {
+            "Persian": "پرداخت نشده",
+            "English": "unpaid"
+        },
+        {
+            "Persian": "ثبت  برگه جدید",
+            "English": "Register a new sheet"
+        },
+        {
+            "Persian": "محل",
+            "English": "Location"
+        },
+        {
+            "Persian": "تاریخ پرداخت",
+            "English": "date of payment"
+        },
+        {
+            "Persian": "کالا",
+            "English": "commodity"
+        },
+        {
+            "Persian": "نماینده ایمنی",
+            "English": "Safety representative"
+        },
+        {
+            "Persian": "نمایش",
+            "English": "the show"
+        },
+        {
+            "Persian": "درس سیستم",
+            "English": "System lesson"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "عنوان جریمه",
+            "English": "The title of the fine"
+        },
+        {
+            "Persian": "درحال پیگیری",
+            "English": "in progress"
+        },
+        {
+            "Persian": "نام جدول",
+            "English": "Name of the table"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "واحد کالا",
+            "English": "unit of goods"
+        },
+        {
+            "Persian": "ناظر کارفرما",
+            "English": "employer supervisor"
+        },
+        {
+            "Persian": "نظریه",
+            "English": "Theory"
+        },
+        {
+            "Persian": "كارتن",
+            "English": "cartoon"
+        },
+        {
+            "Persian": "نوع وسیله",
+            "English": "device type"
+        },
+        {
+            "Persian": "اضافه کالا",
+            "English": "Additional goods"
+        },
+        {
+            "Persian": "رد شده",
+            "English": "failed"
+        },
+        {
+            "Persian": "نام و نام خانوادگی کاربر",
+            "English": "User name and surname"
+        },
+        {
+            "Persian": "کد تخلف",
+            "English": "Violation code"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "نوع وسیله نقلیه",
+            "English": "Vehicle type"
+        },
+        {
+            "Persian": "خروجی فایل",
+            "English": "File output"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "نام فایل",
+            "English": "File name"
+        },
+        {
+            "Persian": "نماینده ذیحساب",
+            "English": "Responsible representative"
+        },
+        {
+            "Persian": "نماینده حمل و نقل",
+            "English": "Shipping agent"
+        },
+        {
+            "Persian": "برگه هایی که مهلت بازگشت",
+            "English": "Sheets that are due to return"
+        },
+        {
+            "Persian": "ثبت بازگشت کالا",
+            "English": "Registration of return of goods"
+        },
+        {
+            "Persian": "سازمان درخواست کننده",
+            "English": "Requesting organization"
+        },
+        {
+            "Persian": "جستجو سریع",
+            "English": "Quick search"
+        },
+        {
+            "Persian": "تاریخ درخواست",
+            "English": "date of application"
+        },
+        {
+            "Persian": "محل حادثه",
+            "English": "scene"
+        },
+        {
+            "Persian": "ساعت حادثه",
+            "English": "The time of the accident"
+        },
+        {
+            "Persian": "شروع مودال تاریخچه کالا",
+            "English": "Start the Item History Modal"
+        },
+        {
+            "Persian": "از مهلت بازگشت",
+            "English": "From the return deadline"
+        },
+        {
+            "Persian": "موبایل  راننده",
+            "English": "Driver's cell phone"
+        },
+        {
+            "Persian": "ساعت درخواست",
+            "English": "Request time"
+        },
+        {
+            "Persian": "اندازه فونت",
+            "English": "Font size"
+        },
+        {
+            "Persian": "شماره برگه",
+            "English": "sheet number"
+        },
+        {
+            "Persian": "نام منو",
+            "English": "my name"
+        },
+        {
+            "Persian": "ویرایش تاریخ های کالا",
+            "English": "Edit product dates"
+        },
+        {
+            "Persian": "نوع",
+            "English": "type"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "تغییر عنوان و ترتیب",
+            "English": "Change title and order"
+        },
+        {
+            "Persian": "وزن خودرو",
+            "English": "Vehicle weight"
+        },
+        {
+            "Persian": "شماره اموال",
+            "English": "Property number"
+        },
+        {
+            "Persian": "شماره قبض",
+            "English": "ticket number"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "نام محل ورود",
+            "English": "The name of the place of entry"
+        },
+        {
+            "Persian": "نام کالا",
+            "English": "Product Name"
+        },
+        {
+            "Persian": "م",
+            "English": "M"
+        },
+        {
+            "Persian": "نتیجه کمیته بررسی",
+            "English": "The result of the review committee"
+        },
+        {
+            "Persian": "مقدار",
+            "English": "the amount of"
+        },
+        {
+            "Persian": "متر",
+            "English": "Meter"
+        },
+        {
+            "Persian": "پایان مودال تاریخچه کالا",
+            "English": "End of Product History Modal"
+        },
+        {
+            "Persian": "ساعت بازگشت کالا",
+            "English": "Product return time"
+        },
+        {
+            "Persian": "کامیون",
+            "English": "Truck"
+        },
+        {
+            "Persian": "عملکرد رکورد",
+            "English": "Record performance"
+        },
+        {
+            "Persian": "وانت",
+            "English": "pickup truck"
+        },
+        {
+            "Persian": "عدد",
+            "English": "number"
+        },
+        {
+            "Persian": "عدم بازگشت",
+            "English": "no return"
+        },
+        {
+            "Persian": "مقدار کالا",
+            "English": "The amount of goods"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "واحد",
+            "English": "the unit"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "فیلتر گزارش",
+            "English": "Report filter"
+        },
+        {
+            "Persian": "کد",
+            "English": "code"
+        },
+        {
+            "Persian": "هر دو",
+            "English": "both"
+        },
+        {
+            "Persian": "لیتر",
+            "English": "Liter"
+        },
+        {
+            "Persian": "وسیله نقلیه",
+            "English": "Vehicle"
+        },
+        {
+            "Persian": "فونت",
+            "English": "Font"
+        },
+        {
+            "Persian": "تاریخ مهلت بازگشت",
+            "English": "Return deadline"
+        },
+        {
+            "Persian": "ساعت پرداخت",
+            "English": "payment hours"
+        },
+        {
+            "Persian": "نتیجه",
+            "English": "Result"
+        },
+        {
+            "Persian": "نوع گزارش",
+            "English": "Report type"
+        },
+        {
+            "Persian": "تا ساعت مهلت بازگشت",
+            "English": "Return by the deadline"
+        },
+        {
+            "Persian": "کد جریمه",
+            "English": "Penalty code"
+        },
+        {
+            "Persian": "نام راننده",
+            "English": "Driver's name"
+        },
+        {
+            "Persian": "درخواست کننده",
+            "English": "Applicant"
+        },
+        {
+            "Persian": "مرحله قبل",
+            "English": "previous stage"
+        },
+        {
+            "Persian": "وضعیت بازگشت کالا",
+            "English": "Return status"
+        },
+        {
+            "Persian": "خروج موقت",
+            "English": "Temporary exit"
+        },
+        {
+            "Persian": "عدم بازگشت در موعد مقرر",
+            "English": "Failure to return on time"
+        },
+        {
+            "Persian": "ول واحد مربوطه",
+            "English": "and the corresponding unit"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "تاریخ بازگشت کالا",
+            "English": "Product return date"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "ساعت ثبت تخلف",
+            "English": "Violation registration time"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "ورود موقت",
+            "English": "Temporary entry"
+        },
+        {
+            "Persian": "تصویر اسکن",
+            "English": "Scan image"
+        },
+        {
+            "Persian": "ورود دا",
+            "English": "The arrival of Da"
+        },
+        {
+            "Persian": "ایــران",
+            "English": "Iran"
+        },
+        {
+            "Persian": "خروج",
+            "English": "Exit"
+        },
+        {
+            "Persian": "ساعت",
+            "English": "the watch"
+        },
+        {
+            "Persian": "توضیحات کالا",
+            "English": "Product description"
+        },
+        {
+            "Persian": "نوع مصرف",
+            "English": "Type of use"
+        },
+        {
+            "Persian": "نتیجه اقدامات",
+            "English": "The result of actions"
+        },
+        {
+            "Persian": "ساعت وقوع",
+            "English": "time of occurrence"
+        },
+        {
+            "Persian": "نام و نام خانوادگی",
+            "English": "first name and last name"
+        },
+        {
+            "Persian": "بروزرسانی  لیست",
+            "English": "Update the list"
+        },
+        {
+            "Persian": "عنوان تخلف",
+            "English": "The title of the violation"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "تاریخ ثبت",
+            "English": "Date of Registration"
+        },
+        {
+            "Persian": "تنظیمات نمایش",
+            "English": "Display settings"
+        },
+        {
+            "Persian": "وضعیت پرداخت",
+            "English": "Payment status"
+        },
+        {
+            "Persian": "موبایل راننده",
+            "English": "Driver's cell phone"
+        },
+        {
+            "Persian": "زمایشگاه",
+            "English": "The experiment"
+        },
+        {
+            "Persian": "ترتیب",
+            "English": "order"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "تاریخ حادثه",
+            "English": "The date of the incident"
+        },
+        {
+            "Persian": "شماره گواهینامه",
+            "English": "license number"
+        },
+        {
+            "Persian": "فایل اکسل",
+            "English": "Excel file"
+        },
+        {
+            "Persian": "پرسنل نگهبان",
+            "English": "Guard personnel"
+        },
+        {
+            "Persian": "از ساعت مهلت بازگشت",
+            "English": "Return from the deadline"
+        },
+        {
+            "Persian": "اعمال",
+            "English": "actions"
+        },
+        {
+            "Persian": "تاریخ و زمان فعالیت",
+            "English": "Date and time of activity"
+        },
+        {
+            "Persian": "خودرویی",
+            "English": "a car"
+        },
+        {
+            "Persian": "نام محل",
+            "English": "place name"
+        },
+        {
+            "Persian": "تغییر عنوان و ترتیب گزینه ها در گزارش",
+            "English": "Changing the title and order of options in the report"
+        },
+        {
+            "Persian": "شروع  مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "شماره پلاک",
+            "English": "Number plates"
+        },
+        {
+            "Persian": "تاریخ وقوع",
+            "English": "date of occurrence"
+        },
+        {
+            "Persian": "تاریخ اخرین ویرایش",
+            "English": "The date of the last revision"
+        },
+        {
+            "Persian": "ساعت ورود",
+            "English": "entrance time"
+        },
+        {
+            "Persian": "گزارش جز",
+            "English": "The report of"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "نام گزارش",
+            "English": "The name of the report"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "سواری",
+            "English": "Riding"
+        },
+        {
+            "Persian": "زمایش",
+            "English": "his time"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "شماره ثبت",
+            "English": "registration number"
+        },
+        {
+            "Persian": "فایل تکست",
+            "English": "Text file"
+        },
+        {
+            "Persian": "نوع عملیات",
+            "English": "The type of operation"
+        },
+        {
+            "Persian": "كيلو گرم",
+            "English": "kilogram"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "تنظیمات گزارش",
+            "English": "Report settings"
+        },
+        {
+            "Persian": "ساعت مهلت بازگشت",
+            "English": "Return deadline"
+        },
+        {
+            "Persian": "گزارشهای موجود",
+            "English": "Available reports"
+        },
+        {
+            "Persian": "خروج کالا",
+            "English": "goods departure"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "پایان  مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "آن ها به اتمام رسیده",
+            "English": "It has been completed"
+        },
+        {
+            "Persian": "نام نرم افزار",
+            "English": "software name"
+        },
+        {
+            "Persian": "مس",
+            "English": "copper"
+        }
+    ]
+}

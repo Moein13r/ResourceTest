@@ -1,0 +1,1116 @@
+{
+    "Words": [
+        {
+            "Persian": "روز",
+            "English": "Day"
+        },
+        {
+            "Persian": "پایان مودال نام لیست سیاه",
+            "English": "end modal name blacklist"
+        },
+        {
+            "Persian": "دوشنبه",
+            "English": "Monday"
+        },
+        {
+            "Persian": "گروه خودرو",
+            "English": "Car group"
+        },
+        {
+            "Persian": "فایل اکسل",
+            "English": "Excel file"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه   شروع",
+            "English": "Search and select the starting device"
+        },
+        {
+            "Persian": "شماره ملی",
+            "English": "National number"
+        },
+        {
+            "Persian": "چاپ فیش",
+            "English": "Receipt printing"
+        },
+        {
+            "Persian": "پایان  مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "شماره ارجاع",
+            "English": "Reference"
+        },
+        {
+            "Persian": "دارای اپراتور",
+            "English": "Has an operator"
+        },
+        {
+            "Persian": "پایان مودال اختصاص دستگاه",
+            "English": "End of device assignment modal"
+        },
+        {
+            "Persian": "تعریف دوربین",
+            "English": "Definition of camera"
+        },
+        {
+            "Persian": "تاکسی",
+            "English": "Taxi"
+        },
+        {
+            "Persian": "عنوان پیام",
+            "English": "Message title"
+        },
+        {
+            "Persian": "تاریخ  خروج",
+            "English": "date of departure"
+        },
+        {
+            "Persian": "نام واحد",
+            "English": "Unit Name"
+        },
+        {
+            "Persian": "دقیقه حضور را مشخص می کند",
+            "English": "Specifies the minutes of attendance"
+        },
+        {
+            "Persian": "اندازه فونت",
+            "English": "Font size"
+        },
+        {
+            "Persian": "نام پارکینگ",
+            "English": "The name of the parking lot"
+        },
+        {
+            "Persian": "درصدی",
+            "English": "percentage"
+        },
+        {
+            "Persian": "مبلغ تخفیف",
+            "English": "The amount of discount"
+        },
+        {
+            "Persian": "عضو غیرفعال",
+            "English": "inactive member"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "آدرس ذخیره سازی عکس های بارکد",
+            "English": "Barcode photo storage address"
+        },
+        {
+            "Persian": "تاریخ و زمان ورود",
+            "English": "Date and time of arrival"
+        },
+        {
+            "Persian": "بروزرسانی  لیست مالیات",
+            "English": "Update tax list"
+        },
+        {
+            "Persian": "ظرفیت",
+            "English": "Capacity"
+        },
+        {
+            "Persian": "ثبت گروه خودرو",
+            "English": "Vehicle group registration"
+        },
+        {
+            "Persian": "پنج شنبه",
+            "English": "Thursday"
+        },
+        {
+            "Persian": "مالیات",
+            "English": "tax"
+        },
+        {
+            "Persian": "روزهای مجاز هفته",
+            "English": "Allowed days of the week"
+        },
+        {
+            "Persian": "شروع مودال ورودی  و خروجی پارکینگ",
+            "English": "The start of the entry and exit modal of the parking lot"
+        },
+        {
+            "Persian": "مجهز به راه بند",
+            "English": "Equipped with roadblock"
+        },
+        {
+            "Persian": "نام  خودرو",
+            "English": "car name"
+        },
+        {
+            "Persian": "تلفن",
+            "English": "Phone"
+        },
+        {
+            "Persian": "شنبه",
+            "English": "Saturday"
+        },
+        {
+            "Persian": "نام تخفیف",
+            "English": "discount name"
+        },
+        {
+            "Persian": "حداکثر زمان مجاز اولیه حضور خودرو را مشخص میکند",
+            "English": "It specifies the maximum initial time allowed for the presence of the vehicle"
+        },
+        {
+            "Persian": "مرتب سازی",
+            "English": "Ordering"
+        },
+        {
+            "Persian": "تخفیف",
+            "English": "Discount"
+        },
+        {
+            "Persian": "نام  لیست",
+            "English": "The name of the list"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "مبلغ کل شارژ",
+            "English": "Total charge amount"
+        },
+        {
+            "Persian": "سفید",
+            "English": "white"
+        },
+        {
+            "Persian": "تعریف دستگاه",
+            "English": "Device definition"
+        },
+        {
+            "Persian": "خودروهای موجود در لیست",
+            "English": "Cars in the list"
+        },
+        {
+            "Persian": "مجهز به تابلوی نمایش اطلاعات",
+            "English": "Equipped with an information display board"
+        },
+        {
+            "Persian": "سیاسی",
+            "English": "political"
+        },
+        {
+            "Persian": "ویژه معلولین و جانبازین",
+            "English": "Especially for the disabled and veterans"
+        },
+        {
+            "Persian": "تا تاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "نمایش اولین بلوک خالی",
+            "English": "Display the first empty block"
+        },
+        {
+            "Persian": "سه شنبه",
+            "English": "Tuesday"
+        },
+        {
+            "Persian": "شروع مودال نام لیست سیاه",
+            "English": "Start the blacklist name modal"
+        },
+        {
+            "Persian": "روزانه ثابت",
+            "English": "Fixed daily"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "تعرفه",
+            "English": "Tariff"
+        },
+        {
+            "Persian": "پایان مودال اختصاص کارت",
+            "English": "End of card allocation mode"
+        },
+        {
+            "Persian": "غیرفعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "نوع پلاک خودروها",
+            "English": "The type of license plate of cars"
+        },
+        {
+            "Persian": "منحنی",
+            "English": "curve"
+        },
+        {
+            "Persian": "فعال",
+            "English": "active"
+        },
+        {
+            "Persian": "از تاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "تاریخ ورود",
+            "English": "entry date"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "آخرین بروزرسانی",
+            "English": "last update"
+        },
+        {
+            "Persian": "کد پیام",
+            "English": "Message code"
+        },
+        {
+            "Persian": "ظرفیت پارکینگ",
+            "English": "Parking capacity"
+        },
+        {
+            "Persian": "فونت",
+            "English": "Font"
+        },
+        {
+            "Persian": "تخفیف های خودرو",
+            "English": "Car discounts"
+        },
+        {
+            "Persian": "ظرفیت روز",
+            "English": "Day capacity"
+        },
+        {
+            "Persian": "باقیمانده شارژ",
+            "English": "Remaining charge"
+        },
+        {
+            "Persian": "تا کارت",
+            "English": "up to the card"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "تردد موفق",
+            "English": "Successful traffic"
+        },
+        {
+            "Persian": "حداقل زمان برای خواندن مجدد کارت",
+            "English": "Minimum time to read the card again"
+        },
+        {
+            "Persian": "نام دوربین",
+            "English": "Camera name"
+        },
+        {
+            "Persian": "ساعتی",
+            "English": "an hour"
+        },
+        {
+            "Persian": "کد پستی",
+            "English": "Postal code"
+        },
+        {
+            "Persian": "یک شنبه",
+            "English": "a saturday"
+        },
+        {
+            "Persian": "شروع مودال تعریف بلوک",
+            "English": "Start of block definition modal"
+        },
+        {
+            "Persian": "دستگاه",
+            "English": "device"
+        },
+        {
+            "Persian": "شماره پلاک خودرو",
+            "English": "Vehicle license plate number"
+        },
+        {
+            "Persian": "حداکثر زمان مجاز",
+            "English": "Maximum time allowed"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "پارکینگ",
+            "English": "Parking"
+        },
+        {
+            "Persian": "میله ای",
+            "English": "Bar"
+        },
+        {
+            "Persian": "خودروهای",
+            "English": "Cars"
+        },
+        {
+            "Persian": "تردد تکراری",
+            "English": "Repetitive traffic"
+        },
+        {
+            "Persian": "ساعت ارسال",
+            "English": "Shipping time"
+        },
+        {
+            "Persian": "مبلغ کل",
+            "English": "Total Amount"
+        },
+        {
+            "Persian": "نام بلوک",
+            "English": "Block name"
+        },
+        {
+            "Persian": "عنوان  فاکتور",
+            "English": "invoice title"
+        },
+        {
+            "Persian": "پایان مودال تعریف بلوک",
+            "English": "End of block definition modal"
+        },
+        {
+            "Persian": "چاپ سریع",
+            "English": "Fast printing"
+        },
+        {
+            "Persian": "دقیقه",
+            "English": "minutes"
+        },
+        {
+            "Persian": "حداقل شارژ",
+            "English": "Minimum charge"
+        },
+        {
+            "Persian": "ماه جاری",
+            "English": "current month"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "ساعت ورود",
+            "English": "entrance time"
+        },
+        {
+            "Persian": "نحوه ورود اطلاعات",
+            "English": "How to enter information"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه",
+            "English": "Search and select device"
+        },
+        {
+            "Persian": "عدم حضور در لیست سفید",
+            "English": "Not being on the white list"
+        },
+        {
+            "Persian": "مالیات های خودرو",
+            "English": "Car taxes"
+        },
+        {
+            "Persian": "پایان مودال ورودی  و خروجی پارکینگ",
+            "English": "The end of the entrance and exit modal of the parking lot"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "نظامی",
+            "English": "Military"
+        },
+        {
+            "Persian": "عبور از حداکثر شارژ",
+            "English": "Passing the maximum charge"
+        },
+        {
+            "Persian": "نوع تخفیف",
+            "English": "Discount type"
+        },
+        {
+            "Persian": "تعرفه های خودرو",
+            "English": "Car tariffs"
+        },
+        {
+            "Persian": "هزینه پارک خودرو به ازای کل حداکثر زمان مجاز را مشخص می کند",
+            "English": "The car parking fee determines the total maximum allowed time"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "بروزرسانی  لیست گروه خودرو",
+            "English": "Updating the car group list"
+        },
+        {
+            "Persian": "تاریخ خروج",
+            "English": "date of departure"
+        },
+        {
+            "Persian": "تاریخ  ورود",
+            "English": "entry date"
+        },
+        {
+            "Persian": "شروع مودال انتخاب چندتایی در شماره کارت",
+            "English": "Start of multiple choice modal in card number"
+        },
+        {
+            "Persian": "خودرو",
+            "English": "car"
+        },
+        {
+            "Persian": "جستجو بر اساس",
+            "English": "search by"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "اختصاص دستگاه",
+            "English": "Device assignment"
+        },
+        {
+            "Persian": "خروجی فایل",
+            "English": "File output"
+        },
+        {
+            "Persian": "پایان مودال مکان های پارک در پارکینگ",
+            "English": "Modal end of parking places in the parking lot"
+        },
+        {
+            "Persian": "رنگ خودرو",
+            "English": "car color"
+        },
+        {
+            "Persian": "پایان  مودال انتخاب تکی در شماره کارت",
+            "English": "End of single selection modal on card number"
+        },
+        {
+            "Persian": "سهم مستاجر",
+            "English": "Tenant's share"
+        },
+        {
+            "Persian": "دولتی",
+            "English": "Governmental"
+        },
+        {
+            "Persian": "حداکثر شارژ منفی",
+            "English": "Maximum negative charge"
+        },
+        {
+            "Persian": "ساعت غیر مجاز",
+            "English": "Unauthorized hours"
+        },
+        {
+            "Persian": "از تاریخ  ورود",
+            "English": "From the date of arrival"
+        },
+        {
+            "Persian": "تولید عکس های بارکد",
+            "English": "Production of barcode photos"
+        },
+        {
+            "Persian": "ثبت تردد برای کارت ازاد",
+            "English": "Traffic registration for Azad card"
+        },
+        {
+            "Persian": "ماه قبل",
+            "English": "last month"
+        },
+        {
+            "Persian": "شماره پیگیری",
+            "English": "Issue Tracking"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "نمایش",
+            "English": "the show"
+        },
+        {
+            "Persian": "بروزرسانی  لیست دستگاه",
+            "English": "Update device list"
+        },
+        {
+            "Persian": "نام گروه خودرو",
+            "English": "Name of the car group"
+        },
+        {
+            "Persian": "جمعه",
+            "English": "Friday"
+        },
+        {
+            "Persian": "مجهز به دوربین",
+            "English": "Equipped with a camera"
+        },
+        {
+            "Persian": "هزینه به ازای هر دقیقه حضور",
+            "English": "Cost per minute of attendance"
+        },
+        {
+            "Persian": "آدرس لوگوی سازمان",
+            "English": "Organization logo address"
+        },
+        {
+            "Persian": "اختصاص خودرو",
+            "English": "car allocation"
+        },
+        {
+            "Persian": "جستجوی سریع",
+            "English": "Quick search"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "شماره اقتصادی",
+            "English": "Economical number"
+        },
+        {
+            "Persian": "زمان",
+            "English": "Time"
+        },
+        {
+            "Persian": "شروع مودال انتخاب گروه خودروها",
+            "English": "Start of the vehicle group selection modal"
+        },
+        {
+            "Persian": "حداقل شارژ منفی",
+            "English": "Minimum negative charge"
+        },
+        {
+            "Persian": "شروع  مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "بروزرسانی  لیست دوربین",
+            "English": "Update camera list"
+        },
+        {
+            "Persian": "هزینه مازاد پارک خودرو به ازای",
+            "English": "Excess car parking fee per"
+        },
+        {
+            "Persian": "هزینه ورودی",
+            "English": "entrance fee"
+        },
+        {
+            "Persian": "کد تعرفه",
+            "English": "Tariff code"
+        },
+        {
+            "Persian": "ی",
+            "English": "Y"
+        },
+        {
+            "Persian": "نام پلاک",
+            "English": "name plate"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "جستجو و انتخاب کارت",
+            "English": "Search and select card"
+        },
+        {
+            "Persian": "اختصاص تعرفه",
+            "English": "Allocation of tariff"
+        },
+        {
+            "Persian": "شارژ ناکافی",
+            "English": "Insufficient charge"
+        },
+        {
+            "Persian": "پایان مودال انتخاب چندتایی در  شماره کارت",
+            "English": "End of multiple choice modal in card number"
+        },
+        {
+            "Persian": "چهارشنبه",
+            "English": "Wednesday"
+        },
+        {
+            "Persian": "دوربین",
+            "English": "Camera"
+        },
+        {
+            "Persian": "نبود حداقل شارژ",
+            "English": "No minimum charge"
+        },
+        {
+            "Persian": "لیست کارت ها",
+            "English": "List of cards"
+        },
+        {
+            "Persian": "تعریف بلوک",
+            "English": "Block definition"
+        },
+        {
+            "Persian": "نوع تعرفه",
+            "English": "Tariff type"
+        },
+        {
+            "Persian": "خطای تنظیماتی",
+            "English": "Configuration error"
+        },
+        {
+            "Persian": "از کارت",
+            "English": "from card"
+        },
+        {
+            "Persian": "اجازه تردد بر اساس لیست",
+            "English": "Traffic permission based on the list"
+        },
+        {
+            "Persian": "نام گزارش",
+            "English": "The name of the report"
+        },
+        {
+            "Persian": "پایان مودال اختصاص دوربین",
+            "English": "End of camera assignment modal"
+        },
+        {
+            "Persian": "اختصاص کارت",
+            "English": "card assignment"
+        },
+        {
+            "Persian": "نام صاحب ماشین",
+            "English": "Name of the car owner"
+        },
+        {
+            "Persian": "ظرفیت تکمیل",
+            "English": "Completion capacity"
+        },
+        {
+            "Persian": "شروع مودال اختصاص دوربین",
+            "English": "Start the camera assignment modal"
+        },
+        {
+            "Persian": "شماره پلاک",
+            "English": "Number plates"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "مبلغ",
+            "English": "Amount"
+        },
+        {
+            "Persian": "حالت های مانیتورینگ",
+            "English": "Monitoring modes"
+        },
+        {
+            "Persian": "تاریخ و زمان خروج",
+            "English": "Departure date and time"
+        },
+        {
+            "Persian": "تاریخ اعتبار تعرفه",
+            "English": "Tariff validity date"
+        },
+        {
+            "Persian": "بروزرسانی  لیست تخفیف",
+            "English": "Update discount list"
+        },
+        {
+            "Persian": "نوع  لیست",
+            "English": "List type"
+        },
+        {
+            "Persian": "از شماره",
+            "English": "From the number"
+        },
+        {
+            "Persian": "نام  پارکینگ",
+            "English": "The name of the parking lot"
+        },
+        {
+            "Persian": "روز غیرمجاز",
+            "English": "Unauthorized day"
+        },
+        {
+            "Persian": "روز قبل",
+            "English": "The day before"
+        },
+        {
+            "Persian": "لیست سیاه",
+            "English": "black list"
+        },
+        {
+            "Persian": "ساعت تخصیص",
+            "English": "Allocation time"
+        },
+        {
+            "Persian": "هفته قبل",
+            "English": "last week"
+        },
+        {
+            "Persian": "شروع مودال اختصاص دستگاه",
+            "English": "Start the device assignment modal"
+        },
+        {
+            "Persian": "ثبت تردد برای پرسنل",
+            "English": "Traffic registration for personnel"
+        },
+        {
+            "Persian": "گزارش پارکینگ منحنی",
+            "English": "Curve parking report"
+        },
+        {
+            "Persian": "ارسال پیامک برای کارت های اعتباری",
+            "English": "Send SMS for credit cards"
+        },
+        {
+            "Persian": "حاضر در مجموعه",
+            "English": "Present in the collection"
+        },
+        {
+            "Persian": "کد دستگاه",
+            "English": "Device code"
+        },
+        {
+            "Persian": "حضور در لیست سیاه",
+            "English": "Being on the black list"
+        },
+        {
+            "Persian": "شروع مودال انتخاب تکی در شماره کارت",
+            "English": "Start single selection modal on card number"
+        },
+        {
+            "Persian": "چاپ اطلاعات",
+            "English": "Print information"
+        },
+        {
+            "Persian": "شروع مودال اختصاص کارت",
+            "English": "Start the card assignment module"
+        },
+        {
+            "Persian": "موتور سیکلت",
+            "English": "motorcycle"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "تا تاریخ خروج",
+            "English": "Until the departure date"
+        },
+        {
+            "Persian": "نام تعرفه",
+            "English": "tariff name"
+        },
+        {
+            "Persian": "انتخاب گروه خودروها",
+            "English": "Select a group of cars"
+        },
+        {
+            "Persian": "مدت زمان",
+            "English": "period of time"
+        },
+        {
+            "Persian": "پایان مودال انتخاب گروه خودروها",
+            "English": "End of the vehicle group selection modal"
+        },
+        {
+            "Persian": "نام بخش",
+            "English": "Department Name"
+        },
+        {
+            "Persian": "اتمام عضویت",
+            "English": "End of membership"
+        },
+        {
+            "Persian": "عادی",
+            "English": "normal"
+        },
+        {
+            "Persian": "کاربر",
+            "English": "user"
+        },
+        {
+            "Persian": "تردد",
+            "English": "traffic"
+        },
+        {
+            "Persian": "نام لیست",
+            "English": "The name of the list"
+        },
+        {
+            "Persian": "نوع پرداخت",
+            "English": "payment type"
+        },
+        {
+            "Persian": "اختصاص دوربین",
+            "English": "Camera assignment"
+        },
+        {
+            "Persian": "نام دستگاه",
+            "English": "device name"
+        },
+        {
+            "Persian": "تا شماره",
+            "English": "up to no"
+        },
+        {
+            "Persian": "مبلغ شارژ شده",
+            "English": "Charged amount"
+        },
+        {
+            "Persian": "ریال",
+            "English": "Rials"
+        },
+        {
+            "Persian": "تاریخ آخرین بروزرسانی",
+            "English": "Date of last update"
+        },
+        {
+            "Persian": "کارت",
+            "English": "Card"
+        },
+        {
+            "Persian": "لیست سفید",
+            "English": "White list"
+        },
+        {
+            "Persian": "پایان مودال اختصاص تعرفه",
+            "English": "End of tariff allocation modal"
+        },
+        {
+            "Persian": "نام صاحب خودرو",
+            "English": "Name of the car owner"
+        },
+        {
+            "Persian": "شروع مودال اختصاص تعرفه",
+            "English": "Start of tariff assignment modal"
+        },
+        {
+            "Persian": "نوع پلاک خودرو",
+            "English": "Type of license plate"
+        },
+        {
+            "Persian": "تشریفات",
+            "English": "Ceremonies"
+        },
+        {
+            "Persian": "کد تخفیف",
+            "English": "discount code"
+        },
+        {
+            "Persian": "شروع مودال مکان های پارک در پارکینگ",
+            "English": "Modal start of parking places in the parking lot"
+        },
+        {
+            "Persian": "تردد روز",
+            "English": "daily traffic"
+        },
+        {
+            "Persian": "مبلغ مالیات",
+            "English": "Tax amount"
+        },
+        {
+            "Persian": "گزارشهای موجود",
+            "English": "Available reports"
+        },
+        {
+            "Persian": "ریالی",
+            "English": "Rial"
+        },
+        {
+            "Persian": "متن پیام",
+            "English": "Message text"
+        },
+        {
+            "Persian": "افزدون به لیست",
+            "English": "Add to list"
+        },
+        {
+            "Persian": "هفته جاری",
+            "English": "current week"
+        },
+        {
+            "Persian": "مکان های پارک در پارکینگ",
+            "English": "Parking places in the parking lot"
+        },
+        {
+            "Persian": "واحد سازمانی",
+            "English": "Organizational Unit"
+        },
+        {
+            "Persian": "تاریخ آخرین بروز رسانی",
+            "English": "Date of last update"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "شماره موبایل صاحب خودرو",
+            "English": "Car owner's mobile number"
+        },
+        {
+            "Persian": "خودروهای آزاد",
+            "English": "free cars"
+        },
+        {
+            "Persian": "انتخاب کارت",
+            "English": "Select card"
+        },
+        {
+            "Persian": "مبلغ روز",
+            "English": "daily amount"
+        },
+        {
+            "Persian": "تاریخ تخصیص",
+            "English": "Date of allocation"
+        },
+        {
+            "Persian": "نوع استخدام",
+            "English": "type of employment"
+        },
+        {
+            "Persian": "سهم موجر",
+            "English": "lessor's share"
+        },
+        {
+            "Persian": "ایــران",
+            "English": "Iran"
+        },
+        {
+            "Persian": "تمامی",
+            "English": "all"
+        },
+        {
+            "Persian": "کد مالیات",
+            "English": "Tax code"
+        },
+        {
+            "Persian": "سیاه",
+            "English": "Black"
+        },
+        {
+            "Persian": "نوع مالیات",
+            "English": "Tax type"
+        },
+        {
+            "Persian": "شماره کارت",
+            "English": "card number"
+        },
+        {
+            "Persian": "خارج شده",
+            "English": "out"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "ساعت خروج",
+            "English": "leaving hour"
+        },
+        {
+            "Persian": "نام گروه",
+            "English": "the name of the group"
+        },
+        {
+            "Persian": "نام خودرو",
+            "English": "car name"
+        },
+        {
+            "Persian": "اتوماتیک",
+            "English": "automatic"
+        },
+        {
+            "Persian": "هزینه مازاد به ازای هر دقیقه حضور",
+            "English": "Excess charge per minute of presence"
+        },
+        {
+            "Persian": "روزانه متغییر",
+            "English": "Changed daily"
+        },
+        {
+            "Persian": "حذف از لیست",
+            "English": "Delete from the list"
+        },
+        {
+            "Persian": "نام مالیات",
+            "English": "The name of the tax"
+        },
+        {
+            "Persian": "تاریخ ارسال",
+            "English": "postage date"
+        },
+        {
+            "Persian": "تعریف گروه خودرو",
+            "English": "Definition of car group"
+        },
+        {
+            "Persian": "بخش پارکینگ",
+            "English": "Parking lot"
+        },
+        {
+            "Persian": "گزارش پارکینگ میله ای",
+            "English": "Bar parking report"
+        },
+        {
+            "Persian": "بروزرسانی  لیست تعرفه",
+            "English": "Updating the tariff list"
+        },
+        {
+            "Persian": "عدم شناسایی",
+            "English": "Non-identification"
+        },
+        {
+            "Persian": "دریافت تصویر",
+            "English": "Get the image"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه  پایان مودال",
+            "English": "Search and select the modal end device"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "نام  گروه",
+            "English": "the name of the group"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "امروز",
+            "English": "Today"
+        },
+        {
+            "Persian": "نوع خودرو",
+            "English": "car type"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        }
+    ]
+}

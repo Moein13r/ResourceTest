@@ -1,0 +1,834 @@
+<data name="Day" xml:space="preserve">
+                    <value>روز</value>
+                </data>
+<data name="end modal name blacklist" xml:space="preserve">
+                    <value>پایان مودال نام لیست سیاه</value>
+                </data>
+<data name="Monday" xml:space="preserve">
+                    <value>دوشنبه</value>
+                </data>
+<data name="Car group" xml:space="preserve">
+                    <value>گروه خودرو</value>
+                </data>
+<data name="Excel file" xml:space="preserve">
+                    <value>فایل اکسل</value>
+                </data>
+<data name="Search and select the starting device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه   شروع</value>
+                </data>
+<data name="National number" xml:space="preserve">
+                    <value>شماره ملی</value>
+                </data>
+<data name="Receipt printing" xml:space="preserve">
+                    <value>چاپ فیش</value>
+                </data>
+<data name="Modal ending" xml:space="preserve">
+                    <value>پایان  مودال</value>
+                </data>
+<data name="Reference" xml:space="preserve">
+                    <value>شماره ارجاع</value>
+                </data>
+<data name="Has an operator" xml:space="preserve">
+                    <value>دارای اپراتور</value>
+                </data>
+<data name="End of device assignment modal" xml:space="preserve">
+                    <value>پایان مودال اختصاص دستگاه</value>
+                </data>
+<data name="Definition of camera" xml:space="preserve">
+                    <value>تعریف دوربین</value>
+                </data>
+<data name="Taxi" xml:space="preserve">
+                    <value>تاکسی</value>
+                </data>
+<data name="Message title" xml:space="preserve">
+                    <value>عنوان پیام</value>
+                </data>
+<data name="date of departure" xml:space="preserve">
+                    <value>تاریخ  خروج</value>
+                </data>
+<data name="Unit Name" xml:space="preserve">
+                    <value>نام واحد</value>
+                </data>
+<data name="Specifies the minutes of attendance" xml:space="preserve">
+                    <value>دقیقه حضور را مشخص می کند</value>
+                </data>
+<data name="Font size" xml:space="preserve">
+                    <value>اندازه فونت</value>
+                </data>
+<data name="The name of the parking lot" xml:space="preserve">
+                    <value>نام پارکینگ</value>
+                </data>
+<data name="percentage" xml:space="preserve">
+                    <value>درصدی</value>
+                </data>
+<data name="The amount of discount" xml:space="preserve">
+                    <value>مبلغ تخفیف</value>
+                </data>
+<data name="inactive member" xml:space="preserve">
+                    <value>عضو غیرفعال</value>
+                </data>
+<data name="print" xml:space="preserve">
+                    <value>چاپ</value>
+                </data>
+<data name="Barcode photo storage address" xml:space="preserve">
+                    <value>آدرس ذخیره سازی عکس های بارکد</value>
+                </data>
+<data name="Date and time of arrival" xml:space="preserve">
+                    <value>تاریخ و زمان ورود</value>
+                </data>
+<data name="Update tax list" xml:space="preserve">
+                    <value>بروزرسانی  لیست مالیات</value>
+                </data>
+<data name="Capacity" xml:space="preserve">
+                    <value>ظرفیت</value>
+                </data>
+<data name="Vehicle group registration" xml:space="preserve">
+                    <value>ثبت گروه خودرو</value>
+                </data>
+<data name="Thursday" xml:space="preserve">
+                    <value>پنج شنبه</value>
+                </data>
+<data name="tax" xml:space="preserve">
+                    <value>مالیات</value>
+                </data>
+<data name="Allowed days of the week" xml:space="preserve">
+                    <value>روزهای مجاز هفته</value>
+                </data>
+<data name="The start of the entry and exit modal of the parking lot" xml:space="preserve">
+                    <value>شروع مودال ورودی  و خروجی پارکینگ</value>
+                </data>
+<data name="Equipped with roadblock" xml:space="preserve">
+                    <value>مجهز به راه بند</value>
+                </data>
+<data name="car name" xml:space="preserve">
+                    <value>نام  خودرو</value>
+                </data>
+<data name="Phone" xml:space="preserve">
+                    <value>تلفن</value>
+                </data>
+<data name="Saturday" xml:space="preserve">
+                    <value>شنبه</value>
+                </data>
+<data name="discount name" xml:space="preserve">
+                    <value>نام تخفیف</value>
+                </data>
+<data name="It specifies the maximum initial time allowed for the presence of the vehicle" xml:space="preserve">
+                    <value>حداکثر زمان مجاز اولیه حضور خودرو را مشخص میکند</value>
+                </data>
+<data name="Ordering" xml:space="preserve">
+                    <value>مرتب سازی</value>
+                </data>
+<data name="Discount" xml:space="preserve">
+                    <value>تخفیف</value>
+                </data>
+<data name="The name of the list" xml:space="preserve">
+                    <value>نام  لیست</value>
+                </data>
+<data name="last name" xml:space="preserve">
+                    <value>نام خانوادگی</value>
+                </data>
+<data name="Total charge amount" xml:space="preserve">
+                    <value>مبلغ کل شارژ</value>
+                </data>
+<data name="white" xml:space="preserve">
+                    <value>سفید</value>
+                </data>
+<data name="Device definition" xml:space="preserve">
+                    <value>تعریف دستگاه</value>
+                </data>
+<data name="Cars in the list" xml:space="preserve">
+                    <value>خودروهای موجود در لیست</value>
+                </data>
+<data name="Equipped with an information display board" xml:space="preserve">
+                    <value>مجهز به تابلوی نمایش اطلاعات</value>
+                </data>
+<data name="political" xml:space="preserve">
+                    <value>سیاسی</value>
+                </data>
+<data name="Especially for the disabled and veterans" xml:space="preserve">
+                    <value>ویژه معلولین و جانبازین</value>
+                </data>
+<data name="until date" xml:space="preserve">
+                    <value>تا تاریـخ</value>
+                </data>
+<data name="Display the first empty block" xml:space="preserve">
+                    <value>نمایش اولین بلوک خالی</value>
+                </data>
+<data name="Tuesday" xml:space="preserve">
+                    <value>سه شنبه</value>
+                </data>
+<data name="Start the blacklist name modal" xml:space="preserve">
+                    <value>شروع مودال نام لیست سیاه</value>
+                </data>
+<data name="Fixed daily" xml:space="preserve">
+                    <value>روزانه ثابت</value>
+                </data>
+<data name="Search" xml:space="preserve">
+                    <value>جستجو</value>
+                </data>
+<data name="Tariff" xml:space="preserve">
+                    <value>تعرفه</value>
+                </data>
+<data name="End of card allocation mode" xml:space="preserve">
+                    <value>پایان مودال اختصاص کارت</value>
+                </data>
+<data name="Inactive" xml:space="preserve">
+                    <value>غیرفعال</value>
+                </data>
+<data name="The type of license plate of cars" xml:space="preserve">
+                    <value>نوع پلاک خودروها</value>
+                </data>
+<data name="curve" xml:space="preserve">
+                    <value>منحنی</value>
+                </data>
+<data name="active" xml:space="preserve">
+                    <value>فعال</value>
+                </data>
+<data name="from history" xml:space="preserve">
+                    <value>از تاریـخ</value>
+                </data>
+<data name="from the hour" xml:space="preserve">
+                    <value>از ساعت</value>
+                </data>
+<data name="entry date" xml:space="preserve">
+                    <value>تاریخ ورود</value>
+                </data>
+<data name="name" xml:space="preserve">
+                    <value>نام</value>
+                </data>
+<data name="last update" xml:space="preserve">
+                    <value>آخرین بروزرسانی</value>
+                </data>
+<data name="Message code" xml:space="preserve">
+                    <value>کد پیام</value>
+                </data>
+<data name="Parking capacity" xml:space="preserve">
+                    <value>ظرفیت پارکینگ</value>
+                </data>
+<data name="Font" xml:space="preserve">
+                    <value>فونت</value>
+                </data>
+<data name="Car discounts" xml:space="preserve">
+                    <value>تخفیف های خودرو</value>
+                </data>
+<data name="Day capacity" xml:space="preserve">
+                    <value>ظرفیت روز</value>
+                </data>
+<data name="Remaining charge" xml:space="preserve">
+                    <value>باقیمانده شارژ</value>
+                </data>
+<data name="up to the card" xml:space="preserve">
+                    <value>تا کارت</value>
+                </data>
+<data name="Organization" xml:space="preserve">
+                    <value>سازمان</value>
+                </data>
+<data name="Successful traffic" xml:space="preserve">
+                    <value>تردد موفق</value>
+                </data>
+<data name="Minimum time to read the card again" xml:space="preserve">
+                    <value>حداقل زمان برای خواندن مجدد کارت</value>
+                </data>
+<data name="Camera name" xml:space="preserve">
+                    <value>نام دوربین</value>
+                </data>
+<data name="an hour" xml:space="preserve">
+                    <value>ساعتی</value>
+                </data>
+<data name="Postal code" xml:space="preserve">
+                    <value>کد پستی</value>
+                </data>
+<data name="a saturday" xml:space="preserve">
+                    <value>یک شنبه</value>
+                </data>
+<data name="Start of block definition modal" xml:space="preserve">
+                    <value>شروع مودال تعریف بلوک</value>
+                </data>
+<data name="device" xml:space="preserve">
+                    <value>دستگاه</value>
+                </data>
+<data name="Vehicle license plate number" xml:space="preserve">
+                    <value>شماره پلاک خودرو</value>
+                </data>
+<data name="Maximum time allowed" xml:space="preserve">
+                    <value>حداکثر زمان مجاز</value>
+                </data>
+<data name="Delete" xml:space="preserve">
+                    <value>حذف</value>
+                </data>
+<data name="Parking" xml:space="preserve">
+                    <value>پارکینگ</value>
+                </data>
+<data name="Bar" xml:space="preserve">
+                    <value>میله ای</value>
+                </data>
+<data name="Cars" xml:space="preserve">
+                    <value>خودروهای</value>
+                </data>
+<data name="Repetitive traffic" xml:space="preserve">
+                    <value>تردد تکراری</value>
+                </data>
+<data name="Shipping time" xml:space="preserve">
+                    <value>ساعت ارسال</value>
+                </data>
+<data name="Total Amount" xml:space="preserve">
+                    <value>مبلغ کل</value>
+                </data>
+<data name="Block name" xml:space="preserve">
+                    <value>نام بلوک</value>
+                </data>
+<data name="invoice title" xml:space="preserve">
+                    <value>عنوان  فاکتور</value>
+                </data>
+<data name="End of block definition modal" xml:space="preserve">
+                    <value>پایان مودال تعریف بلوک</value>
+                </data>
+<data name="Fast printing" xml:space="preserve">
+                    <value>چاپ سریع</value>
+                </data>
+<data name="minutes" xml:space="preserve">
+                    <value>دقیقه</value>
+                </data>
+<data name="Minimum charge" xml:space="preserve">
+                    <value>حداقل شارژ</value>
+                </data>
+<data name="current month" xml:space="preserve">
+                    <value>ماه جاری</value>
+                </data>
+<data name="Condition" xml:space="preserve">
+                    <value>وضعیت</value>
+                </data>
+<data name="entrance time" xml:space="preserve">
+                    <value>ساعت ورود</value>
+                </data>
+<data name="How to enter information" xml:space="preserve">
+                    <value>نحوه ورود اطلاعات</value>
+                </data>
+<data name="Search and select device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه</value>
+                </data>
+<data name="Not being on the white list" xml:space="preserve">
+                    <value>عدم حضور در لیست سفید</value>
+                </data>
+<data name="Car taxes" xml:space="preserve">
+                    <value>مالیات های خودرو</value>
+                </data>
+<data name="The end of the entrance and exit modal of the parking lot" xml:space="preserve">
+                    <value>پایان مودال ورودی  و خروجی پارکینگ</value>
+                </data>
+<data name="Store" xml:space="preserve">
+                    <value>ذخیره</value>
+                </data>
+<data name="Military" xml:space="preserve">
+                    <value>نظامی</value>
+                </data>
+<data name="Passing the maximum charge" xml:space="preserve">
+                    <value>عبور از حداکثر شارژ</value>
+                </data>
+<data name="Discount type" xml:space="preserve">
+                    <value>نوع تخفیف</value>
+                </data>
+<data name="Car tariffs" xml:space="preserve">
+                    <value>تعرفه های خودرو</value>
+                </data>
+<data name="The car parking fee determines the total maximum allowed time" xml:space="preserve">
+                    <value>هزینه پارک خودرو به ازای کل حداکثر زمان مجاز را مشخص می کند</value>
+                </data>
+<data name="until" xml:space="preserve">
+                    <value>تا ساعت</value>
+                </data>
+<data name="Updating the car group list" xml:space="preserve">
+                    <value>بروزرسانی  لیست گروه خودرو</value>
+                </data>
+<data name="date of departure" xml:space="preserve">
+                    <value>تاریخ خروج</value>
+                </data>
+<data name="entry date" xml:space="preserve">
+                    <value>تاریخ  ورود</value>
+                </data>
+<data name="Start of multiple choice modal in card number" xml:space="preserve">
+                    <value>شروع مودال انتخاب چندتایی در شماره کارت</value>
+                </data>
+<data name="car" xml:space="preserve">
+                    <value>خودرو</value>
+                </data>
+<data name="search by" xml:space="preserve">
+                    <value>جستجو بر اساس</value>
+                </data>
+<data name="from" xml:space="preserve">
+                    <value>از تاریخ</value>
+                </data>
+<data name="Device assignment" xml:space="preserve">
+                    <value>اختصاص دستگاه</value>
+                </data>
+<data name="File output" xml:space="preserve">
+                    <value>خروجی فایل</value>
+                </data>
+<data name="Modal end of parking places in the parking lot" xml:space="preserve">
+                    <value>پایان مودال مکان های پارک در پارکینگ</value>
+                </data>
+<data name="car color" xml:space="preserve">
+                    <value>رنگ خودرو</value>
+                </data>
+<data name="End of single selection modal on card number" xml:space="preserve">
+                    <value>پایان  مودال انتخاب تکی در شماره کارت</value>
+                </data>
+<data name="Tenant's share" xml:space="preserve">
+                    <value>سهم مستاجر</value>
+                </data>
+<data name="Governmental" xml:space="preserve">
+                    <value>دولتی</value>
+                </data>
+<data name="Maximum negative charge" xml:space="preserve">
+                    <value>حداکثر شارژ منفی</value>
+                </data>
+<data name="Unauthorized hours" xml:space="preserve">
+                    <value>ساعت غیر مجاز</value>
+                </data>
+<data name="From the date of arrival" xml:space="preserve">
+                    <value>از تاریخ  ورود</value>
+                </data>
+<data name="Production of barcode photos" xml:space="preserve">
+                    <value>تولید عکس های بارکد</value>
+                </data>
+<data name="Traffic registration for Azad card" xml:space="preserve">
+                    <value>ثبت تردد برای کارت ازاد</value>
+                </data>
+<data name="last month" xml:space="preserve">
+                    <value>ماه قبل</value>
+                </data>
+<data name="Issue Tracking" xml:space="preserve">
+                    <value>شماره پیگیری</value>
+                </data>
+<data name="Row" xml:space="preserve">
+                    <value>ردیف</value>
+                </data>
+<data name="the show" xml:space="preserve">
+                    <value>نمایش</value>
+                </data>
+<data name="Update device list" xml:space="preserve">
+                    <value>بروزرسانی  لیست دستگاه</value>
+                </data>
+<data name="Name of the car group" xml:space="preserve">
+                    <value>نام گروه خودرو</value>
+                </data>
+<data name="Friday" xml:space="preserve">
+                    <value>جمعه</value>
+                </data>
+<data name="Equipped with a camera" xml:space="preserve">
+                    <value>مجهز به دوربین</value>
+                </data>
+<data name="Cost per minute of attendance" xml:space="preserve">
+                    <value>هزینه به ازای هر دقیقه حضور</value>
+                </data>
+<data name="Organization logo address" xml:space="preserve">
+                    <value>آدرس لوگوی سازمان</value>
+                </data>
+<data name="car allocation" xml:space="preserve">
+                    <value>اختصاص خودرو</value>
+                </data>
+<data name="Quick search" xml:space="preserve">
+                    <value>جستجوی سریع</value>
+                </data>
+<data name="Up to date" xml:space="preserve">
+                    <value>تا تاریخ</value>
+                </data>
+<data name="Economical number" xml:space="preserve">
+                    <value>شماره اقتصادی</value>
+                </data>
+<data name="Time" xml:space="preserve">
+                    <value>زمان</value>
+                </data>
+<data name="Start of the vehicle group selection modal" xml:space="preserve">
+                    <value>شروع مودال انتخاب گروه خودروها</value>
+                </data>
+<data name="Minimum negative charge" xml:space="preserve">
+                    <value>حداقل شارژ منفی</value>
+                </data>
+<data name="Modal start" xml:space="preserve">
+                    <value>شروع  مودال</value>
+                </data>
+<data name="Update camera list" xml:space="preserve">
+                    <value>بروزرسانی  لیست دوربین</value>
+                </data>
+<data name="Excess car parking fee per" xml:space="preserve">
+                    <value>هزینه مازاد پارک خودرو به ازای</value>
+                </data>
+<data name="entrance fee" xml:space="preserve">
+                    <value>هزینه ورودی</value>
+                </data>
+<data name="Tariff code" xml:space="preserve">
+                    <value>کد تعرفه</value>
+                </data>
+<data name="Y" xml:space="preserve">
+                    <value>ی</value>
+                </data>
+<data name="name plate" xml:space="preserve">
+                    <value>نام پلاک</value>
+                </data>
+<data name="confirmation" xml:space="preserve">
+                    <value>تایید</value>
+                </data>
+<data name="Search and select card" xml:space="preserve">
+                    <value>جستجو و انتخاب کارت</value>
+                </data>
+<data name="Allocation of tariff" xml:space="preserve">
+                    <value>اختصاص تعرفه</value>
+                </data>
+<data name="Insufficient charge" xml:space="preserve">
+                    <value>شارژ ناکافی</value>
+                </data>
+<data name="End of multiple choice modal in card number" xml:space="preserve">
+                    <value>پایان مودال انتخاب چندتایی در  شماره کارت</value>
+                </data>
+<data name="Wednesday" xml:space="preserve">
+                    <value>چهارشنبه</value>
+                </data>
+<data name="Camera" xml:space="preserve">
+                    <value>دوربین</value>
+                </data>
+<data name="No minimum charge" xml:space="preserve">
+                    <value>نبود حداقل شارژ</value>
+                </data>
+<data name="List of cards" xml:space="preserve">
+                    <value>لیست کارت ها</value>
+                </data>
+<data name="Block definition" xml:space="preserve">
+                    <value>تعریف بلوک</value>
+                </data>
+<data name="Tariff type" xml:space="preserve">
+                    <value>نوع تعرفه</value>
+                </data>
+<data name="Configuration error" xml:space="preserve">
+                    <value>خطای تنظیماتی</value>
+                </data>
+<data name="from card" xml:space="preserve">
+                    <value>از کارت</value>
+                </data>
+<data name="Traffic permission based on the list" xml:space="preserve">
+                    <value>اجازه تردد بر اساس لیست</value>
+                </data>
+<data name="The name of the report" xml:space="preserve">
+                    <value>نام گزارش</value>
+                </data>
+<data name="End of camera assignment modal" xml:space="preserve">
+                    <value>پایان مودال اختصاص دوربین</value>
+                </data>
+<data name="card assignment" xml:space="preserve">
+                    <value>اختصاص کارت</value>
+                </data>
+<data name="Name of the car owner" xml:space="preserve">
+                    <value>نام صاحب ماشین</value>
+                </data>
+<data name="Completion capacity" xml:space="preserve">
+                    <value>ظرفیت تکمیل</value>
+                </data>
+<data name="Start the camera assignment modal" xml:space="preserve">
+                    <value>شروع مودال اختصاص دوربین</value>
+                </data>
+<data name="Number plates" xml:space="preserve">
+                    <value>شماره پلاک</value>
+                </data>
+<data name="the operation" xml:space="preserve">
+                    <value>عملیات</value>
+                </data>
+<data name="Amount" xml:space="preserve">
+                    <value>مبلغ</value>
+                </data>
+<data name="Monitoring modes" xml:space="preserve">
+                    <value>حالت های مانیتورینگ</value>
+                </data>
+<data name="Departure date and time" xml:space="preserve">
+                    <value>تاریخ و زمان خروج</value>
+                </data>
+<data name="Tariff validity date" xml:space="preserve">
+                    <value>تاریخ اعتبار تعرفه</value>
+                </data>
+<data name="Update discount list" xml:space="preserve">
+                    <value>بروزرسانی  لیست تخفیف</value>
+                </data>
+<data name="List type" xml:space="preserve">
+                    <value>نوع  لیست</value>
+                </data>
+<data name="From the number" xml:space="preserve">
+                    <value>از شماره</value>
+                </data>
+<data name="The name of the parking lot" xml:space="preserve">
+                    <value>نام  پارکینگ</value>
+                </data>
+<data name="Unauthorized day" xml:space="preserve">
+                    <value>روز غیرمجاز</value>
+                </data>
+<data name="The day before" xml:space="preserve">
+                    <value>روز قبل</value>
+                </data>
+<data name="black list" xml:space="preserve">
+                    <value>لیست سیاه</value>
+                </data>
+<data name="Allocation time" xml:space="preserve">
+                    <value>ساعت تخصیص</value>
+                </data>
+<data name="last week" xml:space="preserve">
+                    <value>هفته قبل</value>
+                </data>
+<data name="Start the device assignment modal" xml:space="preserve">
+                    <value>شروع مودال اختصاص دستگاه</value>
+                </data>
+<data name="Traffic registration for personnel" xml:space="preserve">
+                    <value>ثبت تردد برای پرسنل</value>
+                </data>
+<data name="Curve parking report" xml:space="preserve">
+                    <value>گزارش پارکینگ منحنی</value>
+                </data>
+<data name="Send SMS for credit cards" xml:space="preserve">
+                    <value>ارسال پیامک برای کارت های اعتباری</value>
+                </data>
+<data name="Present in the collection" xml:space="preserve">
+                    <value>حاضر در مجموعه</value>
+                </data>
+<data name="Device code" xml:space="preserve">
+                    <value>کد دستگاه</value>
+                </data>
+<data name="Being on the black list" xml:space="preserve">
+                    <value>حضور در لیست سیاه</value>
+                </data>
+<data name="Start single selection modal on card number" xml:space="preserve">
+                    <value>شروع مودال انتخاب تکی در شماره کارت</value>
+                </data>
+<data name="Print information" xml:space="preserve">
+                    <value>چاپ اطلاعات</value>
+                </data>
+<data name="Start the card assignment module" xml:space="preserve">
+                    <value>شروع مودال اختصاص کارت</value>
+                </data>
+<data name="motorcycle" xml:space="preserve">
+                    <value>موتور سیکلت</value>
+                </data>
+<data name="Personnel" xml:space="preserve">
+                    <value>پرسنل</value>
+                </data>
+<data name="Until the departure date" xml:space="preserve">
+                    <value>تا تاریخ خروج</value>
+                </data>
+<data name="tariff name" xml:space="preserve">
+                    <value>نام تعرفه</value>
+                </data>
+<data name="Select a group of cars" xml:space="preserve">
+                    <value>انتخاب گروه خودروها</value>
+                </data>
+<data name="period of time" xml:space="preserve">
+                    <value>مدت زمان</value>
+                </data>
+<data name="End of the vehicle group selection modal" xml:space="preserve">
+                    <value>پایان مودال انتخاب گروه خودروها</value>
+                </data>
+<data name="Department Name" xml:space="preserve">
+                    <value>نام بخش</value>
+                </data>
+<data name="End of membership" xml:space="preserve">
+                    <value>اتمام عضویت</value>
+                </data>
+<data name="normal" xml:space="preserve">
+                    <value>عادی</value>
+                </data>
+<data name="user" xml:space="preserve">
+                    <value>کاربر</value>
+                </data>
+<data name="traffic" xml:space="preserve">
+                    <value>تردد</value>
+                </data>
+<data name="The name of the list" xml:space="preserve">
+                    <value>نام لیست</value>
+                </data>
+<data name="payment type" xml:space="preserve">
+                    <value>نوع پرداخت</value>
+                </data>
+<data name="Camera assignment" xml:space="preserve">
+                    <value>اختصاص دوربین</value>
+                </data>
+<data name="device name" xml:space="preserve">
+                    <value>نام دستگاه</value>
+                </data>
+<data name="up to no" xml:space="preserve">
+                    <value>تا شماره</value>
+                </data>
+<data name="Charged amount" xml:space="preserve">
+                    <value>مبلغ شارژ شده</value>
+                </data>
+<data name="Rials" xml:space="preserve">
+                    <value>ریال</value>
+                </data>
+<data name="Date of last update" xml:space="preserve">
+                    <value>تاریخ آخرین بروزرسانی</value>
+                </data>
+<data name="Card" xml:space="preserve">
+                    <value>کارت</value>
+                </data>
+<data name="White list" xml:space="preserve">
+                    <value>لیست سفید</value>
+                </data>
+<data name="End of tariff allocation modal" xml:space="preserve">
+                    <value>پایان مودال اختصاص تعرفه</value>
+                </data>
+<data name="Name of the car owner" xml:space="preserve">
+                    <value>نام صاحب خودرو</value>
+                </data>
+<data name="Start of tariff assignment modal" xml:space="preserve">
+                    <value>شروع مودال اختصاص تعرفه</value>
+                </data>
+<data name="Type of license plate" xml:space="preserve">
+                    <value>نوع پلاک خودرو</value>
+                </data>
+<data name="Ceremonies" xml:space="preserve">
+                    <value>تشریفات</value>
+                </data>
+<data name="discount code" xml:space="preserve">
+                    <value>کد تخفیف</value>
+                </data>
+<data name="Modal start of parking places in the parking lot" xml:space="preserve">
+                    <value>شروع مودال مکان های پارک در پارکینگ</value>
+                </data>
+<data name="daily traffic" xml:space="preserve">
+                    <value>تردد روز</value>
+                </data>
+<data name="Tax amount" xml:space="preserve">
+                    <value>مبلغ مالیات</value>
+                </data>
+<data name="Available reports" xml:space="preserve">
+                    <value>گزارشهای موجود</value>
+                </data>
+<data name="Rial" xml:space="preserve">
+                    <value>ریالی</value>
+                </data>
+<data name="Message text" xml:space="preserve">
+                    <value>متن پیام</value>
+                </data>
+<data name="Add to list" xml:space="preserve">
+                    <value>افزدون به لیست</value>
+                </data>
+<data name="current week" xml:space="preserve">
+                    <value>هفته جاری</value>
+                </data>
+<data name="Parking places in the parking lot" xml:space="preserve">
+                    <value>مکان های پارک در پارکینگ</value>
+                </data>
+<data name="Organizational Unit" xml:space="preserve">
+                    <value>واحد سازمانی</value>
+                </data>
+<data name="Date of last update" xml:space="preserve">
+                    <value>تاریخ آخرین بروز رسانی</value>
+                </data>
+<data name="Selection" xml:space="preserve">
+                    <value>انتخاب</value>
+                </data>
+<data name="Car owner's mobile number" xml:space="preserve">
+                    <value>شماره موبایل صاحب خودرو</value>
+                </data>
+<data name="free cars" xml:space="preserve">
+                    <value>خودروهای آزاد</value>
+                </data>
+<data name="Select card" xml:space="preserve">
+                    <value>انتخاب کارت</value>
+                </data>
+<data name="daily amount" xml:space="preserve">
+                    <value>مبلغ روز</value>
+                </data>
+<data name="Date of allocation" xml:space="preserve">
+                    <value>تاریخ تخصیص</value>
+                </data>
+<data name="type of employment" xml:space="preserve">
+                    <value>نوع استخدام</value>
+                </data>
+<data name="lessor's share" xml:space="preserve">
+                    <value>سهم موجر</value>
+                </data>
+<data name="Iran" xml:space="preserve">
+                    <value>ایــران</value>
+                </data>
+<data name="all" xml:space="preserve">
+                    <value>تمامی</value>
+                </data>
+<data name="Tax code" xml:space="preserve">
+                    <value>کد مالیات</value>
+                </data>
+<data name="Black" xml:space="preserve">
+                    <value>سیاه</value>
+                </data>
+<data name="Tax type" xml:space="preserve">
+                    <value>نوع مالیات</value>
+                </data>
+<data name="card number" xml:space="preserve">
+                    <value>شماره کارت</value>
+                </data>
+<data name="out" xml:space="preserve">
+                    <value>خارج شده</value>
+                </data>
+<data name="Description" xml:space="preserve">
+                    <value>توضیحات</value>
+                </data>
+<data name="leaving hour" xml:space="preserve">
+                    <value>ساعت خروج</value>
+                </data>
+<data name="the name of the group" xml:space="preserve">
+                    <value>نام گروه</value>
+                </data>
+<data name="car name" xml:space="preserve">
+                    <value>نام خودرو</value>
+                </data>
+<data name="automatic" xml:space="preserve">
+                    <value>اتوماتیک</value>
+                </data>
+<data name="Excess charge per minute of presence" xml:space="preserve">
+                    <value>هزینه مازاد به ازای هر دقیقه حضور</value>
+                </data>
+<data name="Changed daily" xml:space="preserve">
+                    <value>روزانه متغییر</value>
+                </data>
+<data name="Delete from the list" xml:space="preserve">
+                    <value>حذف از لیست</value>
+                </data>
+<data name="The name of the tax" xml:space="preserve">
+                    <value>نام مالیات</value>
+                </data>
+<data name="postage date" xml:space="preserve">
+                    <value>تاریخ ارسال</value>
+                </data>
+<data name="Definition of car group" xml:space="preserve">
+                    <value>تعریف گروه خودرو</value>
+                </data>
+<data name="Parking lot" xml:space="preserve">
+                    <value>بخش پارکینگ</value>
+                </data>
+<data name="Bar parking report" xml:space="preserve">
+                    <value>گزارش پارکینگ میله ای</value>
+                </data>
+<data name="Updating the tariff list" xml:space="preserve">
+                    <value>بروزرسانی  لیست تعرفه</value>
+                </data>
+<data name="Non-identification" xml:space="preserve">
+                    <value>عدم شناسایی</value>
+                </data>
+<data name="Get the image" xml:space="preserve">
+                    <value>دریافت تصویر</value>
+                </data>
+<data name="Search and select the modal end device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه  پایان مودال</value>
+                </data>
+<data name="History" xml:space="preserve">
+                    <value>تاریخ</value>
+                </data>
+<data name="the name of the group" xml:space="preserve">
+                    <value>نام  گروه</value>
+                </data>
+<data name="New" xml:space="preserve">
+                    <value>جدید</value>
+                </data>
+<data name="Today" xml:space="preserve">
+                    <value>امروز</value>
+                </data>
+<data name="car type" xml:space="preserve">
+                    <value>نوع خودرو</value>
+                </data>
+<data name="coming back" xml:space="preserve">
+                    <value>بازگشت</value>
+                </data>

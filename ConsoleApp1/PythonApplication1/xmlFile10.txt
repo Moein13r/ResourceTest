@@ -1,0 +1,1155 @@
+<data name="Description" xml:space="preserve">
+                    <value>توضیحات</value>
+                </data>
+<data name="Hourly absence" xml:space="preserve">
+                    <value>غیبت مجاز ساعتی</value>
+                </data>
+<data name="attendance status" xml:space="preserve">
+                    <value>وضعیت حضور</value>
+                </data>
+<data name="total presence" xml:space="preserve">
+                    <value>کل حضور</value>
+                </data>
+<data name="Access file" xml:space="preserve">
+                    <value>فایل اکسس</value>
+                </data>
+<data name="device type" xml:space="preserve">
+                    <value>نوع وسیله</value>
+                </data>
+<data name="Report settings" xml:space="preserve">
+                    <value>تنظیمات گزارش</value>
+                </data>
+<data name="Clients and staff" xml:space="preserve">
+                    <value>ارباب رجوع و پرسنل</value>
+                </data>
+<data name="Client report" xml:space="preserve">
+                    <value>گزارش ارباب رجوع</value>
+                </data>
+<data name="Repetitious" xml:space="preserve">
+                    <value>تکراری</value>
+                </data>
+<data name="PDF file" xml:space="preserve">
+                    <value>فایل پی دی اف</value>
+                </data>
+<data name="Entered the company" xml:space="preserve">
+                    <value>وارد شرکت شده است</value>
+                </data>
+<data name="arrival time" xml:space="preserve">
+                    <value>زمان ورود</value>
+                </data>
+<data name="Login device" xml:space="preserve">
+                    <value>دستگاه ورود</value>
+                </data>
+<data name="the show" xml:space="preserve">
+                    <value>نمایش</value>
+                </data>
+<data name="User ID, Personnel ID" xml:space="preserve">
+                    <value>شماره پرسنلی</value>
+                </data>
+<data name="type of employment" xml:space="preserve">
+                    <value>نوع استخدام</value>
+                </data>
+<data name="Financial transactions" xml:space="preserve">
+                    <value>تراکنش های مالی</value>
+                </data>
+<data name="Search and select device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه</value>
+                </data>
+<data name="Travel times" xml:space="preserve">
+                    <value>زمان های تردد</value>
+                </data>
+<data name="illegal" xml:space="preserve">
+                    <value>غیرمجاز</value>
+                </data>
+<data name="The image of the last traffic" xml:space="preserve">
+                    <value>تصویر آخرین تردد</value>
+                </data>
+<data name="Unauthorized holiday overtime" xml:space="preserve">
+                    <value>اضافه کار تعطیل غیرمجاز</value>
+                </data>
+<data name="Allowed overtime after hours" xml:space="preserve">
+                    <value>اضافه کار مجاز بعد وقت</value>
+                </data>
+<data name="Access control" xml:space="preserve">
+                    <value>کنترل دسترسی</value>
+                </data>
+<data name="Until the date of departure" xml:space="preserve">
+                    <value>تا تاریـخ خروج</value>
+                </data>
+<data name="Other settings" xml:space="preserve">
+                    <value>سایر تنظیمات</value>
+                </data>
+<data name="presence and absence" xml:space="preserve">
+                    <value>حضور و غیاب</value>
+                </data>
+<data name="Leave without hourly pay" xml:space="preserve">
+                    <value>مرخصی بدون حقوق ساعتی</value>
+                </data>
+<data name="Update date" xml:space="preserve">
+                    <value>تاریخ بروزرسانی</value>
+                </data>
+<data name="Type of traffic" xml:space="preserve">
+                    <value>نوع تردد</value>
+                </data>
+<data name="Surname of personnel" xml:space="preserve">
+                    <value>نـام خانوادگی پرسنل</value>
+                </data>
+<data name="Total overtime after time" xml:space="preserve">
+                    <value>کل اضافه کار بعد وقت</value>
+                </data>
+<data name="group" xml:space="preserve">
+                    <value>گروه</value>
+                </data>
+<data name="please wait" xml:space="preserve">
+                    <value>لطفا منتظر بمانید</value>
+                </data>
+<data name="Client report by date" xml:space="preserve">
+                    <value>گزارش مراجعین به تفکیک تاریخ</value>
+                </data>
+<data name="occasion" xml:space="preserve">
+                    <value>مناسبت</value>
+                </data>
+<data name="food situation" xml:space="preserve">
+                    <value>وضعیت غذا</value>
+                </data>
+<data name="Exit" xml:space="preserve">
+                    <value>خروج</value>
+                </data>
+<data name="device" xml:space="preserve">
+                    <value>دستگاه</value>
+                </data>
+<data name="Man" xml:space="preserve">
+                    <value>مرد</value>
+                </data>
+<data name="Country" xml:space="preserve">
+                    <value>کشور</value>
+                </data>
+<data name="Ramadan" xml:space="preserve">
+                    <value>ماه رمضان</value>
+                </data>
+<data name="type" xml:space="preserve">
+                    <value>نوع</value>
+                </data>
+<data name="entrance time" xml:space="preserve">
+                    <value>ساعت ورود</value>
+                </data>
+<data name="Total unauthorized overtime" xml:space="preserve">
+                    <value>کل اضافه کار غیرمجاز</value>
+                </data>
+<data name="Paid" xml:space="preserve">
+                    <value>پرداخت شده</value>
+                </data>
+<data name="Present" xml:space="preserve">
+                    <value>حاضر</value>
+                </data>
+<data name="The report of the clients is divided by the referred organizational units" xml:space="preserve">
+                    <value>گزارش مراجعین به تفکیک واحد های سازمانی مراجعه شده</value>
+                </data>
+<data name="daily operation" xml:space="preserve">
+                    <value>کارکرد روزانه</value>
+                </data>
+<data name="payment method" xml:space="preserve">
+                    <value>نحوه پرداخت</value>
+                </data>
+<data name="No traffic" xml:space="preserve">
+                    <value>بدون تردد</value>
+                </data>
+<data name="up to date" xml:space="preserve">
+                    <value>به روز</value>
+                </data>
+<data name="greater equal" xml:space="preserve">
+                    <value>بزرگتر مساوی</value>
+                </data>
+<data name="Success" xml:space="preserve">
+                    <value>موفقیت</value>
+                </data>
+<data name="To search for several national codes, use" xml:space="preserve">
+                    <value>برای جستجوری چند کد ملی آنها را با</value>
+                </data>
+<data name="to the hour" xml:space="preserve">
+                    <value>به ساعت</value>
+                </data>
+<data name="It has been withdrawn from the company or returned to the client" xml:space="preserve">
+                    <value>از شرکت خارج شده یا به مراجعه کننده برگشت داده شده است</value>
+                </data>
+<data name="Mission without hourly pay" xml:space="preserve">
+                    <value>ماموریت بدون حقوق ساعتی</value>
+                </data>
+<data name="Day" xml:space="preserve">
+                    <value>روز</value>
+                </data>
+<data name="Accommodation status" xml:space="preserve">
+                    <value>وضعیت اسکان</value>
+                </data>
+<data name="The log input data is not valid" xml:space="preserve">
+                    <value>داده های ورودی گزارش معتبر نیستند</value>
+                </data>
+<data name="Meeting end time" xml:space="preserve">
+                    <value>ساعت پایان ملاقات</value>
+                </data>
+<data name="Incomplete traffic" xml:space="preserve">
+                    <value>تردد ناقص</value>
+                </data>
+<data name="unpaid" xml:space="preserve">
+                    <value>پرداخت نشده</value>
+                </data>
+<data name="first name and last name" xml:space="preserve">
+                    <value>نام و نام خانوادگی</value>
+                </data>
+<data name="Mandatory function" xml:space="preserve">
+                    <value>کارکرد موظفی</value>
+                </data>
+<data name="Original title" xml:space="preserve">
+                    <value>عنوان اصلی</value>
+                </data>
+<data name="Non-identification" xml:space="preserve">
+                    <value>عدم شناسایی</value>
+                </data>
+<data name="shift" xml:space="preserve">
+                    <value>شیفت</value>
+                </data>
+<data name="From the date of your return" xml:space="preserve">
+                    <value>از تاریـخ عودت</value>
+                </data>
+<data name="Share of the organization" xml:space="preserve">
+                    <value>سهم سازمان</value>
+                </data>
+<data name="Report filter" xml:space="preserve">
+                    <value>فیلتر گزارش</value>
+                </data>
+<data name="Remove condition" xml:space="preserve">
+                    <value>حذف کردن شرط</value>
+                </data>
+<data name="device name" xml:space="preserve">
+                    <value>نام دستگاه</value>
+                </data>
+<data name="Writing fomula" xml:space="preserve">
+                    <value>فرمول نویسی</value>
+                </data>
+<data name="Total overtime allowed" xml:space="preserve">
+                    <value>کل اضافه کار مجاز</value>
+                </data>
+<data name="Percentage" xml:space="preserve">
+                    <value>درصد</value>
+                </data>
+<data name="Food reservation report" xml:space="preserve">
+                    <value>گزارش رزرو غذا</value>
+                </data>
+<data name="Summary of the whole" xml:space="preserve">
+                    <value>خلاصه کل</value>
+                </data>
+<data name="Store" xml:space="preserve">
+                    <value>ذخیره</value>
+                </data>
+<data name="coming back" xml:space="preserve">
+                    <value>بازگشت</value>
+                </data>
+<data name="Total price" xml:space="preserve">
+                    <value>قیمت کل</value>
+                </data>
+<data name="Select a start date" xml:space="preserve">
+                    <value>انتخاب تاریخ   شروع</value>
+                </data>
+<data name="Personnel name" xml:space="preserve">
+                    <value>نـام پرسنل</value>
+                </data>
+<data name="Daily sick leave" xml:space="preserve">
+                    <value>مرخصی استعلاجی روزانه</value>
+                </data>
+<data name="Dorm" xml:space="preserve">
+                    <value>خوابگاه</value>
+                </data>
+<data name="Hourly organizational leave" xml:space="preserve">
+                    <value>مرخصی سازمانی ساعتی</value>
+                </data>
+<data name="Food settings" xml:space="preserve">
+                    <value>تنظیمات غذا</value>
+                </data>
+<data name="Delete" xml:space="preserve">
+                    <value>حذف</value>
+                </data>
+<data name="separate" xml:space="preserve">
+                    <value>از هم جدا کنید</value>
+                </data>
+<data name="Visited" xml:space="preserve">
+                    <value>ملاقات شونده</value>
+                </data>
+<data name="Monitoring modes" xml:space="preserve">
+                    <value>حالت های مانیتورینگ</value>
+                </data>
+<data name="State" xml:space="preserve">
+                    <value>استان</value>
+                </data>
+<data name="Row" xml:space="preserve">
+                    <value>ردیف</value>
+                </data>
+<data name="From visiting personnel" xml:space="preserve">
+                    <value>از پرسنل ملاقات شونده</value>
+                </data>
+<data name="The name of the output device" xml:space="preserve">
+                    <value>نام دستگاه خروج</value>
+                </data>
+<data name="up to the code" xml:space="preserve">
+                    <value>تا کد</value>
+                </data>
+<data name="Changing the title and order of options in the report" xml:space="preserve">
+                    <value>تغییر عنوان و ترتیب گزینه ها در گزارش</value>
+                </data>
+<data name="Daily unauthorized absence" xml:space="preserve">
+                    <value>غیبت غیرمجاز روزانه</value>
+                </data>
+<data name="From the date of arrival" xml:space="preserve">
+                    <value>از تاریـخ ورود</value>
+                </data>
+<data name="Search and select the modal end device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه  پایان مودال</value>
+                </data>
+<data name="Organizational Unit" xml:space="preserve">
+                    <value>واحد سازمانی</value>
+                </data>
+<data name="Personnel share" xml:space="preserve">
+                    <value>سهم پرسنل</value>
+                </data>
+<data name="Token type" xml:space="preserve">
+                    <value>نوع ژتون</value>
+                </data>
+<data name="Search and select the starting device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه شروع</value>
+                </data>
+<data name="payment type" xml:space="preserve">
+                    <value>نوع پرداخت</value>
+                </data>
+<data name="Date of birth" xml:space="preserve">
+                    <value>تاریخ تولد</value>
+                </data>
+<data name="The entire hourly mission" xml:space="preserve">
+                    <value>کل ماموریت ساعتی</value>
+                </data>
+<data name="login image" xml:space="preserve">
+                    <value>تصویر ورود</value>
+                </data>
+<data name="Out of range" xml:space="preserve">
+                    <value>خارج از بازه</value>
+                </data>
+<data name="Name and surname" xml:space="preserve">
+                    <value>نــام و نــام خانوادگی</value>
+                </data>
+<data name="Settings for the type of food use" xml:space="preserve">
+                    <value>تنظیمات نوع استفاده از غذا</value>
+                </data>
+<data name="The whole last-minute rush" xml:space="preserve">
+                    <value>کل تعجیل آخر وقت</value>
+                </data>
+<data name="Transferee" xml:space="preserve">
+                    <value>تحویل گیرنده</value>
+                </data>
+<data name="Entry Registrar" xml:space="preserve">
+                    <value>ثبت کننده ورود</value>
+                </data>
+<data name="reservation date" xml:space="preserve">
+                    <value>تاریخ رزرو</value>
+                </data>
+<data name="Personnel reservation" xml:space="preserve">
+                    <value>رزرو پرسنل</value>
+                </data>
+<data name="Total daily mission" xml:space="preserve">
+                    <value>کل ماموریت روزانه</value>
+                </data>
+<data name="Report of users who have not reserved food" xml:space="preserve">
+                    <value>گزارش کاربرانی که غذا رزرو نکرده اند</value>
+                </data>
+<data name="It has not left the company or has not yet been delivered to the client" xml:space="preserve">
+                    <value>از شرکت خارج نشده یا هنوز تحویل مراجعه کننده نشده است</value>
+                </data>
+<data name="Mission without daily pay" xml:space="preserve">
+                    <value>ماموریت بدون حقوق روزانه</value>
+                </data>
+<data name="Until the date of arrival" xml:space="preserve">
+                    <value>تا تاریـخ ورود</value>
+                </data>
+<data name="Font size" xml:space="preserve">
+                    <value>اندازه فونت</value>
+                </data>
+<data name="End time of traffic permit" xml:space="preserve">
+                    <value>ساعت پایان مجوز تردد</value>
+                </data>
+<data name="Delivery Date" xml:space="preserve">
+                    <value>تاریخ تحویل</value>
+                </data>
+<data name="Preview" xml:space="preserve">
+                    <value>پیش نمایش</value>
+                </data>
+<data name="Unauthorized overtime before time" xml:space="preserve">
+                    <value>اضافه کار غیرمجاز قبل وقت</value>
+                </data>
+<data name="Food search and selection" xml:space="preserve">
+                    <value>جستجو و انتخاب غذا</value>
+                </data>
+<data name="Pie chart" xml:space="preserve">
+                    <value>نمودار دایره ای</value>
+                </data>
+<data name="Fixed overtime" xml:space="preserve">
+                    <value>اضافه کار ثابت</value>
+                </data>
+<data name="equal" xml:space="preserve">
+                    <value>مساوی</value>
+                </data>
+<data name="Delivery status" xml:space="preserve">
+                    <value>وضعیت تحویل</value>
+                </data>
+<data name="Delivery" xml:space="preserve">
+                    <value>تحویل دهنده</value>
+                </data>
+<data name="Error in calling traffic information" xml:space="preserve">
+                    <value>خطا در فراخوانی اطلاعات تردد</value>
+                </data>
+<data name="all items" xml:space="preserve">
+                    <value>همه موارد</value>
+                </data>
+<data name="Allowed acceleration at the end of time" xml:space="preserve">
+                    <value>تعجیل مجاز آخر وقت</value>
+                </data>
+<data name="Hall" xml:space="preserve">
+                    <value>سالن</value>
+                </data>
+<data name="Until the date of your return" xml:space="preserve">
+                    <value>تا تاریـخ عودت</value>
+                </data>
+<data name="Choose the zone" xml:space="preserve">
+                    <value>انتخاب زون</value>
+                </data>
+<data name="log in" xml:space="preserve">
+                    <value>ورود</value>
+                </data>
+<data name="Report based on" xml:space="preserve">
+                    <value>گزارش براساس</value>
+                </data>
+<data name="Definition of building" xml:space="preserve">
+                    <value>تعریف ساختمان</value>
+                </data>
+<data name="Foreign" xml:space="preserve">
+                    <value>خارجی</value>
+                </data>
+<data name="zone registration" xml:space="preserve">
+                    <value>ثبت زون</value>
+                </data>
+<data name="Price" xml:space="preserve">
+                    <value>قیمت</value>
+                </data>
+<data name="Amount" xml:space="preserve">
+                    <value>مبلغ</value>
+                </data>
+<data name="Incomplete transportation and absence" xml:space="preserve">
+                    <value>تردد ناقص و غیبت</value>
+                </data>
+<data name="name of organization" xml:space="preserve">
+                    <value>نام سازمان</value>
+                </data>
+<data name="date of departure" xml:space="preserve">
+                    <value>تاریخ خروج</value>
+                </data>
+<data name="Monthly traffic report" xml:space="preserve">
+                    <value>گزارش ماهانه تردد</value>
+                </data>
+<data name="Modal ending" xml:space="preserve">
+                    <value>پایان مودال</value>
+                </data>
+<data name="Total overtime ahead of time" xml:space="preserve">
+                    <value>کل اضافه کار قبل وقت</value>
+                </data>
+<data name="not used" xml:space="preserve">
+                    <value>استفاده نشده</value>
+                </data>
+<data name="Meeting start time" xml:space="preserve">
+                    <value>ساعت شروع ملاقات</value>
+                </data>
+<data name="Personalization field" xml:space="preserve">
+                    <value>فیلد شخصی سازی</value>
+                </data>
+<data name="Transaction type" xml:space="preserve">
+                    <value>نوع تراکنش</value>
+                </data>
+<data name="last name" xml:space="preserve">
+                    <value>نام خانوادگی</value>
+                </data>
+<data name="from the hour" xml:space="preserve">
+                    <value>از ساعت</value>
+                </data>
+<data name="Advanced display" xml:space="preserve">
+                    <value>نمایش پیشرفته</value>
+                </data>
+<data name="Traffic report" xml:space="preserve">
+                    <value>گزارش تردد</value>
+                </data>
+<data name="Allowed first time delay" xml:space="preserve">
+                    <value>تاخیر مجاز اول وقت</value>
+                </data>
+<data name="Client's photo" xml:space="preserve">
+                    <value>عکس ارباب رجوع</value>
+                </data>
+<data name="General report of clients by client" xml:space="preserve">
+                    <value>گزارش کلی مراجعین به تفکیک مراجعه کننده</value>
+                </data>
+<data name="Hourly accident leave" xml:space="preserve">
+                    <value>مرخصی حادثه ساعتی</value>
+                </data>
+<data name="Referred" xml:space="preserve">
+                    <value>مراجعه کننده</value>
+                </data>
+<data name="Search and select the starting device" xml:space="preserve">
+                    <value>جستجو و انتخاب دستگاه   شروع</value>
+                </data>
+<data name="Previous reference unit" xml:space="preserve">
+                    <value>واحد مراجعه قبلی</value>
+                </data>
+<data name="Total first time delay" xml:space="preserve">
+                    <value>کل تاخیر اول وقت</value>
+                </data>
+<data name="Annual show" xml:space="preserve">
+                    <value>نمایش سالیانه</value>
+                </data>
+<data name="Food consumption report by personnel" xml:space="preserve">
+                    <value>گزارش مصرف غذا به تفکیک پرسنل</value>
+                </data>
+<data name="Unauthorized delay first time" xml:space="preserve">
+                    <value>تاخیر غیرمجاز اول وقت</value>
+                </data>
+<data name="Detailed food report" xml:space="preserve">
+                    <value>گزارش جزئی غذا</value>
+                </data>
+<data name="operator" xml:space="preserve">
+                    <value>عملگر</value>
+                </data>
+<data name="Food consumption report by food" xml:space="preserve">
+                    <value>گزارش مصرف غذا به تفکیک غذا</value>
+                </data>
+<data name="Report of the client's companions" xml:space="preserve">
+                    <value>گزارش همراهان ارباب رجوع</value>
+                </data>
+<data name="absence" xml:space="preserve">
+                    <value>غیبت</value>
+                </data>
+<data name="card number" xml:space="preserve">
+                    <value>شماره کارت</value>
+                </data>
+<data name="Condition specification" xml:space="preserve">
+                    <value>مشخصات شرط</value>
+                </data>
+<data name="Restaurant" xml:space="preserve">
+                    <value>رستوران</value>
+                </data>
+<data name="up to personnel" xml:space="preserve">
+                    <value>تا پرسنل</value>
+                </data>
+<data name="Today's show" xml:space="preserve">
+                    <value>نمایش روز جاری</value>
+                </data>
+<data name="food name" xml:space="preserve">
+                    <value>نام غذا</value>
+                </data>
+<data name="report from" xml:space="preserve">
+                    <value>گزارش از</value>
+                </data>
+<data name="Attendance law code" xml:space="preserve">
+                    <value>کد قانون حضور</value>
+                </data>
+<data name="System error" xml:space="preserve">
+                    <value>خطای سیستم</value>
+                </data>
+<data name="Report of personnel meals by unit" xml:space="preserve">
+                    <value>گزارش غذاهای پرسنل به تفکیک واحد</value>
+                </data>
+<data name="Against" xml:space="preserve">
+                    <value>مخالف</value>
+                </data>
+<data name="sale day" xml:space="preserve">
+                    <value>روز فروش</value>
+                </data>
+<data name="Status of use" xml:space="preserve">
+                    <value>وضعیت استفاده</value>
+                </data>
+<data name="Description of meeting" xml:space="preserve">
+                    <value>توضیحات ملاقات</value>
+                </data>
+<data name="Daily unpaid leave" xml:space="preserve">
+                    <value>مرخصی بدون حقوق روزانه</value>
+                </data>
+<data name="night work" xml:space="preserve">
+                    <value>شب کاری</value>
+                </data>
+<data name="Excel file" xml:space="preserve">
+                    <value>فایل اکسل</value>
+                </data>
+<data name="is out" xml:space="preserve">
+                    <value>خارج شده است</value>
+                </data>
+<data name="Print settings" xml:space="preserve">
+                    <value>تنظیمات چـاپ</value>
+                </data>
+<data name="Traffic permit start time" xml:space="preserve">
+                    <value>ساعت شروع مجوز تردد</value>
+                </data>
+<data name="Organization" xml:space="preserve">
+                    <value>سازمان</value>
+                </data>
+<data name="The name of the report" xml:space="preserve">
+                    <value>نام گزارش</value>
+                </data>
+<data name="Exit Registrar" xml:space="preserve">
+                    <value>ثبت کننده خروج</value>
+                </data>
+<data name="until" xml:space="preserve">
+                    <value>تا ساعت</value>
+                </data>
+<data name="side dishes" xml:space="preserve">
+                    <value>مخلفات</value>
+                </data>
+<data name="code" xml:space="preserve">
+                    <value>کد</value>
+                </data>
+<data name="Remaining charge" xml:space="preserve">
+                    <value>باقیمانده شارژ</value>
+                </data>
+<data name="Date of commencement of traffic permit" xml:space="preserve">
+                    <value>تاریخ شروع مجوز تردد</value>
+                </data>
+<data name="Self service" xml:space="preserve">
+                    <value>سلف سرویس</value>
+                </data>
+<data name="Bar graph" xml:space="preserve">
+                    <value>نمودار میله ای</value>
+                </data>
+<data name="attendance time" xml:space="preserve">
+                    <value>زمان حضور</value>
+                </data>
+<data name="Beginning" xml:space="preserve">
+                    <value>شروع</value>
+                </data>
+<data name="actions" xml:space="preserve">
+                    <value>اعمال</value>
+                </data>
+<data name="Pre-purchase food" xml:space="preserve">
+                    <value>پیش خرید غذا</value>
+                </data>
+<data name="Expiry date of traffic permit" xml:space="preserve">
+                    <value>تاریخ پایان مجوز تردد</value>
+                </data>
+<data name="General food report" xml:space="preserve">
+                    <value>گزارش کلی غذا</value>
+                </data>
+<data name="Total authorized attendance" xml:space="preserve">
+                    <value>کل حضور مجاز</value>
+                </data>
+<data name="Creating a report" xml:space="preserve">
+                    <value>در حال ساخت گزارش</value>
+                </data>
+<data name="leave balance" xml:space="preserve">
+                    <value>مانده مرخصی</value>
+                </data>
+<data name="exit device" xml:space="preserve">
+                    <value>دستگاه خروج</value>
+                </data>
+<data name="from the code" xml:space="preserve">
+                    <value>از کد</value>
+                </data>
+<data name="Report of those present and absent" xml:space="preserve">
+                    <value>گزارش حاضرین و غایبین</value>
+                </data>
+<data name="Name of the working group" xml:space="preserve">
+                    <value>نام گروه کاری</value>
+                </data>
+<data name="Report of personnel meals by group" xml:space="preserve">
+                    <value>گزارش غذاهای پرسنل به تفکیک گروه</value>
+                </data>
+<data name="Partial performance report" xml:space="preserve">
+                    <value>گزارش کارکرد جزئی</value>
+                </data>
+<data name="used" xml:space="preserve">
+                    <value>استفاده شده</value>
+                </data>
+<data name="The shift has not started" xml:space="preserve">
+                    <value>شیفت شروع نشده</value>
+                </data>
+<data name="Number of meals" xml:space="preserve">
+                    <value>تعداد غذا</value>
+                </data>
+<data name="until date" xml:space="preserve">
+                    <value>تا تاریـخ</value>
+                </data>
+<data name="Select the modal end date" xml:space="preserve">
+                    <value>انتخاب تاریخ  پایان مودال</value>
+                </data>
+<data name="Stability" xml:space="preserve">
+                    <value>ثبات</value>
+                </data>
+<data name="meal time" xml:space="preserve">
+                    <value>ساعت صرف غذا</value>
+                </data>
+<data name="Food" xml:space="preserve">
+                    <value>غذا</value>
+                </data>
+<data name="Bar chart display" xml:space="preserve">
+                    <value>نمایش نمودار میله ای</value>
+                </data>
+<data name="Attendees" xml:space="preserve">
+                    <value>حاضرین</value>
+                </data>
+<data name="Selection" xml:space="preserve">
+                    <value>انتخاب</value>
+                </data>
+<data name="It is reserved" xml:space="preserve">
+                    <value>رزرو شده است</value>
+                </data>
+<data name="Unauthorized overtime after hours" xml:space="preserve">
+                    <value>اضافه کار غیرمجاز بعد وقت</value>
+                </data>
+<data name="Meal date" xml:space="preserve">
+                    <value>تاریخ صرف غذا</value>
+                </data>
+<data name="Search" xml:space="preserve">
+                    <value>جستجو</value>
+                </data>
+<data name="from history" xml:space="preserve">
+                    <value>از تاریـخ</value>
+                </data>
+<data name="Personnel" xml:space="preserve">
+                    <value>پرسنل</value>
+                </data>
+<data name="Time of last update" xml:space="preserve">
+                    <value>ساعت آخرین بروز رسانی</value>
+                </data>
+<data name="entry date" xml:space="preserve">
+                    <value>تاریخ ورود</value>
+                </data>
+<data name="Internal" xml:space="preserve">
+                    <value>داخلی</value>
+                </data>
+<data name="first date" xml:space="preserve">
+                    <value>تاریخ ابتدا</value>
+                </data>
+<data name="Up to visiting personnel" xml:space="preserve">
+                    <value>تا پرسنل ملاقات شونده</value>
+                </data>
+<data name="meeting status" xml:space="preserve">
+                    <value>وضعیت ملاقات</value>
+                </data>
+<data name="Traffic based food report" xml:space="preserve">
+                    <value>گزارش غذا تردد براساس</value>
+                </data>
+<data name="System config error" xml:space="preserve">
+                    <value>خطای کانفیگ سیستم</value>
+                </data>
+<data name="customer" xml:space="preserve">
+                    <value>ارباب رجوع</value>
+                </data>
+<data name="invisible" xml:space="preserve">
+                    <value>غاییبین</value>
+                </data>
+<data name="Referrer type" xml:space="preserve">
+                    <value>نوع مراجعه کننده</value>
+                </data>
+<data name="father's name" xml:space="preserve">
+                    <value>نام پدر</value>
+                </data>
+<data name="Text file" xml:space="preserve">
+                    <value>فایل تکست</value>
+                </data>
+<data name="From personnel" xml:space="preserve">
+                    <value>از پرسنل</value>
+                </data>
+<data name="Font" xml:space="preserve">
+                    <value>فونت</value>
+                </data>
+<data name="Graphic display" xml:space="preserve">
+                    <value>نمایش گرافیکی</value>
+                </data>
+<data name="according to" xml:space="preserve">
+                    <value>برحسب</value>
+                </data>
+<data name="workgroup" xml:space="preserve">
+                    <value>گروه کاری</value>
+                </data>
+<data name="end date" xml:space="preserve">
+                    <value>تاریخ انتها</value>
+                </data>
+<data name="Selected personnel" xml:space="preserve">
+                    <value>پرسنل انتخابی</value>
+                </data>
+<data name="bigger" xml:space="preserve">
+                    <value>بزرگتر</value>
+                </data>
+<data name="Main entrance" xml:space="preserve">
+                    <value>ورود اصلی</value>
+                </data>
+<data name="Female" xml:space="preserve">
+                    <value>زن</value>
+                </data>
+<data name="the date" xml:space="preserve">
+                    <value>تـاریخ</value>
+                </data>
+<data name="main exit" xml:space="preserve">
+                    <value>خروج اصلی</value>
+                </data>
+<data name="Until the delivery date" xml:space="preserve">
+                    <value>تا تاریـخ تحویل</value>
+                </data>
+<data name="Client settings" xml:space="preserve">
+                    <value>تنظیمات ارباب رجوع</value>
+                </data>
+<data name="Meal" xml:space="preserve">
+                    <value>وعده غذایی</value>
+                </data>
+<data name="reason for referral" xml:space="preserve">
+                    <value>علت مراجعه</value>
+                </data>
+<data name="shift work" xml:space="preserve">
+                    <value>نوبت کاری</value>
+                </data>
+<data name="done" xml:space="preserve">
+                    <value>انجام شده</value>
+                </data>
+<data name="Your return date" xml:space="preserve">
+                    <value>تاریخ عودت</value>
+                </data>
+<data name="Guide" xml:space="preserve">
+                    <value>راهنما</value>
+                </data>
+<data name="Location of the client" xml:space="preserve">
+                    <value>مکان مراجعه کننده</value>
+                </data>
+<data name="free shift" xml:space="preserve">
+                    <value>شیفت  آزاد</value>
+                </data>
+<data name="free card" xml:space="preserve">
+                    <value>کارت آزاد</value>
+                </data>
+<data name="Due to the lack of server-side code" xml:space="preserve">
+                    <value>به دلیل عدم وجود کد سمت سرور</value>
+                </data>
+<data name="Employee share" xml:space="preserve">
+                    <value>سهم کارمند</value>
+                </data>
+<data name="both" xml:space="preserve">
+                    <value>هر دو</value>
+                </data>
+<data name="Personnel food report by date" xml:space="preserve">
+                    <value>گزارش غذاهای پرسنل به تفکیک تاریخ</value>
+                </data>
+<data name="From the date of delivery" xml:space="preserve">
+                    <value>از تاریـخ تحویل</value>
+                </data>
+<data name="Hourly paid mission" xml:space="preserve">
+                    <value>ماموریت باحقوق ساعتی</value>
+                </data>
+<data name="Hourly sick leave" xml:space="preserve">
+                    <value>مرخصی استعلاجی ساعتی</value>
+                </data>
+<data name="Date of last update" xml:space="preserve">
+                    <value>تاریخ آخرین بروز رسانی</value>
+                </data>
+<data name="it is imported" xml:space="preserve">
+                    <value>وارد شده است</value>
+                </data>
+<data name="Detailed report of clients by client" xml:space="preserve">
+                    <value>گزارش جزئی مراجعین به تفکیک مراجعه کننده</value>
+                </data>
+<data name="Select device" xml:space="preserve">
+                    <value>انتخاب دستگاه</value>
+                </data>
+<data name="food code" xml:space="preserve">
+                    <value>کد غذا</value>
+                </data>
+<data name="The name of the attendance law" xml:space="preserve">
+                    <value>نـام قانون حضور</value>
+                </data>
+<data name="smaller equal" xml:space="preserve">
+                    <value>کوچکتر مساوی</value>
+                </data>
+<data name="Device code" xml:space="preserve">
+                    <value>کد دستگاه</value>
+                </data>
+<data name="Company" xml:space="preserve">
+                    <value>شرکت</value>
+                </data>
+<data name="Get the image" xml:space="preserve">
+                    <value>دریافت تصویر</value>
+                </data>
+<data name="Detailed traffic report" xml:space="preserve">
+                    <value>گزارش جزئی تردد</value>
+                </data>
+<data name="From the date of departure" xml:space="preserve">
+                    <value>از تاریـخ خروج</value>
+                </data>
+<data name="New" xml:space="preserve">
+                    <value>جدید</value>
+                </data>
+<data name="Change title and order" xml:space="preserve">
+                    <value>تغییر عنوان و ترتیب</value>
+                </data>
+<data name="Summary of traffic" xml:space="preserve">
+                    <value>خلاصه تردد</value>
+                </data>
+<data name="phone number" xml:space="preserve">
+                    <value>شماره موبایل</value>
+                </data>
+<data name="Up to date" xml:space="preserve">
+                    <value>تا تاریخ</value>
+                </data>
+<data name="change" xml:space="preserve">
+                    <value>تغییر</value>
+                </data>
+<data name="remaining" xml:space="preserve">
+                    <value>مانده</value>
+                </data>
+<data name="Show all records" xml:space="preserve">
+                    <value>نمایش تمامی رکوردها</value>
+                </data>
+<data name="Parking" xml:space="preserve">
+                    <value>پارکینگ</value>
+                </data>
+<data name="The name of the organizational unit" xml:space="preserve">
+                    <value>نـام واحد سازمانی</value>
+                </data>
+<data name="confirmation" xml:space="preserve">
+                    <value>تایید</value>
+                </data>
+<data name="Id" xml:space="preserve">
+                    <value>شماره شناسنامه</value>
+                </data>
+<data name="History" xml:space="preserve">
+                    <value>تاریخ</value>
+                </data>
+<data name="low time work" xml:space="preserve">
+                    <value>کسر کار</value>
+                </data>
+<data name="Presence statuses" xml:space="preserve">
+                    <value>وضعیت های حضور</value>
+                </data>
+<data name="Amount of money That had to be paid" xml:space="preserve">
+                    <value>مبلغ پرداختی</value>
+                </data>
+<data name="undone" xml:space="preserve">
+                    <value>انجام نشده</value>
+                </data>
+<data name="Traffic devices" xml:space="preserve">
+                    <value>دستگاه های تردد</value>
+                </data>
+<data name="Attending the shift" xml:space="preserve">
+                    <value>حضور در شیفت</value>
+                </data>
+<data name="Daily organizational leave" xml:space="preserve">
+                    <value>مرخصی سازمانی روزانه</value>
+                </data>
+<data name="Identification" xml:space="preserve">
+                    <value>شناسایی</value>
+                </data>
+<data name="Optional attendees" xml:space="preserve">
+                    <value>حاضریین غیر موظف</value>
+                </data>
+<data name="Hourly paid leave" xml:space="preserve">
+                    <value>مرخصی استحقاقی ساعتی</value>
+                </data>
+<data name="parent zone" xml:space="preserve">
+                    <value>زون والد</value>
+                </data>
+<data name="The report of the clients is divided by the referred personnel" xml:space="preserve">
+                    <value>گزارش مراجعین به تفکیک پرسنل مراجعه شده</value>
+                </data>
+<data name="Smaller" xml:space="preserve">
+                    <value>کوچکتر</value>
+                </data>
+<data name="Customer traffic image report" xml:space="preserve">
+                    <value>گزارش تصویر تردد ارباب رجوع</value>
+                </data>
+<data name="Serial number" xml:space="preserve">
+                    <value>شماره سریال</value>
+                </data>
+<data name="Traffic time difference report" xml:space="preserve">
+                    <value>گزارش اختلاف زمان تردد</value>
+                </data>
+<data name="Guest" xml:space="preserve">
+                    <value>میهمان</value>
+                </data>
+<data name="type of food" xml:space="preserve">
+                    <value>نوع غذا</value>
+                </data>
+<data name="Display settings" xml:space="preserve">
+                    <value>تنظیمات نمایش</value>
+                </data>
+<data name="Show chart by date" xml:space="preserve">
+                    <value>نمایش نمودار به تفکیک تاریخ</value>
+                </data>
+<data name="item" xml:space="preserve">
+                    <value>آیتم</value>
+                </data>
+<data name="gender" xml:space="preserve">
+                    <value>جنسیت</value>
+                </data>
+<data name="Pie chart display" xml:space="preserve">
+                    <value>نمایش نمودار دایره ای</value>
+                </data>
+<data name="Graphic attendees and absentees" xml:space="preserve">
+                    <value>حاضرین و غایبین گرافیکی</value>
+                </data>
+<data name="Condition" xml:space="preserve">
+                    <value>وضعیت</value>
+                </data>
+<data name="Daily accident leave" xml:space="preserve">
+                    <value>مرخصی حادثه روزانه</value>
+                </data>
+<data name="Allowed daily absence" xml:space="preserve">
+                    <value>غیبت مجاز روزانه</value>
+                </data>
+<data name="The name of the input device" xml:space="preserve">
+                    <value>نام دستگاه ورود</value>
+                </data>
+<data name="Ordering" xml:space="preserve">
+                    <value>مرتب سازی</value>
+                </data>
+<data name="Total holiday overtime" xml:space="preserve">
+                    <value>کل اضافه کار تعطیل</value>
+                </data>
+<data name="File output" xml:space="preserve">
+                    <value>خروجی فایل</value>
+                </data>
+<data name="Select date" xml:space="preserve">
+                    <value>انتخاب تاریخ</value>
+                </data>
+<data name="Total overtime" xml:space="preserve">
+                    <value>کل اضافه کار</value>
+                </data>
+<data name="Overtime allowed ahead of time" xml:space="preserve">
+                    <value>اضافه کار مجاز قبل وقت</value>
+                </data>
+<data name="Number of referrals" xml:space="preserve">
+                    <value>تعداد مراجعه</value>
+                </data>
+<data name="print" xml:space="preserve">
+                    <value>چاپ</value>
+                </data>
+<data name="Rials" xml:space="preserve">
+                    <value>ریال</value>
+                </data>
+<data name="departure time" xml:space="preserve">
+                    <value>زمان خروج</value>
+                </data>
+<data name="Paid daily leave" xml:space="preserve">
+                    <value>مرخصی استحقاقی روزانه</value>
+                </data>
+<data name="Type of ID card" xml:space="preserve">
+                    <value>نوع کارت شناسایی</value>
+                </data>
+<data name="receipt number" xml:space="preserve">
+                    <value>شماره فیش</value>
+                </data>
+<data name="companions" xml:space="preserve">
+                    <value>همراهان</value>
+                </data>
+<data name="Dessert" xml:space="preserve">
+                    <value>دسر</value>
+                </data>
+<data name="from" xml:space="preserve">
+                    <value>از تاریخ</value>
+                </data>
+<data name="Manufacturer" xml:space="preserve">
+                    <value>شرکت سازنده</value>
+                </data>
+<data name="Exit image" xml:space="preserve">
+                    <value>تصویر خروج</value>
+                </data>
+<data name="Report" xml:space="preserve">
+                    <value>گزارش</value>
+                </data>
+<data name="Display the chart by personnel number" xml:space="preserve">
+                    <value>نمایش نمودار به تفکیک شماره پرسنلی</value>
+                </data>
+<data name="Workgroup code" xml:space="preserve">
+                    <value>کد گروه کاری</value>
+                </data>
+<data name="Holiday overtime allowed" xml:space="preserve">
+                    <value>اضافه کار تعطیل مجاز</value>
+                </data>
+<data name="Selected title" xml:space="preserve">
+                    <value>عنوان انتخابی</value>
+                </data>
+<data name="Personnel Code" xml:space="preserve">
+                    <value>کد پرسنلی</value>
+                </data>
+<data name="Title" xml:space="preserve">
+                    <value>عنوان</value>
+                </data>
+<data name="Absent" xml:space="preserve">
+                    <value>غایب</value>
+                </data>
+<data name="Display graph by device" xml:space="preserve">
+                    <value>نمایش نمودار به تفکیک دستگاه</value>
+                </data>
+<data name="Report of clients by time period" xml:space="preserve">
+                    <value>گزارش مراجعین به تفکیک بازه زمانی</value>
+                </data>
+<data name="National Code" xml:space="preserve">
+                    <value>کد ملی</value>
+                </data>
+<data name="XML file" xml:space="preserve">
+                    <value>فایل ایکس ام ال</value>
+                </data>
+<data name="Add condition" xml:space="preserve">
+                    <value>اضافه کردن شرط</value>
+                </data>
+<data name="Return status" xml:space="preserve">
+                    <value>وضعیت عودت</value>
+                </data>
+<data name="Modal start" xml:space="preserve">
+                    <value>شروع مودال</value>
+                </data>
+<data name="Daily paid mission" xml:space="preserve">
+                    <value>ماموریت باحقوق روزانه</value>
+                </data>
+<data name="Incorrect pass" xml:space="preserve">
+                    <value>عدم صحت عبور</value>
+                </data>
+<data name="Report the maximum time of unauthorized presence of personnel" xml:space="preserve">
+                    <value>گزارش حداکثر زمان حضور غیر مجاز پرسنل</value>
+                </data>
+<data name="Payment status" xml:space="preserve">
+                    <value>وضعیت پرداخت</value>
+                </data>
+<data name="order" xml:space="preserve">
+                    <value>ترتیب</value>
+                </data>
+<data name="Available reports" xml:space="preserve">
+                    <value>گزارشهای موجود</value>
+                </data>
+<data name="name" xml:space="preserve">
+                    <value>نام</value>
+                </data>
+<data name="Food financial report" xml:space="preserve">
+                    <value>گزارش مالی غذا</value>
+                </data>
+<data name="Unauthorized haste at the end of time" xml:space="preserve">
+                    <value>تعجیل غیرمجاز آخر وقت</value>
+                </data>
+<data name="Report type" xml:space="preserve">
+                    <value>نوع گزارش</value>
+                </data>
+<data name="patrol and guard" xml:space="preserve">
+                    <value>گشت و نگهبانی</value>
+                </data>
+<data name="The guard has been delivered" xml:space="preserve">
+                    <value>تحویل نگهبان شده است</value>
+                </data>
+<data name="zone" xml:space="preserve">
+                    <value>زون</value>
+                </data>
+<data name="Contractors" xml:space="preserve">
+                    <value>پیمانکار</value>
+                </data>
+<data name="City" xml:space="preserve">
+                    <value>شهر</value>
+                </data>
+<data name="device type" xml:space="preserve">
+                    <value>نوع دستگاه</value>
+                </data>
+<data name="Building" xml:space="preserve">
+                    <value>ساختمان</value>
+                </data>

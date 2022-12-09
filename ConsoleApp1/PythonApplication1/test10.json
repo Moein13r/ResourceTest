@@ -1,0 +1,1544 @@
+{
+    "Words": [
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "غیبت مجاز ساعتی",
+            "English": "Hourly absence"
+        },
+        {
+            "Persian": "وضعیت حضور",
+            "English": "attendance status"
+        },
+        {
+            "Persian": "کل حضور",
+            "English": "total presence"
+        },
+        {
+            "Persian": "فایل اکسس",
+            "English": "Access file"
+        },
+        {
+            "Persian": "نوع وسیله",
+            "English": "device type"
+        },
+        {
+            "Persian": "تنظیمات گزارش",
+            "English": "Report settings"
+        },
+        {
+            "Persian": "ارباب رجوع و پرسنل",
+            "English": "Clients and staff"
+        },
+        {
+            "Persian": "گزارش ارباب رجوع",
+            "English": "Client report"
+        },
+        {
+            "Persian": "تکراری",
+            "English": "Repetitious"
+        },
+        {
+            "Persian": "فایل پی دی اف",
+            "English": "PDF file"
+        },
+        {
+            "Persian": "وارد شرکت شده است",
+            "English": "Entered the company"
+        },
+        {
+            "Persian": "زمان ورود",
+            "English": "arrival time"
+        },
+        {
+            "Persian": "دستگاه ورود",
+            "English": "Login device"
+        },
+        {
+            "Persian": "نمایش",
+            "English": "the show"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "نوع استخدام",
+            "English": "type of employment"
+        },
+        {
+            "Persian": "تراکنش های مالی",
+            "English": "Financial transactions"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه",
+            "English": "Search and select device"
+        },
+        {
+            "Persian": "زمان های تردد",
+            "English": "Travel times"
+        },
+        {
+            "Persian": "غیرمجاز",
+            "English": "illegal"
+        },
+        {
+            "Persian": "تصویر آخرین تردد",
+            "English": "The image of the last traffic"
+        },
+        {
+            "Persian": "اضافه کار تعطیل غیرمجاز",
+            "English": "Unauthorized holiday overtime"
+        },
+        {
+            "Persian": "اضافه کار مجاز بعد وقت",
+            "English": "Allowed overtime after hours"
+        },
+        {
+            "Persian": "کنترل دسترسی",
+            "English": "Access control"
+        },
+        {
+            "Persian": "تا تاریـخ خروج",
+            "English": "Until the date of departure"
+        },
+        {
+            "Persian": "سایر تنظیمات",
+            "English": "Other settings"
+        },
+        {
+            "Persian": "حضور و غیاب",
+            "English": "presence and absence"
+        },
+        {
+            "Persian": "مرخصی بدون حقوق ساعتی",
+            "English": "Leave without hourly pay"
+        },
+        {
+            "Persian": "تاریخ بروزرسانی",
+            "English": "Update date"
+        },
+        {
+            "Persian": "نوع تردد",
+            "English": "Type of traffic"
+        },
+        {
+            "Persian": "نـام خانوادگی پرسنل",
+            "English": "Surname of personnel"
+        },
+        {
+            "Persian": "کل اضافه کار بعد وقت",
+            "English": "Total overtime after time"
+        },
+        {
+            "Persian": "گروه",
+            "English": "group"
+        },
+        {
+            "Persian": "لطفا منتظر بمانید",
+            "English": "please wait"
+        },
+        {
+            "Persian": "گزارش مراجعین به تفکیک تاریخ",
+            "English": "Client report by date"
+        },
+        {
+            "Persian": "مناسبت",
+            "English": "occasion"
+        },
+        {
+            "Persian": "وضعیت غذا",
+            "English": "food situation"
+        },
+        {
+            "Persian": "خروج",
+            "English": "Exit"
+        },
+        {
+            "Persian": "دستگاه",
+            "English": "device"
+        },
+        {
+            "Persian": "مرد",
+            "English": "Man"
+        },
+        {
+            "Persian": "کشور",
+            "English": "Country"
+        },
+        {
+            "Persian": "ماه رمضان",
+            "English": "Ramadan"
+        },
+        {
+            "Persian": "نوع",
+            "English": "type"
+        },
+        {
+            "Persian": "ساعت ورود",
+            "English": "entrance time"
+        },
+        {
+            "Persian": "کل اضافه کار غیرمجاز",
+            "English": "Total unauthorized overtime"
+        },
+        {
+            "Persian": "پرداخت شده",
+            "English": "Paid"
+        },
+        {
+            "Persian": "حاضر",
+            "English": "Present"
+        },
+        {
+            "Persian": "گزارش مراجعین به تفکیک واحد های سازمانی مراجعه شده",
+            "English": "The report of the clients is divided by the referred organizational units"
+        },
+        {
+            "Persian": "کارکرد روزانه",
+            "English": "daily operation"
+        },
+        {
+            "Persian": "نحوه پرداخت",
+            "English": "payment method"
+        },
+        {
+            "Persian": "بدون تردد",
+            "English": "No traffic"
+        },
+        {
+            "Persian": "به روز",
+            "English": "up to date"
+        },
+        {
+            "Persian": "بزرگتر مساوی",
+            "English": "greater equal"
+        },
+        {
+            "Persian": "موفقیت",
+            "English": "Success"
+        },
+        {
+            "Persian": "برای جستجوری چند کد ملی آنها را با",
+            "English": "To search for several national codes, use"
+        },
+        {
+            "Persian": "به ساعت",
+            "English": "to the hour"
+        },
+        {
+            "Persian": "از شرکت خارج شده یا به مراجعه کننده برگشت داده شده است",
+            "English": "It has been withdrawn from the company or returned to the client"
+        },
+        {
+            "Persian": "ماموریت بدون حقوق ساعتی",
+            "English": "Mission without hourly pay"
+        },
+        {
+            "Persian": "روز",
+            "English": "Day"
+        },
+        {
+            "Persian": "وضعیت اسکان",
+            "English": "Accommodation status"
+        },
+        {
+            "Persian": "داده های ورودی گزارش معتبر نیستند",
+            "English": "The log input data is not valid"
+        },
+        {
+            "Persian": "ساعت پایان ملاقات",
+            "English": "Meeting end time"
+        },
+        {
+            "Persian": "تردد ناقص",
+            "English": "Incomplete traffic"
+        },
+        {
+            "Persian": "پرداخت نشده",
+            "English": "unpaid"
+        },
+        {
+            "Persian": "نام و نام خانوادگی",
+            "English": "first name and last name"
+        },
+        {
+            "Persian": "کارکرد موظفی",
+            "English": "Mandatory function"
+        },
+        {
+            "Persian": "عنوان اصلی",
+            "English": "Original title"
+        },
+        {
+            "Persian": "عدم شناسایی",
+            "English": "Non-identification"
+        },
+        {
+            "Persian": "شیفت",
+            "English": "shift"
+        },
+        {
+            "Persian": "از تاریـخ عودت",
+            "English": "From the date of your return"
+        },
+        {
+            "Persian": "سهم سازمان",
+            "English": "Share of the organization"
+        },
+        {
+            "Persian": "فیلتر گزارش",
+            "English": "Report filter"
+        },
+        {
+            "Persian": "حذف کردن شرط",
+            "English": "Remove condition"
+        },
+        {
+            "Persian": "نام دستگاه",
+            "English": "device name"
+        },
+        {
+            "Persian": "فرمول نویسی",
+            "English": "Writing fomula"
+        },
+        {
+            "Persian": "کل اضافه کار مجاز",
+            "English": "Total overtime allowed"
+        },
+        {
+            "Persian": "درصد",
+            "English": "Percentage"
+        },
+        {
+            "Persian": "گزارش رزرو غذا",
+            "English": "Food reservation report"
+        },
+        {
+            "Persian": "خلاصه کل",
+            "English": "Summary of the whole"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "قیمت کل",
+            "English": "Total price"
+        },
+        {
+            "Persian": "انتخاب تاریخ   شروع",
+            "English": "Select a start date"
+        },
+        {
+            "Persian": "نـام پرسنل",
+            "English": "Personnel name"
+        },
+        {
+            "Persian": "مرخصی استعلاجی روزانه",
+            "English": "Daily sick leave"
+        },
+        {
+            "Persian": "خوابگاه",
+            "English": "Dorm"
+        },
+        {
+            "Persian": "مرخصی سازمانی ساعتی",
+            "English": "Hourly organizational leave"
+        },
+        {
+            "Persian": "تنظیمات غذا",
+            "English": "Food settings"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "از هم جدا کنید",
+            "English": "separate"
+        },
+        {
+            "Persian": "ملاقات شونده",
+            "English": "Visited"
+        },
+        {
+            "Persian": "حالت های مانیتورینگ",
+            "English": "Monitoring modes"
+        },
+        {
+            "Persian": "استان",
+            "English": "State"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "از پرسنل ملاقات شونده",
+            "English": "From visiting personnel"
+        },
+        {
+            "Persian": "نام دستگاه خروج",
+            "English": "The name of the output device"
+        },
+        {
+            "Persian": "تا کد",
+            "English": "up to the code"
+        },
+        {
+            "Persian": "تغییر عنوان و ترتیب گزینه ها در گزارش",
+            "English": "Changing the title and order of options in the report"
+        },
+        {
+            "Persian": "غیبت غیرمجاز روزانه",
+            "English": "Daily unauthorized absence"
+        },
+        {
+            "Persian": "از تاریـخ ورود",
+            "English": "From the date of arrival"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه  پایان مودال",
+            "English": "Search and select the modal end device"
+        },
+        {
+            "Persian": "واحد سازمانی",
+            "English": "Organizational Unit"
+        },
+        {
+            "Persian": "سهم پرسنل",
+            "English": "Personnel share"
+        },
+        {
+            "Persian": "نوع ژتون",
+            "English": "Token type"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه شروع",
+            "English": "Search and select the starting device"
+        },
+        {
+            "Persian": "نوع پرداخت",
+            "English": "payment type"
+        },
+        {
+            "Persian": "تاریخ تولد",
+            "English": "Date of birth"
+        },
+        {
+            "Persian": "کل ماموریت ساعتی",
+            "English": "The entire hourly mission"
+        },
+        {
+            "Persian": "تصویر ورود",
+            "English": "login image"
+        },
+        {
+            "Persian": "خارج از بازه",
+            "English": "Out of range"
+        },
+        {
+            "Persian": "نــام و نــام خانوادگی",
+            "English": "Name and surname"
+        },
+        {
+            "Persian": "تنظیمات نوع استفاده از غذا",
+            "English": "Settings for the type of food use"
+        },
+        {
+            "Persian": "کل تعجیل آخر وقت",
+            "English": "The whole last-minute rush"
+        },
+        {
+            "Persian": "تحویل گیرنده",
+            "English": "Transferee"
+        },
+        {
+            "Persian": "ثبت کننده ورود",
+            "English": "Entry Registrar"
+        },
+        {
+            "Persian": "تاریخ رزرو",
+            "English": "reservation date"
+        },
+        {
+            "Persian": "رزرو پرسنل",
+            "English": "Personnel reservation"
+        },
+        {
+            "Persian": "کل ماموریت روزانه",
+            "English": "Total daily mission"
+        },
+        {
+            "Persian": "گزارش کاربرانی که غذا رزرو نکرده اند",
+            "English": "Report of users who have not reserved food"
+        },
+        {
+            "Persian": "از شرکت خارج نشده یا هنوز تحویل مراجعه کننده نشده است",
+            "English": "It has not left the company or has not yet been delivered to the client"
+        },
+        {
+            "Persian": "ماموریت بدون حقوق روزانه",
+            "English": "Mission without daily pay"
+        },
+        {
+            "Persian": "تا تاریـخ ورود",
+            "English": "Until the date of arrival"
+        },
+        {
+            "Persian": "اندازه فونت",
+            "English": "Font size"
+        },
+        {
+            "Persian": "ساعت پایان مجوز تردد",
+            "English": "End time of traffic permit"
+        },
+        {
+            "Persian": "تاریخ تحویل",
+            "English": "Delivery Date"
+        },
+        {
+            "Persian": "پیش نمایش",
+            "English": "Preview"
+        },
+        {
+            "Persian": "اضافه کار غیرمجاز قبل وقت",
+            "English": "Unauthorized overtime before time"
+        },
+        {
+            "Persian": "جستجو و انتخاب غذا",
+            "English": "Food search and selection"
+        },
+        {
+            "Persian": "نمودار دایره ای",
+            "English": "Pie chart"
+        },
+        {
+            "Persian": "اضافه کار ثابت",
+            "English": "Fixed overtime"
+        },
+        {
+            "Persian": "مساوی",
+            "English": "equal"
+        },
+        {
+            "Persian": "وضعیت تحویل",
+            "English": "Delivery status"
+        },
+        {
+            "Persian": "تحویل دهنده",
+            "English": "Delivery"
+        },
+        {
+            "Persian": "خطا در فراخوانی اطلاعات تردد",
+            "English": "Error in calling traffic information"
+        },
+        {
+            "Persian": "همه موارد",
+            "English": "all items"
+        },
+        {
+            "Persian": "تعجیل مجاز آخر وقت",
+            "English": "Allowed acceleration at the end of time"
+        },
+        {
+            "Persian": "سالن",
+            "English": "Hall"
+        },
+        {
+            "Persian": "تا تاریـخ عودت",
+            "English": "Until the date of your return"
+        },
+        {
+            "Persian": "انتخاب زون",
+            "English": "Choose the zone"
+        },
+        {
+            "Persian": "ورود",
+            "English": "log in"
+        },
+        {
+            "Persian": "گزارش براساس",
+            "English": "Report based on"
+        },
+        {
+            "Persian": "تعریف ساختمان",
+            "English": "Definition of building"
+        },
+        {
+            "Persian": "خارجی",
+            "English": "Foreign"
+        },
+        {
+            "Persian": "ثبت زون",
+            "English": "zone registration"
+        },
+        {
+            "Persian": "قیمت",
+            "English": "Price"
+        },
+        {
+            "Persian": "مبلغ",
+            "English": "Amount"
+        },
+        {
+            "Persian": "تردد ناقص و غیبت",
+            "English": "Incomplete transportation and absence"
+        },
+        {
+            "Persian": "نام سازمان",
+            "English": "name of organization"
+        },
+        {
+            "Persian": "تاریخ خروج",
+            "English": "date of departure"
+        },
+        {
+            "Persian": "گزارش ماهانه تردد",
+            "English": "Monthly traffic report"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "کل اضافه کار قبل وقت",
+            "English": "Total overtime ahead of time"
+        },
+        {
+            "Persian": "استفاده نشده",
+            "English": "not used"
+        },
+        {
+            "Persian": "ساعت شروع ملاقات",
+            "English": "Meeting start time"
+        },
+        {
+            "Persian": "فیلد شخصی سازی",
+            "English": "Personalization field"
+        },
+        {
+            "Persian": "نوع تراکنش",
+            "English": "Transaction type"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "نمایش پیشرفته",
+            "English": "Advanced display"
+        },
+        {
+            "Persian": "گزارش تردد",
+            "English": "Traffic report"
+        },
+        {
+            "Persian": "تاخیر مجاز اول وقت",
+            "English": "Allowed first time delay"
+        },
+        {
+            "Persian": "عکس ارباب رجوع",
+            "English": "Client's photo"
+        },
+        {
+            "Persian": "گزارش کلی مراجعین به تفکیک مراجعه کننده",
+            "English": "General report of clients by client"
+        },
+        {
+            "Persian": "مرخصی حادثه ساعتی",
+            "English": "Hourly accident leave"
+        },
+        {
+            "Persian": "مراجعه کننده",
+            "English": "Referred"
+        },
+        {
+            "Persian": "جستجو و انتخاب دستگاه   شروع",
+            "English": "Search and select the starting device"
+        },
+        {
+            "Persian": "واحد مراجعه قبلی",
+            "English": "Previous reference unit"
+        },
+        {
+            "Persian": "کل تاخیر اول وقت",
+            "English": "Total first time delay"
+        },
+        {
+            "Persian": "نمایش سالیانه",
+            "English": "Annual show"
+        },
+        {
+            "Persian": "گزارش مصرف غذا به تفکیک پرسنل",
+            "English": "Food consumption report by personnel"
+        },
+        {
+            "Persian": "تاخیر غیرمجاز اول وقت",
+            "English": "Unauthorized delay first time"
+        },
+        {
+            "Persian": "گزارش جزئی غذا",
+            "English": "Detailed food report"
+        },
+        {
+            "Persian": "عملگر",
+            "English": "operator"
+        },
+        {
+            "Persian": "گزارش مصرف غذا به تفکیک غذا",
+            "English": "Food consumption report by food"
+        },
+        {
+            "Persian": "گزارش همراهان ارباب رجوع",
+            "English": "Report of the client's companions"
+        },
+        {
+            "Persian": "غیبت",
+            "English": "absence"
+        },
+        {
+            "Persian": "شماره کارت",
+            "English": "card number"
+        },
+        {
+            "Persian": "مشخصات شرط",
+            "English": "Condition specification"
+        },
+        {
+            "Persian": "رستوران",
+            "English": "Restaurant"
+        },
+        {
+            "Persian": "تا پرسنل",
+            "English": "up to personnel"
+        },
+        {
+            "Persian": "نمایش روز جاری",
+            "English": "Today's show"
+        },
+        {
+            "Persian": "نام غذا",
+            "English": "food name"
+        },
+        {
+            "Persian": "گزارش از",
+            "English": "report from"
+        },
+        {
+            "Persian": "کد قانون حضور",
+            "English": "Attendance law code"
+        },
+        {
+            "Persian": "خطای سیستم",
+            "English": "System error"
+        },
+        {
+            "Persian": "گزارش غذاهای پرسنل به تفکیک واحد",
+            "English": "Report of personnel meals by unit"
+        },
+        {
+            "Persian": "مخالف",
+            "English": "Against"
+        },
+        {
+            "Persian": "روز فروش",
+            "English": "sale day"
+        },
+        {
+            "Persian": "وضعیت استفاده",
+            "English": "Status of use"
+        },
+        {
+            "Persian": "توضیحات ملاقات",
+            "English": "Description of meeting"
+        },
+        {
+            "Persian": "مرخصی بدون حقوق روزانه",
+            "English": "Daily unpaid leave"
+        },
+        {
+            "Persian": "شب کاری",
+            "English": "night work"
+        },
+        {
+            "Persian": "فایل اکسل",
+            "English": "Excel file"
+        },
+        {
+            "Persian": "خارج شده است",
+            "English": "is out"
+        },
+        {
+            "Persian": "تنظیمات چـاپ",
+            "English": "Print settings"
+        },
+        {
+            "Persian": "ساعت شروع مجوز تردد",
+            "English": "Traffic permit start time"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "نام گزارش",
+            "English": "The name of the report"
+        },
+        {
+            "Persian": "ثبت کننده خروج",
+            "English": "Exit Registrar"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "مخلفات",
+            "English": "side dishes"
+        },
+        {
+            "Persian": "کد",
+            "English": "code"
+        },
+        {
+            "Persian": "باقیمانده شارژ",
+            "English": "Remaining charge"
+        },
+        {
+            "Persian": "تاریخ شروع مجوز تردد",
+            "English": "Date of commencement of traffic permit"
+        },
+        {
+            "Persian": "سلف سرویس",
+            "English": "Self service"
+        },
+        {
+            "Persian": "نمودار میله ای",
+            "English": "Bar graph"
+        },
+        {
+            "Persian": "زمان حضور",
+            "English": "attendance time"
+        },
+        {
+            "Persian": "شروع",
+            "English": "Beginning"
+        },
+        {
+            "Persian": "اعمال",
+            "English": "actions"
+        },
+        {
+            "Persian": "پیش خرید غذا",
+            "English": "Pre-purchase food"
+        },
+        {
+            "Persian": "تاریخ پایان مجوز تردد",
+            "English": "Expiry date of traffic permit"
+        },
+        {
+            "Persian": "گزارش کلی غذا",
+            "English": "General food report"
+        },
+        {
+            "Persian": "کل حضور مجاز",
+            "English": "Total authorized attendance"
+        },
+        {
+            "Persian": "در حال ساخت گزارش",
+            "English": "Creating a report"
+        },
+        {
+            "Persian": "مانده مرخصی",
+            "English": "leave balance"
+        },
+        {
+            "Persian": "دستگاه خروج",
+            "English": "exit device"
+        },
+        {
+            "Persian": "از کد",
+            "English": "from the code"
+        },
+        {
+            "Persian": "گزارش حاضرین و غایبین",
+            "English": "Report of those present and absent"
+        },
+        {
+            "Persian": "نام گروه کاری",
+            "English": "Name of the working group"
+        },
+        {
+            "Persian": "گزارش غذاهای پرسنل به تفکیک گروه",
+            "English": "Report of personnel meals by group"
+        },
+        {
+            "Persian": "گزارش کارکرد جزئی",
+            "English": "Partial performance report"
+        },
+        {
+            "Persian": "استفاده شده",
+            "English": "used"
+        },
+        {
+            "Persian": "شیفت شروع نشده",
+            "English": "The shift has not started"
+        },
+        {
+            "Persian": "تعداد غذا",
+            "English": "Number of meals"
+        },
+        {
+            "Persian": "تا تاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "انتخاب تاریخ  پایان مودال",
+            "English": "Select the modal end date"
+        },
+        {
+            "Persian": "ثبات",
+            "English": "Stability"
+        },
+        {
+            "Persian": "ساعت صرف غذا",
+            "English": "meal time"
+        },
+        {
+            "Persian": "غذا",
+            "English": "Food"
+        },
+        {
+            "Persian": "نمایش نمودار میله ای",
+            "English": "Bar chart display"
+        },
+        {
+            "Persian": "حاضرین",
+            "English": "Attendees"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "رزرو شده است",
+            "English": "It is reserved"
+        },
+        {
+            "Persian": "اضافه کار غیرمجاز بعد وقت",
+            "English": "Unauthorized overtime after hours"
+        },
+        {
+            "Persian": "تاریخ صرف غذا",
+            "English": "Meal date"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "از تاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "ساعت آخرین بروز رسانی",
+            "English": "Time of last update"
+        },
+        {
+            "Persian": "تاریخ ورود",
+            "English": "entry date"
+        },
+        {
+            "Persian": "داخلی",
+            "English": "Internal"
+        },
+        {
+            "Persian": "تاریخ ابتدا",
+            "English": "first date"
+        },
+        {
+            "Persian": "تا پرسنل ملاقات شونده",
+            "English": "Up to visiting personnel"
+        },
+        {
+            "Persian": "وضعیت ملاقات",
+            "English": "meeting status"
+        },
+        {
+            "Persian": "گزارش غذا تردد براساس",
+            "English": "Traffic based food report"
+        },
+        {
+            "Persian": "خطای کانفیگ سیستم",
+            "English": "System config error"
+        },
+        {
+            "Persian": "ارباب رجوع",
+            "English": "customer"
+        },
+        {
+            "Persian": "غاییبین",
+            "English": "invisible"
+        },
+        {
+            "Persian": "نوع مراجعه کننده",
+            "English": "Referrer type"
+        },
+        {
+            "Persian": "نام پدر",
+            "English": "father's name"
+        },
+        {
+            "Persian": "فایل تکست",
+            "English": "Text file"
+        },
+        {
+            "Persian": "از پرسنل",
+            "English": "From personnel"
+        },
+        {
+            "Persian": "فونت",
+            "English": "Font"
+        },
+        {
+            "Persian": "نمایش گرافیکی",
+            "English": "Graphic display"
+        },
+        {
+            "Persian": "برحسب",
+            "English": "according to"
+        },
+        {
+            "Persian": "گروه کاری",
+            "English": "workgroup"
+        },
+        {
+            "Persian": "تاریخ انتها",
+            "English": "end date"
+        },
+        {
+            "Persian": "پرسنل انتخابی",
+            "English": "Selected personnel"
+        },
+        {
+            "Persian": "بزرگتر",
+            "English": "bigger"
+        },
+        {
+            "Persian": "ورود اصلی",
+            "English": "Main entrance"
+        },
+        {
+            "Persian": "زن",
+            "English": "Female"
+        },
+        {
+            "Persian": "تـاریخ",
+            "English": "the date"
+        },
+        {
+            "Persian": "خروج اصلی",
+            "English": "main exit"
+        },
+        {
+            "Persian": "تا تاریـخ تحویل",
+            "English": "Until the delivery date"
+        },
+        {
+            "Persian": "تنظیمات ارباب رجوع",
+            "English": "Client settings"
+        },
+        {
+            "Persian": "وعده غذایی",
+            "English": "Meal"
+        },
+        {
+            "Persian": "علت مراجعه",
+            "English": "reason for referral"
+        },
+        {
+            "Persian": "نوبت کاری",
+            "English": "shift work"
+        },
+        {
+            "Persian": "انجام شده",
+            "English": "done"
+        },
+        {
+            "Persian": "تاریخ عودت",
+            "English": "Your return date"
+        },
+        {
+            "Persian": "راهنما",
+            "English": "Guide"
+        },
+        {
+            "Persian": "مکان مراجعه کننده",
+            "English": "Location of the client"
+        },
+        {
+            "Persian": "شیفت  آزاد",
+            "English": "free shift"
+        },
+        {
+            "Persian": "کارت آزاد",
+            "English": "free card"
+        },
+        {
+            "Persian": "به دلیل عدم وجود کد سمت سرور",
+            "English": "Due to the lack of server-side code"
+        },
+        {
+            "Persian": "سهم کارمند",
+            "English": "Employee share"
+        },
+        {
+            "Persian": "هر دو",
+            "English": "both"
+        },
+        {
+            "Persian": "گزارش غذاهای پرسنل به تفکیک تاریخ",
+            "English": "Personnel food report by date"
+        },
+        {
+            "Persian": "از تاریـخ تحویل",
+            "English": "From the date of delivery"
+        },
+        {
+            "Persian": "ماموریت باحقوق ساعتی",
+            "English": "Hourly paid mission"
+        },
+        {
+            "Persian": "مرخصی استعلاجی ساعتی",
+            "English": "Hourly sick leave"
+        },
+        {
+            "Persian": "تاریخ آخرین بروز رسانی",
+            "English": "Date of last update"
+        },
+        {
+            "Persian": "وارد شده است",
+            "English": "it is imported"
+        },
+        {
+            "Persian": "گزارش جزئی مراجعین به تفکیک مراجعه کننده",
+            "English": "Detailed report of clients by client"
+        },
+        {
+            "Persian": "انتخاب دستگاه",
+            "English": "Select device"
+        },
+        {
+            "Persian": "کد غذا",
+            "English": "food code"
+        },
+        {
+            "Persian": "نـام قانون حضور",
+            "English": "The name of the attendance law"
+        },
+        {
+            "Persian": "کوچکتر مساوی",
+            "English": "smaller equal"
+        },
+        {
+            "Persian": "کد دستگاه",
+            "English": "Device code"
+        },
+        {
+            "Persian": "شرکت",
+            "English": "Company"
+        },
+        {
+            "Persian": "دریافت تصویر",
+            "English": "Get the image"
+        },
+        {
+            "Persian": "گزارش جزئی تردد",
+            "English": "Detailed traffic report"
+        },
+        {
+            "Persian": "از تاریـخ خروج",
+            "English": "From the date of departure"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "تغییر عنوان و ترتیب",
+            "English": "Change title and order"
+        },
+        {
+            "Persian": "خلاصه تردد",
+            "English": "Summary of traffic"
+        },
+        {
+            "Persian": "شماره موبایل",
+            "English": "phone number"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "تغییر",
+            "English": "change"
+        },
+        {
+            "Persian": "مانده",
+            "English": "remaining"
+        },
+        {
+            "Persian": "نمایش تمامی رکوردها",
+            "English": "Show all records"
+        },
+        {
+            "Persian": "پارکینگ",
+            "English": "Parking"
+        },
+        {
+            "Persian": "نـام واحد سازمانی",
+            "English": "The name of the organizational unit"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "شماره شناسنامه",
+            "English": "Id"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "کسر کار",
+            "English": "low time work"
+        },
+        {
+            "Persian": "وضعیت های حضور",
+            "English": "Presence statuses"
+        },
+        {
+            "Persian": "مبلغ پرداختی",
+            "English": "Amount of money That had to be paid"
+        },
+        {
+            "Persian": "انجام نشده",
+            "English": "undone"
+        },
+        {
+            "Persian": "دستگاه های تردد",
+            "English": "Traffic devices"
+        },
+        {
+            "Persian": "حضور در شیفت",
+            "English": "Attending the shift"
+        },
+        {
+            "Persian": "مرخصی سازمانی روزانه",
+            "English": "Daily organizational leave"
+        },
+        {
+            "Persian": "شناسایی",
+            "English": "Identification"
+        },
+        {
+            "Persian": "حاضریین غیر موظف",
+            "English": "Optional attendees"
+        },
+        {
+            "Persian": "مرخصی استحقاقی ساعتی",
+            "English": "Hourly paid leave"
+        },
+        {
+            "Persian": "زون والد",
+            "English": "parent zone"
+        },
+        {
+            "Persian": "گزارش مراجعین به تفکیک پرسنل مراجعه شده",
+            "English": "The report of the clients is divided by the referred personnel"
+        },
+        {
+            "Persian": "کوچکتر",
+            "English": "Smaller"
+        },
+        {
+            "Persian": "گزارش تصویر تردد ارباب رجوع",
+            "English": "Customer traffic image report"
+        },
+        {
+            "Persian": "شماره سریال",
+            "English": "Serial number"
+        },
+        {
+            "Persian": "گزارش اختلاف زمان تردد",
+            "English": "Traffic time difference report"
+        },
+        {
+            "Persian": "میهمان",
+            "English": "Guest"
+        },
+        {
+            "Persian": "نوع غذا",
+            "English": "type of food"
+        },
+        {
+            "Persian": "تنظیمات نمایش",
+            "English": "Display settings"
+        },
+        {
+            "Persian": "نمایش نمودار به تفکیک تاریخ",
+            "English": "Show chart by date"
+        },
+        {
+            "Persian": "آیتم",
+            "English": "item"
+        },
+        {
+            "Persian": "جنسیت",
+            "English": "gender"
+        },
+        {
+            "Persian": "نمایش نمودار دایره ای",
+            "English": "Pie chart display"
+        },
+        {
+            "Persian": "حاضرین و غایبین گرافیکی",
+            "English": "Graphic attendees and absentees"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "مرخصی حادثه روزانه",
+            "English": "Daily accident leave"
+        },
+        {
+            "Persian": "غیبت مجاز روزانه",
+            "English": "Allowed daily absence"
+        },
+        {
+            "Persian": "نام دستگاه ورود",
+            "English": "The name of the input device"
+        },
+        {
+            "Persian": "مرتب سازی",
+            "English": "Ordering"
+        },
+        {
+            "Persian": "کل اضافه کار تعطیل",
+            "English": "Total holiday overtime"
+        },
+        {
+            "Persian": "خروجی فایل",
+            "English": "File output"
+        },
+        {
+            "Persian": "انتخاب تاریخ",
+            "English": "Select date"
+        },
+        {
+            "Persian": "کل اضافه کار",
+            "English": "Total overtime"
+        },
+        {
+            "Persian": "اضافه کار مجاز قبل وقت",
+            "English": "Overtime allowed ahead of time"
+        },
+        {
+            "Persian": "تعداد مراجعه",
+            "English": "Number of referrals"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "ریال",
+            "English": "Rials"
+        },
+        {
+            "Persian": "زمان خروج",
+            "English": "departure time"
+        },
+        {
+            "Persian": "مرخصی استحقاقی روزانه",
+            "English": "Paid daily leave"
+        },
+        {
+            "Persian": "نوع کارت شناسایی",
+            "English": "Type of ID card"
+        },
+        {
+            "Persian": "شماره فیش",
+            "English": "receipt number"
+        },
+        {
+            "Persian": "همراهان",
+            "English": "companions"
+        },
+        {
+            "Persian": "دسر",
+            "English": "Dessert"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "شرکت سازنده",
+            "English": "Manufacturer"
+        },
+        {
+            "Persian": "تصویر خروج",
+            "English": "Exit image"
+        },
+        {
+            "Persian": "گزارش",
+            "English": "Report"
+        },
+        {
+            "Persian": "نمایش نمودار به تفکیک شماره پرسنلی",
+            "English": "Display the chart by personnel number"
+        },
+        {
+            "Persian": "کد گروه کاری",
+            "English": "Workgroup code"
+        },
+        {
+            "Persian": "اضافه کار تعطیل مجاز",
+            "English": "Holiday overtime allowed"
+        },
+        {
+            "Persian": "عنوان انتخابی",
+            "English": "Selected title"
+        },
+        {
+            "Persian": "کد پرسنلی",
+            "English": "Personnel Code"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "غایب",
+            "English": "Absent"
+        },
+        {
+            "Persian": "نمایش نمودار به تفکیک دستگاه",
+            "English": "Display graph by device"
+        },
+        {
+            "Persian": "گزارش مراجعین به تفکیک بازه زمانی",
+            "English": "Report of clients by time period"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "فایل ایکس ام ال",
+            "English": "XML file"
+        },
+        {
+            "Persian": "اضافه کردن شرط",
+            "English": "Add condition"
+        },
+        {
+            "Persian": "وضعیت عودت",
+            "English": "Return status"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "ماموریت باحقوق روزانه",
+            "English": "Daily paid mission"
+        },
+        {
+            "Persian": "عدم صحت عبور",
+            "English": "Incorrect pass"
+        },
+        {
+            "Persian": "گزارش حداکثر زمان حضور غیر مجاز پرسنل",
+            "English": "Report the maximum time of unauthorized presence of personnel"
+        },
+        {
+            "Persian": "وضعیت پرداخت",
+            "English": "Payment status"
+        },
+        {
+            "Persian": "ترتیب",
+            "English": "order"
+        },
+        {
+            "Persian": "گزارشهای موجود",
+            "English": "Available reports"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "گزارش مالی غذا",
+            "English": "Food financial report"
+        },
+        {
+            "Persian": "تعجیل غیرمجاز آخر وقت",
+            "English": "Unauthorized haste at the end of time"
+        },
+        {
+            "Persian": "نوع گزارش",
+            "English": "Report type"
+        },
+        {
+            "Persian": "گشت و نگهبانی",
+            "English": "patrol and guard"
+        },
+        {
+            "Persian": "تحویل نگهبان شده است",
+            "English": "The guard has been delivered"
+        },
+        {
+            "Persian": "زون",
+            "English": "zone"
+        },
+        {
+            "Persian": "پیمانکار",
+            "English": "Contractors"
+        },
+        {
+            "Persian": "شهر",
+            "English": "City"
+        },
+        {
+            "Persian": "نوع دستگاه",
+            "English": "device type"
+        },
+        {
+            "Persian": "ساختمان",
+            "English": "Building"
+        }
+    ]
+}

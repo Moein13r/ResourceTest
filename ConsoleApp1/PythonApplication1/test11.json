@@ -1,0 +1,552 @@
+{
+    "Words": [
+        {
+            "Persian": "از قد",
+            "English": "of height"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "پست های سازمانی",
+            "English": "Organizational posts"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "کد سرویس",
+            "English": "Service code"
+        },
+        {
+            "Persian": "ایمیل",
+            "English": "email"
+        },
+        {
+            "Persian": "شهر",
+            "English": "City"
+        },
+        {
+            "Persian": "تعلیق از خدمت",
+            "English": "Suspension from service"
+        },
+        {
+            "Persian": "سرویس",
+            "English": "service"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "نام پدر",
+            "English": "father's name"
+        },
+        {
+            "Persian": "خروجی اکسل",
+            "English": "Excel output"
+        },
+        {
+            "Persian": "مدرک تحصیلی",
+            "English": "degree of education"
+        },
+        {
+            "Persian": "مرتب سازی",
+            "English": "Ordering"
+        },
+        {
+            "Persian": "دوره آموزشی",
+            "English": "training course"
+        },
+        {
+            "Persian": "شنبه",
+            "English": "Saturday"
+        },
+        {
+            "Persian": "روز",
+            "English": "Day"
+        },
+        {
+            "Persian": "محل صدور",
+            "English": "Place of Issue"
+        },
+        {
+            "Persian": "از پرسنل",
+            "English": "From personnel"
+        },
+        {
+            "Persian": "نمایش پیشرفته",
+            "English": "Advanced display"
+        },
+        {
+            "Persian": "والدین",
+            "English": "parents"
+        },
+        {
+            "Persian": "یک شنبه",
+            "English": "a saturday"
+        },
+        {
+            "Persian": "همسر",
+            "English": "Spouse"
+        },
+        {
+            "Persian": "جنسیت",
+            "English": "gender"
+        },
+        {
+            "Persian": "تا حقوق روزانه",
+            "English": "Up to daily salary"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "از تاریخ تولد",
+            "English": "From the date of birth"
+        },
+        {
+            "Persian": "نسبت",
+            "English": "Ratio"
+        },
+        {
+            "Persian": "باتصدی",
+            "English": "staff"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "چهارشنبه",
+            "English": "Wednesday"
+        },
+        {
+            "Persian": "از تاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "کاردکس مرخصی سالانه کلی",
+            "English": "General annual leave cardex"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "وضعیت تاهل",
+            "English": "marital status"
+        },
+        {
+            "Persian": "نام سرویس",
+            "English": "Service name"
+        },
+        {
+            "Persian": "کد پرسنلی",
+            "English": "Personnel Code"
+        },
+        {
+            "Persian": "کاردکس مرخصی سالانه جزئی",
+            "English": "Cardex partial annual leave"
+        },
+        {
+            "Persian": "تشویقات",
+            "English": "Encouragement"
+        },
+        {
+            "Persian": "وضعیت تصدی پست ها",
+            "English": "Position tenure status"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "تا تاریخ تولد",
+            "English": "By date of birth"
+        },
+        {
+            "Persian": "تا حقوق ماهانه",
+            "English": "Up to monthly salary"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "Personnel ID"
+        },
+        {
+            "Persian": "هر دو",
+            "English": "both"
+        },
+        {
+            "Persian": "شماره شناسنامه",
+            "English": "Id"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "معلق",
+            "English": "suspended"
+        },
+        {
+            "Persian": "محاسبات مانده مرخصی برای سال جاری انجام شود",
+            "English": "Calculate the balance of leave for the current year"
+        },
+        {
+            "Persian": "نام گزارش",
+            "English": "The name of the report"
+        },
+        {
+            "Persian": "جمعه",
+            "English": "Friday"
+        },
+        {
+            "Persian": "مانده مرخصی",
+            "English": "leave balance"
+        },
+        {
+            "Persian": "کشور",
+            "English": "Country"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "نوع گزارش",
+            "English": "Report type"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "دیگر وابستگان",
+            "English": "Other dependents"
+        },
+        {
+            "Persian": "تا قد",
+            "English": "up to height"
+        },
+        {
+            "Persian": "فونت",
+            "English": "Font"
+        },
+        {
+            "Persian": "نوع استخدام",
+            "English": "type of employment"
+        },
+        {
+            "Persian": "تا تاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "انتخاب سرویس",
+            "English": "Service selection"
+        },
+        {
+            "Persian": "مرکز آموزش",
+            "English": "training center"
+        },
+        {
+            "Persian": "گزارشهای موجود",
+            "English": "Available reports"
+        },
+        {
+            "Persian": "گروه کاری",
+            "English": "workgroup"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "واحد سازمانی",
+            "English": "Organizational Unit"
+        },
+        {
+            "Persian": "اندازه فونت",
+            "English": "Font size"
+        },
+        {
+            "Persian": "از حقوق ماهانه",
+            "English": "From the monthly salary"
+        },
+        {
+            "Persian": "فایل ایکس ام ال",
+            "English": "XML file"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "تعداد نیمراه",
+            "English": "The number of half way"
+        },
+        {
+            "Persian": "از حقوق روزانه",
+            "English": "From the daily salary"
+        },
+        {
+            "Persian": "ایستگاه",
+            "English": "Station"
+        },
+        {
+            "Persian": "دوره سرویس",
+            "English": "Service period"
+        },
+        {
+            "Persian": "تنظیمات نمایش",
+            "English": "Display settings"
+        },
+        {
+            "Persian": "دختر",
+            "English": "Girl"
+        },
+        {
+            "Persian": "فایل اکسل",
+            "English": "Excel file"
+        },
+        {
+            "Persian": "شماره تلفن ثابت",
+            "English": "landline number"
+        },
+        {
+            "Persian": "فایل اکسل کلی",
+            "English": "General Excel file"
+        },
+        {
+            "Persian": "کاردکس مرخصی",
+            "English": "Cardex on leave"
+        },
+        {
+            "Persian": "فایل تکست",
+            "English": "Text file"
+        },
+        {
+            "Persian": "پنج شنبه",
+            "English": "Thursday"
+        },
+        {
+            "Persian": "تا تاریخ ازدواج",
+            "English": "Until the date of marriage"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "واحدهای سازمانی",
+            "English": "Organizational units"
+        },
+        {
+            "Persian": "تشویقات و تنبیهات",
+            "English": "Encouragement and punishment"
+        },
+        {
+            "Persian": "جستجو و انتخاب پرسنل",
+            "English": "Search and selection of personnel"
+        },
+        {
+            "Persian": "گروه خونی",
+            "English": "blood type"
+        },
+        {
+            "Persian": "خروجی فایل",
+            "English": "File output"
+        },
+        {
+            "Persian": "نام کاربری",
+            "English": "user name"
+        },
+        {
+            "Persian": "دریافت تصویر",
+            "English": "Get the image"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "تا وزن",
+            "English": "up to weight"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "بلاتصدی",
+            "English": "Unattended"
+        },
+        {
+            "Persian": "نمایش قرارداد",
+            "English": "Show contract"
+        },
+        {
+            "Persian": "نمایش پرسنلی که نزدیک به اتمام تاریخ قرارداد هستند",
+            "English": "Display of personnel who are close to the end of the contract date"
+        },
+        {
+            "Persian": "نمایش",
+            "English": "the show"
+        },
+        {
+            "Persian": "نوع حکم پرسنلی",
+            "English": "Type of personnel order"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "نمایش پیشرفته سازمانی",
+            "English": "Advanced organizational display"
+        },
+        {
+            "Persian": "نوع سابقه کاری",
+            "English": "Type of work history"
+        },
+        {
+            "Persian": "عنوان سرویس",
+            "English": "Service title"
+        },
+        {
+            "Persian": "فیلتر گزارش",
+            "English": "Report filter"
+        },
+        {
+            "Persian": "خاتمه خدمت",
+            "English": "termination of service"
+        },
+        {
+            "Persian": "تا پرسنل",
+            "English": "up to personnel"
+        },
+        {
+            "Persian": "تاریخ تولد",
+            "English": "Date of birth"
+        },
+        {
+            "Persian": "تنبیهات",
+            "English": "punishments"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "از وزن",
+            "English": "of weight"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "هزینه سرویس",
+            "English": "Service fee"
+        },
+        {
+            "Persian": "بازنشسته",
+            "English": "Retired"
+        },
+        {
+            "Persian": "پسر",
+            "English": "Boy"
+        },
+        {
+            "Persian": "معافیت دائم",
+            "English": "permanent exemption"
+        },
+        {
+            "Persian": "شماره همراه",
+            "English": "mobile number"
+        },
+        {
+            "Persian": "تنظیمات گزارش",
+            "English": "Report settings"
+        },
+        {
+            "Persian": "پیش نمایش",
+            "English": "Preview"
+        },
+        {
+            "Persian": "فایل اکسس",
+            "English": "Access file"
+        },
+        {
+            "Persian": "وضعیت نظام وظیفه",
+            "English": "military service status"
+        },
+        {
+            "Persian": "رشته آموزشی",
+            "English": "Educational field"
+        },
+        {
+            "Persian": "از کد سرویس",
+            "English": "From the service code"
+        },
+        {
+            "Persian": "دوشنبه",
+            "English": "Monday"
+        },
+        {
+            "Persian": "استان",
+            "English": "State"
+        },
+        {
+            "Persian": "پایان خدمت",
+            "English": "the end of service"
+        },
+        {
+            "Persian": "تا کد سرویس",
+            "English": "up to the service code"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "در حال خدمت",
+            "English": "Serving"
+        },
+        {
+            "Persian": "نـام و نـام خانوادگی",
+            "English": "Name and surname"
+        },
+        {
+            "Persian": "سه شنبه",
+            "English": "Tuesday"
+        },
+        {
+            "Persian": "از تاریخ ازدواج",
+            "English": "From the date of marriage"
+        },
+        {
+            "Persian": "توضیحات سرویس",
+            "English": "Service description"
+        },
+        {
+            "Persian": "محل تولد",
+            "English": "place of birth"
+        }
+    ]
+}

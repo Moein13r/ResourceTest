@@ -1,0 +1,390 @@
+<data name="Location" xml:space="preserve">
+                    <value>موقعیت</value>
+                </data>
+<data name="Personnel" xml:space="preserve">
+                    <value>پرسنل</value>
+                </data>
+<data name="It's time" xml:space="preserve">
+                    <value>زمان گشت</value>
+                </data>
+<data name="marital status" xml:space="preserve">
+                    <value>وضیعت تاهل</value>
+                </data>
+<data name="rest time" xml:space="preserve">
+                    <value>زمان استراحت</value>
+                </data>
+<data name="rush" xml:space="preserve">
+                    <value>تعجیل</value>
+                </data>
+<data name="Report settings" xml:space="preserve">
+                    <value>تنظیمات گزارش</value>
+                </data>
+<data name="Date of birth" xml:space="preserve">
+                    <value>تاریخ تولد</value>
+                </data>
+<data name="It's time" xml:space="preserve">
+                    <value>ساعت گشت</value>
+                </data>
+<data name="start time" xml:space="preserve">
+                    <value>ساعت شروع</value>
+                </data>
+<data name="first name and last name" xml:space="preserve">
+                    <value>نام و نام خانوادگی</value>
+                </data>
+<data name="Description" xml:space="preserve">
+                    <value>توضیحات</value>
+                </data>
+<data name="Delete" xml:space="preserve">
+                    <value>حذف</value>
+                </data>
+<data name="Direction" xml:space="preserve">
+                    <value>مسیر</value>
+                </data>
+<data name="Register new information" xml:space="preserve">
+                    <value>ثبت اطلاعات جدید</value>
+                </data>
+<data name="Available reports" xml:space="preserve">
+                    <value>گزارشهای موجود</value>
+                </data>
+<data name="Report type" xml:space="preserve">
+                    <value>نوع گزارش</value>
+                </data>
+<data name="Course position description" xml:space="preserve">
+                    <value>توضیحات موقعیت دوره</value>
+                </data>
+<data name="Function" xml:space="preserve">
+                    <value>عملکرد</value>
+                </data>
+<data name="Uncertain and unconfirmed" xml:space="preserve">
+                    <value>نامشخص و تایید نشده</value>
+                </data>
+<data name="order" xml:space="preserve">
+                    <value>ترتیب</value>
+                </data>
+<data name="Forgotten points" xml:space="preserve">
+                    <value>نقاط فراموش شدده</value>
+                </data>
+<data name="Beginning" xml:space="preserve">
+                    <value>شروع</value>
+                </data>
+<data name="Organizational Unit" xml:space="preserve">
+                    <value>واحد سازمانی</value>
+                </data>
+<data name="from history" xml:space="preserve">
+                    <value>از تاریـخ</value>
+                </data>
+<data name="Uncertain and confirmed" xml:space="preserve">
+                    <value>نامشخص و تایید شده</value>
+                </data>
+<data name="military service status" xml:space="preserve">
+                    <value>وضعیت نظام وظیفه</value>
+                </data>
+<data name="Change title and order" xml:space="preserve">
+                    <value>تغییر عنوان و ترتیب</value>
+                </data>
+<data name="duty hours" xml:space="preserve">
+                    <value>ساعت موظفی</value>
+                </data>
+<data name="confirmation" xml:space="preserve">
+                    <value>تایید</value>
+                </data>
+<data name="History of guarding" xml:space="preserve">
+                    <value>تاریخچه نگهبانی</value>
+                </data>
+<data name="Confirmed and unconfirmed" xml:space="preserve">
+                    <value>تایید شده و تایید نشده</value>
+                </data>
+<data name="Course name" xml:space="preserve">
+                    <value>نام دوره</value>
+                </data>
+<data name="Unknown" xml:space="preserve">
+                    <value>نامشخص</value>
+                </data>
+<data name="Incomplete patrols" xml:space="preserve">
+                    <value>گشت های ناقص</value>
+                </data>
+<data name="Text file" xml:space="preserve">
+                    <value>فایل تکست</value>
+                </data>
+<data name="not confirmed" xml:space="preserve">
+                    <value>تایید نشده</value>
+                </data>
+<data name="Guard tracks" xml:space="preserve">
+                    <value>مسیر های نگهبانی</value>
+                </data>
+<data name="Personnel transfer table" xml:space="preserve">
+                    <value>جدول جابجایی پرسنل</value>
+                </data>
+<data name="until" xml:space="preserve">
+                    <value>تا ساعت</value>
+                </data>
+<data name="Personnel number" xml:space="preserve">
+                    <value>شماره پرسنل</value>
+                </data>
+<data name="Condition" xml:space="preserve">
+                    <value>وضعیت</value>
+                </data>
+<data name="Row" xml:space="preserve">
+                    <value>ردیف</value>
+                </data>
+<data name="Guards" xml:space="preserve">
+                    <value>نگهبانان</value>
+                </data>
+<data name="name" xml:space="preserve">
+                    <value>نام</value>
+                </data>
+<data name="Violation of the patrol schedule" xml:space="preserve">
+                    <value>مغایرت با برنامه گشت زنی</value>
+                </data>
+<data name="confirmed" xml:space="preserve">
+                    <value>تایید شده</value>
+                </data>
+<data name="last name" xml:space="preserve">
+                    <value>نام خانوادگی</value>
+                </data>
+<data name="Manage route positions" xml:space="preserve">
+                    <value>مدیریت موقعیت های مسیر</value>
+                </data>
+<data name="User ID, Personnel ID" xml:space="preserve">
+                    <value>شماره پرسنلی</value>
+                </data>
+<data name="Modal ending" xml:space="preserve">
+                    <value>پایان مودال</value>
+                </data>
+<data name="Font size" xml:space="preserve">
+                    <value>اندازه فونت</value>
+                </data>
+<data name="Remove the course" xml:space="preserve">
+                    <value>حذف دوره</value>
+                </data>
+<data name="the operation" xml:space="preserve">
+                    <value>عملیات</value>
+                </data>
+<data name="Store" xml:space="preserve">
+                    <value>ذخیره</value>
+                </data>
+<data name="Search" xml:space="preserve">
+                    <value>جستجو</value>
+                </data>
+<data name="actions" xml:space="preserve">
+                    <value>اعمال</value>
+                </data>
+<data name="Organization" xml:space="preserve">
+                    <value>سازمان</value>
+                </data>
+<data name="Date of Registration" xml:space="preserve">
+                    <value>تاریخ ثبت</value>
+                </data>
+<data name="Font" xml:space="preserve">
+                    <value>فونت</value>
+                </data>
+<data name="degree of education" xml:space="preserve">
+                    <value>مدرک تحصیلی</value>
+                </data>
+<data name="Up to date" xml:space="preserve">
+                    <value>تا تاریخ</value>
+                </data>
+<data name="user" xml:space="preserve">
+                    <value>کاربر</value>
+                </data>
+<data name="minutes" xml:space="preserve">
+                    <value>دقیقه</value>
+                </data>
+<data name="Position name" xml:space="preserve">
+                    <value>نام موقعیت</value>
+                </data>
+<data name="path name" xml:space="preserve">
+                    <value>نام مسیر</value>
+                </data>
+<data name="Detailed management of routes and positions" xml:space="preserve">
+                    <value>مدیریت جزیی مسیرها و موقعیت ها</value>
+                </data>
+<data name="Get the image" xml:space="preserve">
+                    <value>دریافت تصویر</value>
+                </data>
+<data name="Assigning personnel to the patrol and guard group" xml:space="preserve">
+                    <value>اختصاص پرسنل به گروه گشت و نگهبانی</value>
+                </data>
+<data name="from" xml:space="preserve">
+                    <value>از تاریخ</value>
+                </data>
+<data name="Management of course positions" xml:space="preserve">
+                    <value>مدیریت موقعیت های دوره</value>
+                </data>
+<data name="Number of positions" xml:space="preserve">
+                    <value>تعداد موقعیت</value>
+                </data>
+<data name="the period" xml:space="preserve">
+                    <value>دوره</value>
+                </data>
+<data name="date of employeement" xml:space="preserve">
+                    <value>تاریخ استخدام</value>
+                </data>
+<data name="Report filter" xml:space="preserve">
+                    <value>فیلتر گزارش</value>
+                </data>
+<data name="patrolling" xml:space="preserve">
+                    <value>گشت زنی</value>
+                </data>
+<data name="father's name" xml:space="preserve">
+                    <value>نام پدر</value>
+                </data>
+<data name="Id" xml:space="preserve">
+                    <value>شماره شناسنامه</value>
+                </data>
+<data name="group" xml:space="preserve">
+                    <value>گروه</value>
+                </data>
+<data name="coming back" xml:space="preserve">
+                    <value>بازگشت</value>
+                </data>
+<data name="Selection" xml:space="preserve">
+                    <value>انتخاب</value>
+                </data>
+<data name="Modal start" xml:space="preserve">
+                    <value>شروع مودال</value>
+                </data>
+<data name="National Code" xml:space="preserve">
+                    <value>کد ملی</value>
+                </data>
+<data name="Stabilizer" xml:space="preserve">
+                    <value>تثبیت کننده</value>
+                </data>
+<data name="Group code" xml:space="preserve">
+                    <value>کد گروه</value>
+                </data>
+<data name="Days of the Week" xml:space="preserve">
+                    <value>روزهای هفته</value>
+                </data>
+<data name="the show" xml:space="preserve">
+                    <value>نمایش</value>
+                </data>
+<data name="Substitute personnel" xml:space="preserve">
+                    <value>پرسنل جایگزین</value>
+                </data>
+<data name="Start distance of the next position" xml:space="preserve">
+                    <value>فاصله شروع موقعیت بعدی</value>
+                </data>
+<data name="History" xml:space="preserve">
+                    <value>تاریخچه</value>
+                </data>
+<data name="Course position title" xml:space="preserve">
+                    <value>عنوان موقعیت دوره</value>
+                </data>
+<data name="Modal start positions" xml:space="preserve">
+                    <value>شروع مودال موقعیت ها</value>
+                </data>
+<data name="Display settings" xml:space="preserve">
+                    <value>تنظیمات نمایش</value>
+                </data>
+<data name="routes" xml:space="preserve">
+                    <value>مسیر ها</value>
+                </data>
+<data name="until date" xml:space="preserve">
+                    <value>تا تاریـخ</value>
+                </data>
+<data name="Excel file" xml:space="preserve">
+                    <value>فایل اکسل</value>
+                </data>
+<data name="delay and haste" xml:space="preserve">
+                    <value>تاخیر و تعجیل</value>
+                </data>
+<data name="The name of the report" xml:space="preserve">
+                    <value>نام گزارش</value>
+                </data>
+<data name="the situation" xml:space="preserve">
+                    <value>وضیعت</value>
+                </data>
+<data name="Modal endings of positions" xml:space="preserve">
+                    <value>پایان مودال  موقعیت ها</value>
+                </data>
+<data name="File output" xml:space="preserve">
+                    <value>خروجی فایل</value>
+                </data>
+<data name="up to personnel" xml:space="preserve">
+                    <value>تا پرسنل</value>
+                </data>
+<data name="week day" xml:space="preserve">
+                    <value>روز هفته</value>
+                </data>
+<data name="Main personnel" xml:space="preserve">
+                    <value>پرسنل اصلی</value>
+                </data>
+<data name="It became history" xml:space="preserve">
+                    <value>تاریخ گشت</value>
+                </data>
+<data name="Explanation of stabilization" xml:space="preserve">
+                    <value>توضیح تثبیت</value>
+                </data>
+<data name="situations" xml:space="preserve">
+                    <value>موقعیت ها</value>
+                </data>
+<data name="Delay" xml:space="preserve">
+                    <value>تاخیر</value>
+                </data>
+<data name="Assign personnel to the route" xml:space="preserve">
+                    <value>اختصاص پرسنل به مسیر</value>
+                </data>
+<data name="New" xml:space="preserve">
+                    <value>جدید</value>
+                </data>
+<data name="gender" xml:space="preserve">
+                    <value>جنسیت</value>
+                </data>
+<data name="type of employment" xml:space="preserve">
+                    <value>نوع استخدام</value>
+                </data>
+<data name="Course start date" xml:space="preserve">
+                    <value>تاریخ شروع دوره</value>
+                </data>
+<data name="Course description" xml:space="preserve">
+                    <value>توضیحات دوره</value>
+                </data>
+<data name="Description of the route" xml:space="preserve">
+                    <value>توضیحات مسیر</value>
+                </data>
+<data name="from the hour" xml:space="preserve">
+                    <value>از ساعت</value>
+                </data>
+<data name="the watch" xml:space="preserve">
+                    <value>ساعت</value>
+                </data>
+<data name="Ordering" xml:space="preserve">
+                    <value>مرتب سازی</value>
+                </data>
+<data name="Course editing" xml:space="preserve">
+                    <value>ویرایش دوره</value>
+                </data>
+<data name="Title" xml:space="preserve">
+                    <value>عنوان</value>
+                </data>
+<data name="Event" xml:space="preserve">
+                    <value>رویداد</value>
+                </data>
+<data name="Changing the title and order of options in the report" xml:space="preserve">
+                    <value>تغییر عنوان و ترتیب گزینه ها در گزارش</value>
+                </data>
+<data name="Type of fixation" xml:space="preserve">
+                    <value>نوع تثبیت</value>
+                </data>
+<data name="History" xml:space="preserve">
+                    <value>تاریخ</value>
+                </data>
+<data name="Registration time" xml:space="preserve">
+                    <value>ساعت ثبت</value>
+                </data>
+<data name="print" xml:space="preserve">
+                    <value>چاپ</value>
+                </data>
+<data name="Uncertain, confirmed and unconfirmed" xml:space="preserve">
+                    <value>نامشخص و تایید شده و تایید نشده</value>
+                </data>
+<data name="the name of the group" xml:space="preserve">
+                    <value>نام گروه</value>
+                </data>
+<data name="From personnel" xml:space="preserve">
+                    <value>از پرسنل</value>
+                </data>
+<data name="Number of turns" xml:space="preserve">
+                    <value>تعداد چرخش</value>
+                </data>

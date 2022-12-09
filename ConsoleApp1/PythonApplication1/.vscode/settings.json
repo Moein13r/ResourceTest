@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///c%3A/Users/USER/source/repos/PythonApplication1/kubectl-dashboard.yaml"
+    }
+}

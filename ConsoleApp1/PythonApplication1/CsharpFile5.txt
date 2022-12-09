@@ -1,0 +1,2224 @@
+/// <summary>
+                ///   Looks up a localized string similar to روز.
+                /// </summary>
+                internal static string Day {
+                    get {
+                        return ResourceManager.GetString("Day", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال نام لیست سیاه.
+                /// </summary>
+                internal static string end_modal_name_blacklist {
+                    get {
+                        return ResourceManager.GetString("end modal name blacklist", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دوشنبه.
+                /// </summary>
+                internal static string Monday {
+                    get {
+                        return ResourceManager.GetString("Monday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گروه خودرو.
+                /// </summary>
+                internal static string Car_group {
+                    get {
+                        return ResourceManager.GetString("Car group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فایل اکسل.
+                /// </summary>
+                internal static string Excel_file {
+                    get {
+                        return ResourceManager.GetString("Excel file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو و انتخاب دستگاه   شروع.
+                /// </summary>
+                internal static string Search_and_select_the_starting_device {
+                    get {
+                        return ResourceManager.GetString("Search and select the starting device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره ملی.
+                /// </summary>
+                internal static string National_number {
+                    get {
+                        return ResourceManager.GetString("National number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چاپ فیش.
+                /// </summary>
+                internal static string Receipt_printing {
+                    get {
+                        return ResourceManager.GetString("Receipt printing", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان  مودال.
+                /// </summary>
+                internal static string Modal_ending {
+                    get {
+                        return ResourceManager.GetString("Modal ending", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره ارجاع.
+                /// </summary>
+                internal static string Reference {
+                    get {
+                        return ResourceManager.GetString("Reference", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دارای اپراتور.
+                /// </summary>
+                internal static string Has_an_operator {
+                    get {
+                        return ResourceManager.GetString("Has an operator", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال اختصاص دستگاه.
+                /// </summary>
+                internal static string End_of_device_assignment_modal {
+                    get {
+                        return ResourceManager.GetString("End of device assignment modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف دوربین.
+                /// </summary>
+                internal static string Definition_of_camera {
+                    get {
+                        return ResourceManager.GetString("Definition of camera", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاکسی.
+                /// </summary>
+                internal static string Taxi {
+                    get {
+                        return ResourceManager.GetString("Taxi", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عنوان پیام.
+                /// </summary>
+                internal static string Message_title {
+                    get {
+                        return ResourceManager.GetString("Message title", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ  خروج.
+                /// </summary>
+                internal static string date_of_departure {
+                    get {
+                        return ResourceManager.GetString("date of departure", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام واحد.
+                /// </summary>
+                internal static string Unit_Name {
+                    get {
+                        return ResourceManager.GetString("Unit Name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دقیقه حضور را مشخص می کند.
+                /// </summary>
+                internal static string Specifies_the_minutes_of_attendance {
+                    get {
+                        return ResourceManager.GetString("Specifies the minutes of attendance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اندازه فونت.
+                /// </summary>
+                internal static string Font_size {
+                    get {
+                        return ResourceManager.GetString("Font size", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام پارکینگ.
+                /// </summary>
+                internal static string The_name_of_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("The name of the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to درصدی.
+                /// </summary>
+                internal static string percentage {
+                    get {
+                        return ResourceManager.GetString("percentage", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ تخفیف.
+                /// </summary>
+                internal static string The_amount_of_discount {
+                    get {
+                        return ResourceManager.GetString("The amount of discount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عضو غیرفعال.
+                /// </summary>
+                internal static string inactive_member {
+                    get {
+                        return ResourceManager.GetString("inactive member", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چاپ.
+                /// </summary>
+                internal static string print {
+                    get {
+                        return ResourceManager.GetString("print", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to آدرس ذخیره سازی عکس های بارکد.
+                /// </summary>
+                internal static string Barcode_photo_storage_address {
+                    get {
+                        return ResourceManager.GetString("Barcode photo storage address", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ و زمان ورود.
+                /// </summary>
+                internal static string Date_and_time_of_arrival {
+                    get {
+                        return ResourceManager.GetString("Date and time of arrival", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست مالیات.
+                /// </summary>
+                internal static string Update_tax_list {
+                    get {
+                        return ResourceManager.GetString("Update tax list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ظرفیت.
+                /// </summary>
+                internal static string Capacity {
+                    get {
+                        return ResourceManager.GetString("Capacity", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت گروه خودرو.
+                /// </summary>
+                internal static string Vehicle_group_registration {
+                    get {
+                        return ResourceManager.GetString("Vehicle group registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پنج شنبه.
+                /// </summary>
+                internal static string Thursday {
+                    get {
+                        return ResourceManager.GetString("Thursday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مالیات.
+                /// </summary>
+                internal static string tax {
+                    get {
+                        return ResourceManager.GetString("tax", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزهای مجاز هفته.
+                /// </summary>
+                internal static string Allowed_days_of_the_week {
+                    get {
+                        return ResourceManager.GetString("Allowed days of the week", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال ورودی  و خروجی پارکینگ.
+                /// </summary>
+                internal static string The_start_of_the_entry_and_exit_modal_of_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("The start of the entry and exit modal of the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مجهز به راه بند.
+                /// </summary>
+                internal static string Equipped_with_roadblock {
+                    get {
+                        return ResourceManager.GetString("Equipped with roadblock", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام  خودرو.
+                /// </summary>
+                internal static string car_name {
+                    get {
+                        return ResourceManager.GetString("car name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تلفن.
+                /// </summary>
+                internal static string Phone {
+                    get {
+                        return ResourceManager.GetString("Phone", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شنبه.
+                /// </summary>
+                internal static string Saturday {
+                    get {
+                        return ResourceManager.GetString("Saturday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام تخفیف.
+                /// </summary>
+                internal static string discount_name {
+                    get {
+                        return ResourceManager.GetString("discount name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر زمان مجاز اولیه حضور خودرو را مشخص میکند.
+                /// </summary>
+                internal static string It_specifies_the_maximum_initial_time_allowed_for_the_presence_of_the_vehicle {
+                    get {
+                        return ResourceManager.GetString("It specifies the maximum initial time allowed for the presence of the vehicle", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرتب سازی.
+                /// </summary>
+                internal static string Ordering {
+                    get {
+                        return ResourceManager.GetString("Ordering", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تخفیف.
+                /// </summary>
+                internal static string Discount {
+                    get {
+                        return ResourceManager.GetString("Discount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام  لیست.
+                /// </summary>
+                internal static string The_name_of_the_list {
+                    get {
+                        return ResourceManager.GetString("The name of the list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام خانوادگی.
+                /// </summary>
+                internal static string last_name {
+                    get {
+                        return ResourceManager.GetString("last name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ کل شارژ.
+                /// </summary>
+                internal static string Total_charge_amount {
+                    get {
+                        return ResourceManager.GetString("Total charge amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سفید.
+                /// </summary>
+                internal static string white {
+                    get {
+                        return ResourceManager.GetString("white", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف دستگاه.
+                /// </summary>
+                internal static string Device_definition {
+                    get {
+                        return ResourceManager.GetString("Device definition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خودروهای موجود در لیست.
+                /// </summary>
+                internal static string Cars_in_the_list {
+                    get {
+                        return ResourceManager.GetString("Cars in the list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مجهز به تابلوی نمایش اطلاعات.
+                /// </summary>
+                internal static string Equipped_with_an_information_display_board {
+                    get {
+                        return ResourceManager.GetString("Equipped with an information display board", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سیاسی.
+                /// </summary>
+                internal static string political {
+                    get {
+                        return ResourceManager.GetString("political", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ویژه معلولین و جانبازین.
+                /// </summary>
+                internal static string Especially_for_the_disabled_and_veterans {
+                    get {
+                        return ResourceManager.GetString("Especially for the disabled and veterans", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تاریـخ.
+                /// </summary>
+                internal static string until_date {
+                    get {
+                        return ResourceManager.GetString("until date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش اولین بلوک خالی.
+                /// </summary>
+                internal static string Display_the_first_empty_block {
+                    get {
+                        return ResourceManager.GetString("Display the first empty block", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سه شنبه.
+                /// </summary>
+                internal static string Tuesday {
+                    get {
+                        return ResourceManager.GetString("Tuesday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال نام لیست سیاه.
+                /// </summary>
+                internal static string Start_the_blacklist_name_modal {
+                    get {
+                        return ResourceManager.GetString("Start the blacklist name modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزانه ثابت.
+                /// </summary>
+                internal static string Fixed_daily {
+                    get {
+                        return ResourceManager.GetString("Fixed daily", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو.
+                /// </summary>
+                internal static string Search {
+                    get {
+                        return ResourceManager.GetString("Search", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعرفه.
+                /// </summary>
+                internal static string Tariff {
+                    get {
+                        return ResourceManager.GetString("Tariff", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال اختصاص کارت.
+                /// </summary>
+                internal static string End_of_card_allocation_mode {
+                    get {
+                        return ResourceManager.GetString("End of card allocation mode", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیرفعال.
+                /// </summary>
+                internal static string Inactive {
+                    get {
+                        return ResourceManager.GetString("Inactive", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع پلاک خودروها.
+                /// </summary>
+                internal static string The_type_of_license_plate_of_cars {
+                    get {
+                        return ResourceManager.GetString("The type of license plate of cars", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to منحنی.
+                /// </summary>
+                internal static string curve {
+                    get {
+                        return ResourceManager.GetString("curve", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فعال.
+                /// </summary>
+                internal static string active {
+                    get {
+                        return ResourceManager.GetString("active", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تاریـخ.
+                /// </summary>
+                internal static string from_history {
+                    get {
+                        return ResourceManager.GetString("from history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از ساعت.
+                /// </summary>
+                internal static string from_the_hour {
+                    get {
+                        return ResourceManager.GetString("from the hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ ورود.
+                /// </summary>
+                internal static string entry_date {
+                    get {
+                        return ResourceManager.GetString("entry date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام.
+                /// </summary>
+                internal static string name {
+                    get {
+                        return ResourceManager.GetString("name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to آخرین بروزرسانی.
+                /// </summary>
+                internal static string last_update {
+                    get {
+                        return ResourceManager.GetString("last update", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد پیام.
+                /// </summary>
+                internal static string Message_code {
+                    get {
+                        return ResourceManager.GetString("Message code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ظرفیت پارکینگ.
+                /// </summary>
+                internal static string Parking_capacity {
+                    get {
+                        return ResourceManager.GetString("Parking capacity", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فونت.
+                /// </summary>
+                internal static string Font {
+                    get {
+                        return ResourceManager.GetString("Font", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تخفیف های خودرو.
+                /// </summary>
+                internal static string Car_discounts {
+                    get {
+                        return ResourceManager.GetString("Car discounts", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ظرفیت روز.
+                /// </summary>
+                internal static string Day_capacity {
+                    get {
+                        return ResourceManager.GetString("Day capacity", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to باقیمانده شارژ.
+                /// </summary>
+                internal static string Remaining_charge {
+                    get {
+                        return ResourceManager.GetString("Remaining charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا کارت.
+                /// </summary>
+                internal static string up_to_the_card {
+                    get {
+                        return ResourceManager.GetString("up to the card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سازمان.
+                /// </summary>
+                internal static string Organization {
+                    get {
+                        return ResourceManager.GetString("Organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تردد موفق.
+                /// </summary>
+                internal static string Successful_traffic {
+                    get {
+                        return ResourceManager.GetString("Successful traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل زمان برای خواندن مجدد کارت.
+                /// </summary>
+                internal static string Minimum_time_to_read_the_card_again {
+                    get {
+                        return ResourceManager.GetString("Minimum time to read the card again", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام دوربین.
+                /// </summary>
+                internal static string Camera_name {
+                    get {
+                        return ResourceManager.GetString("Camera name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعتی.
+                /// </summary>
+                internal static string an_hour {
+                    get {
+                        return ResourceManager.GetString("an hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد پستی.
+                /// </summary>
+                internal static string Postal_code {
+                    get {
+                        return ResourceManager.GetString("Postal code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to یک شنبه.
+                /// </summary>
+                internal static string a_saturday {
+                    get {
+                        return ResourceManager.GetString("a saturday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال تعریف بلوک.
+                /// </summary>
+                internal static string Start_of_block_definition_modal {
+                    get {
+                        return ResourceManager.GetString("Start of block definition modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دستگاه.
+                /// </summary>
+                internal static string device {
+                    get {
+                        return ResourceManager.GetString("device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پلاک خودرو.
+                /// </summary>
+                internal static string Vehicle_license_plate_number {
+                    get {
+                        return ResourceManager.GetString("Vehicle license plate number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر زمان مجاز.
+                /// </summary>
+                internal static string Maximum_time_allowed {
+                    get {
+                        return ResourceManager.GetString("Maximum time allowed", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حذف.
+                /// </summary>
+                internal static string Delete {
+                    get {
+                        return ResourceManager.GetString("Delete", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پارکینگ.
+                /// </summary>
+                internal static string Parking {
+                    get {
+                        return ResourceManager.GetString("Parking", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to میله ای.
+                /// </summary>
+                internal static string Bar {
+                    get {
+                        return ResourceManager.GetString("Bar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خودروهای.
+                /// </summary>
+                internal static string Cars {
+                    get {
+                        return ResourceManager.GetString("Cars", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تردد تکراری.
+                /// </summary>
+                internal static string Repetitive_traffic {
+                    get {
+                        return ResourceManager.GetString("Repetitive traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت ارسال.
+                /// </summary>
+                internal static string Shipping_time {
+                    get {
+                        return ResourceManager.GetString("Shipping time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ کل.
+                /// </summary>
+                internal static string Total_Amount {
+                    get {
+                        return ResourceManager.GetString("Total Amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام بلوک.
+                /// </summary>
+                internal static string Block_name {
+                    get {
+                        return ResourceManager.GetString("Block name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عنوان  فاکتور.
+                /// </summary>
+                internal static string invoice_title {
+                    get {
+                        return ResourceManager.GetString("invoice title", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال تعریف بلوک.
+                /// </summary>
+                internal static string End_of_block_definition_modal {
+                    get {
+                        return ResourceManager.GetString("End of block definition modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چاپ سریع.
+                /// </summary>
+                internal static string Fast_printing {
+                    get {
+                        return ResourceManager.GetString("Fast printing", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دقیقه.
+                /// </summary>
+                internal static string minutes {
+                    get {
+                        return ResourceManager.GetString("minutes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل شارژ.
+                /// </summary>
+                internal static string Minimum_charge {
+                    get {
+                        return ResourceManager.GetString("Minimum charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماه جاری.
+                /// </summary>
+                internal static string current_month {
+                    get {
+                        return ResourceManager.GetString("current month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to وضعیت.
+                /// </summary>
+                internal static string Condition {
+                    get {
+                        return ResourceManager.GetString("Condition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت ورود.
+                /// </summary>
+                internal static string entrance_time {
+                    get {
+                        return ResourceManager.GetString("entrance time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نحوه ورود اطلاعات.
+                /// </summary>
+                internal static string How_to_enter_information {
+                    get {
+                        return ResourceManager.GetString("How to enter information", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو و انتخاب دستگاه.
+                /// </summary>
+                internal static string Search_and_select_device {
+                    get {
+                        return ResourceManager.GetString("Search and select device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عدم حضور در لیست سفید.
+                /// </summary>
+                internal static string Not_being_on_the_white_list {
+                    get {
+                        return ResourceManager.GetString("Not being on the white list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مالیات های خودرو.
+                /// </summary>
+                internal static string Car_taxes {
+                    get {
+                        return ResourceManager.GetString("Car taxes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال ورودی  و خروجی پارکینگ.
+                /// </summary>
+                internal static string The_end_of_the_entrance_and_exit_modal_of_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("The end of the entrance and exit modal of the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ذخیره.
+                /// </summary>
+                internal static string Store {
+                    get {
+                        return ResourceManager.GetString("Store", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نظامی.
+                /// </summary>
+                internal static string Military {
+                    get {
+                        return ResourceManager.GetString("Military", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عبور از حداکثر شارژ.
+                /// </summary>
+                internal static string Passing_the_maximum_charge {
+                    get {
+                        return ResourceManager.GetString("Passing the maximum charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع تخفیف.
+                /// </summary>
+                internal static string Discount_type {
+                    get {
+                        return ResourceManager.GetString("Discount type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعرفه های خودرو.
+                /// </summary>
+                internal static string Car_tariffs {
+                    get {
+                        return ResourceManager.GetString("Car tariffs", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هزینه پارک خودرو به ازای کل حداکثر زمان مجاز را مشخص می کند.
+                /// </summary>
+                internal static string The_car_parking_fee_determines_the_total_maximum_allowed_time {
+                    get {
+                        return ResourceManager.GetString("The car parking fee determines the total maximum allowed time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا ساعت.
+                /// </summary>
+                internal static string until {
+                    get {
+                        return ResourceManager.GetString("until", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست گروه خودرو.
+                /// </summary>
+                internal static string Updating_the_car_group_list {
+                    get {
+                        return ResourceManager.GetString("Updating the car group list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ خروج.
+                /// </summary>
+                internal static string date_of_departure {
+                    get {
+                        return ResourceManager.GetString("date of departure", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ  ورود.
+                /// </summary>
+                internal static string entry_date {
+                    get {
+                        return ResourceManager.GetString("entry date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال انتخاب چندتایی در شماره کارت.
+                /// </summary>
+                internal static string Start_of_multiple_choice_modal_in_card_number {
+                    get {
+                        return ResourceManager.GetString("Start of multiple choice modal in card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خودرو.
+                /// </summary>
+                internal static string car {
+                    get {
+                        return ResourceManager.GetString("car", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو بر اساس.
+                /// </summary>
+                internal static string search_by {
+                    get {
+                        return ResourceManager.GetString("search by", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تاریخ.
+                /// </summary>
+                internal static string from {
+                    get {
+                        return ResourceManager.GetString("from", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص دستگاه.
+                /// </summary>
+                internal static string Device_assignment {
+                    get {
+                        return ResourceManager.GetString("Device assignment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خروجی فایل.
+                /// </summary>
+                internal static string File_output {
+                    get {
+                        return ResourceManager.GetString("File output", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال مکان های پارک در پارکینگ.
+                /// </summary>
+                internal static string Modal_end_of_parking_places_in_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("Modal end of parking places in the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to رنگ خودرو.
+                /// </summary>
+                internal static string car_color {
+                    get {
+                        return ResourceManager.GetString("car color", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان  مودال انتخاب تکی در شماره کارت.
+                /// </summary>
+                internal static string End_of_single_selection_modal_on_card_number {
+                    get {
+                        return ResourceManager.GetString("End of single selection modal on card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سهم مستاجر.
+                /// </summary>
+                internal static string Tenant's_share {
+                    get {
+                        return ResourceManager.GetString("Tenant's share", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دولتی.
+                /// </summary>
+                internal static string Governmental {
+                    get {
+                        return ResourceManager.GetString("Governmental", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر شارژ منفی.
+                /// </summary>
+                internal static string Maximum_negative_charge {
+                    get {
+                        return ResourceManager.GetString("Maximum negative charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت غیر مجاز.
+                /// </summary>
+                internal static string Unauthorized_hours {
+                    get {
+                        return ResourceManager.GetString("Unauthorized hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تاریخ  ورود.
+                /// </summary>
+                internal static string From_the_date_of_arrival {
+                    get {
+                        return ResourceManager.GetString("From the date of arrival", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تولید عکس های بارکد.
+                /// </summary>
+                internal static string Production_of_barcode_photos {
+                    get {
+                        return ResourceManager.GetString("Production of barcode photos", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت تردد برای کارت ازاد.
+                /// </summary>
+                internal static string Traffic_registration_for_Azad_card {
+                    get {
+                        return ResourceManager.GetString("Traffic registration for Azad card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماه قبل.
+                /// </summary>
+                internal static string last_month {
+                    get {
+                        return ResourceManager.GetString("last month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پیگیری.
+                /// </summary>
+                internal static string Issue_Tracking {
+                    get {
+                        return ResourceManager.GetString("Issue Tracking", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ردیف.
+                /// </summary>
+                internal static string Row {
+                    get {
+                        return ResourceManager.GetString("Row", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش.
+                /// </summary>
+                internal static string the_show {
+                    get {
+                        return ResourceManager.GetString("the show", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست دستگاه.
+                /// </summary>
+                internal static string Update_device_list {
+                    get {
+                        return ResourceManager.GetString("Update device list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام گروه خودرو.
+                /// </summary>
+                internal static string Name_of_the_car_group {
+                    get {
+                        return ResourceManager.GetString("Name of the car group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جمعه.
+                /// </summary>
+                internal static string Friday {
+                    get {
+                        return ResourceManager.GetString("Friday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مجهز به دوربین.
+                /// </summary>
+                internal static string Equipped_with_a_camera {
+                    get {
+                        return ResourceManager.GetString("Equipped with a camera", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هزینه به ازای هر دقیقه حضور.
+                /// </summary>
+                internal static string Cost_per_minute_of_attendance {
+                    get {
+                        return ResourceManager.GetString("Cost per minute of attendance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to آدرس لوگوی سازمان.
+                /// </summary>
+                internal static string Organization_logo_address {
+                    get {
+                        return ResourceManager.GetString("Organization logo address", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص خودرو.
+                /// </summary>
+                internal static string car_allocation {
+                    get {
+                        return ResourceManager.GetString("car allocation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجوی سریع.
+                /// </summary>
+                internal static string Quick_search {
+                    get {
+                        return ResourceManager.GetString("Quick search", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تاریخ.
+                /// </summary>
+                internal static string Up_to_date {
+                    get {
+                        return ResourceManager.GetString("Up to date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره اقتصادی.
+                /// </summary>
+                internal static string Economical_number {
+                    get {
+                        return ResourceManager.GetString("Economical number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمان.
+                /// </summary>
+                internal static string Time {
+                    get {
+                        return ResourceManager.GetString("Time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال انتخاب گروه خودروها.
+                /// </summary>
+                internal static string Start_of_the_vehicle_group_selection_modal {
+                    get {
+                        return ResourceManager.GetString("Start of the vehicle group selection modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل شارژ منفی.
+                /// </summary>
+                internal static string Minimum_negative_charge {
+                    get {
+                        return ResourceManager.GetString("Minimum negative charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع  مودال.
+                /// </summary>
+                internal static string Modal_start {
+                    get {
+                        return ResourceManager.GetString("Modal start", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست دوربین.
+                /// </summary>
+                internal static string Update_camera_list {
+                    get {
+                        return ResourceManager.GetString("Update camera list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هزینه مازاد پارک خودرو به ازای.
+                /// </summary>
+                internal static string Excess_car_parking_fee_per {
+                    get {
+                        return ResourceManager.GetString("Excess car parking fee per", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هزینه ورودی.
+                /// </summary>
+                internal static string entrance_fee {
+                    get {
+                        return ResourceManager.GetString("entrance fee", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد تعرفه.
+                /// </summary>
+                internal static string Tariff_code {
+                    get {
+                        return ResourceManager.GetString("Tariff code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ی.
+                /// </summary>
+                internal static string Y {
+                    get {
+                        return ResourceManager.GetString("Y", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام پلاک.
+                /// </summary>
+                internal static string name_plate {
+                    get {
+                        return ResourceManager.GetString("name plate", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تایید.
+                /// </summary>
+                internal static string confirmation {
+                    get {
+                        return ResourceManager.GetString("confirmation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو و انتخاب کارت.
+                /// </summary>
+                internal static string Search_and_select_card {
+                    get {
+                        return ResourceManager.GetString("Search and select card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص تعرفه.
+                /// </summary>
+                internal static string Allocation_of_tariff {
+                    get {
+                        return ResourceManager.GetString("Allocation of tariff", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شارژ ناکافی.
+                /// </summary>
+                internal static string Insufficient_charge {
+                    get {
+                        return ResourceManager.GetString("Insufficient charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال انتخاب چندتایی در  شماره کارت.
+                /// </summary>
+                internal static string End_of_multiple_choice_modal_in_card_number {
+                    get {
+                        return ResourceManager.GetString("End of multiple choice modal in card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چهارشنبه.
+                /// </summary>
+                internal static string Wednesday {
+                    get {
+                        return ResourceManager.GetString("Wednesday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دوربین.
+                /// </summary>
+                internal static string Camera {
+                    get {
+                        return ResourceManager.GetString("Camera", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نبود حداقل شارژ.
+                /// </summary>
+                internal static string No_minimum_charge {
+                    get {
+                        return ResourceManager.GetString("No minimum charge", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست کارت ها.
+                /// </summary>
+                internal static string List_of_cards {
+                    get {
+                        return ResourceManager.GetString("List of cards", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف بلوک.
+                /// </summary>
+                internal static string Block_definition {
+                    get {
+                        return ResourceManager.GetString("Block definition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع تعرفه.
+                /// </summary>
+                internal static string Tariff_type {
+                    get {
+                        return ResourceManager.GetString("Tariff type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خطای تنظیماتی.
+                /// </summary>
+                internal static string Configuration_error {
+                    get {
+                        return ResourceManager.GetString("Configuration error", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از کارت.
+                /// </summary>
+                internal static string from_card {
+                    get {
+                        return ResourceManager.GetString("from card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اجازه تردد بر اساس لیست.
+                /// </summary>
+                internal static string Traffic_permission_based_on_the_list {
+                    get {
+                        return ResourceManager.GetString("Traffic permission based on the list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام گزارش.
+                /// </summary>
+                internal static string The_name_of_the_report {
+                    get {
+                        return ResourceManager.GetString("The name of the report", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال اختصاص دوربین.
+                /// </summary>
+                internal static string End_of_camera_assignment_modal {
+                    get {
+                        return ResourceManager.GetString("End of camera assignment modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص کارت.
+                /// </summary>
+                internal static string card_assignment {
+                    get {
+                        return ResourceManager.GetString("card assignment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام صاحب ماشین.
+                /// </summary>
+                internal static string Name_of_the_car_owner {
+                    get {
+                        return ResourceManager.GetString("Name of the car owner", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ظرفیت تکمیل.
+                /// </summary>
+                internal static string Completion_capacity {
+                    get {
+                        return ResourceManager.GetString("Completion capacity", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال اختصاص دوربین.
+                /// </summary>
+                internal static string Start_the_camera_assignment_modal {
+                    get {
+                        return ResourceManager.GetString("Start the camera assignment modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پلاک.
+                /// </summary>
+                internal static string Number_plates {
+                    get {
+                        return ResourceManager.GetString("Number plates", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عملیات.
+                /// </summary>
+                internal static string the_operation {
+                    get {
+                        return ResourceManager.GetString("the operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ.
+                /// </summary>
+                internal static string Amount {
+                    get {
+                        return ResourceManager.GetString("Amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حالت های مانیتورینگ.
+                /// </summary>
+                internal static string Monitoring_modes {
+                    get {
+                        return ResourceManager.GetString("Monitoring modes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ و زمان خروج.
+                /// </summary>
+                internal static string Departure_date_and_time {
+                    get {
+                        return ResourceManager.GetString("Departure date and time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ اعتبار تعرفه.
+                /// </summary>
+                internal static string Tariff_validity_date {
+                    get {
+                        return ResourceManager.GetString("Tariff validity date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست تخفیف.
+                /// </summary>
+                internal static string Update_discount_list {
+                    get {
+                        return ResourceManager.GetString("Update discount list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع  لیست.
+                /// </summary>
+                internal static string List_type {
+                    get {
+                        return ResourceManager.GetString("List type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از شماره.
+                /// </summary>
+                internal static string From_the_number {
+                    get {
+                        return ResourceManager.GetString("From the number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام  پارکینگ.
+                /// </summary>
+                internal static string The_name_of_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("The name of the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روز غیرمجاز.
+                /// </summary>
+                internal static string Unauthorized_day {
+                    get {
+                        return ResourceManager.GetString("Unauthorized day", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روز قبل.
+                /// </summary>
+                internal static string The_day_before {
+                    get {
+                        return ResourceManager.GetString("The day before", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست سیاه.
+                /// </summary>
+                internal static string black_list {
+                    get {
+                        return ResourceManager.GetString("black list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت تخصیص.
+                /// </summary>
+                internal static string Allocation_time {
+                    get {
+                        return ResourceManager.GetString("Allocation time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هفته قبل.
+                /// </summary>
+                internal static string last_week {
+                    get {
+                        return ResourceManager.GetString("last week", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال اختصاص دستگاه.
+                /// </summary>
+                internal static string Start_the_device_assignment_modal {
+                    get {
+                        return ResourceManager.GetString("Start the device assignment modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت تردد برای پرسنل.
+                /// </summary>
+                internal static string Traffic_registration_for_personnel {
+                    get {
+                        return ResourceManager.GetString("Traffic registration for personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گزارش پارکینگ منحنی.
+                /// </summary>
+                internal static string Curve_parking_report {
+                    get {
+                        return ResourceManager.GetString("Curve parking report", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ارسال پیامک برای کارت های اعتباری.
+                /// </summary>
+                internal static string Send_SMS_for_credit_cards {
+                    get {
+                        return ResourceManager.GetString("Send SMS for credit cards", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حاضر در مجموعه.
+                /// </summary>
+                internal static string Present_in_the_collection {
+                    get {
+                        return ResourceManager.GetString("Present in the collection", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد دستگاه.
+                /// </summary>
+                internal static string Device_code {
+                    get {
+                        return ResourceManager.GetString("Device code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حضور در لیست سیاه.
+                /// </summary>
+                internal static string Being_on_the_black_list {
+                    get {
+                        return ResourceManager.GetString("Being on the black list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال انتخاب تکی در شماره کارت.
+                /// </summary>
+                internal static string Start_single_selection_modal_on_card_number {
+                    get {
+                        return ResourceManager.GetString("Start single selection modal on card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چاپ اطلاعات.
+                /// </summary>
+                internal static string Print_information {
+                    get {
+                        return ResourceManager.GetString("Print information", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال اختصاص کارت.
+                /// </summary>
+                internal static string Start_the_card_assignment_module {
+                    get {
+                        return ResourceManager.GetString("Start the card assignment module", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to موتور سیکلت.
+                /// </summary>
+                internal static string motorcycle {
+                    get {
+                        return ResourceManager.GetString("motorcycle", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنل.
+                /// </summary>
+                internal static string Personnel {
+                    get {
+                        return ResourceManager.GetString("Personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تاریخ خروج.
+                /// </summary>
+                internal static string Until_the_departure_date {
+                    get {
+                        return ResourceManager.GetString("Until the departure date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام تعرفه.
+                /// </summary>
+                internal static string tariff_name {
+                    get {
+                        return ResourceManager.GetString("tariff name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب گروه خودروها.
+                /// </summary>
+                internal static string Select_a_group_of_cars {
+                    get {
+                        return ResourceManager.GetString("Select a group of cars", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت زمان.
+                /// </summary>
+                internal static string period_of_time {
+                    get {
+                        return ResourceManager.GetString("period of time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال انتخاب گروه خودروها.
+                /// </summary>
+                internal static string End_of_the_vehicle_group_selection_modal {
+                    get {
+                        return ResourceManager.GetString("End of the vehicle group selection modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام بخش.
+                /// </summary>
+                internal static string Department_Name {
+                    get {
+                        return ResourceManager.GetString("Department Name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اتمام عضویت.
+                /// </summary>
+                internal static string End_of_membership {
+                    get {
+                        return ResourceManager.GetString("End of membership", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عادی.
+                /// </summary>
+                internal static string normal {
+                    get {
+                        return ResourceManager.GetString("normal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کاربر.
+                /// </summary>
+                internal static string user {
+                    get {
+                        return ResourceManager.GetString("user", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تردد.
+                /// </summary>
+                internal static string traffic {
+                    get {
+                        return ResourceManager.GetString("traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام لیست.
+                /// </summary>
+                internal static string The_name_of_the_list {
+                    get {
+                        return ResourceManager.GetString("The name of the list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع پرداخت.
+                /// </summary>
+                internal static string payment_type {
+                    get {
+                        return ResourceManager.GetString("payment type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص دوربین.
+                /// </summary>
+                internal static string Camera_assignment {
+                    get {
+                        return ResourceManager.GetString("Camera assignment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام دستگاه.
+                /// </summary>
+                internal static string device_name {
+                    get {
+                        return ResourceManager.GetString("device name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا شماره.
+                /// </summary>
+                internal static string up_to_no {
+                    get {
+                        return ResourceManager.GetString("up to no", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ شارژ شده.
+                /// </summary>
+                internal static string Charged_amount {
+                    get {
+                        return ResourceManager.GetString("Charged amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ریال.
+                /// </summary>
+                internal static string Rials {
+                    get {
+                        return ResourceManager.GetString("Rials", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ آخرین بروزرسانی.
+                /// </summary>
+                internal static string Date_of_last_update {
+                    get {
+                        return ResourceManager.GetString("Date of last update", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کارت.
+                /// </summary>
+                internal static string Card {
+                    get {
+                        return ResourceManager.GetString("Card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست سفید.
+                /// </summary>
+                internal static string White_list {
+                    get {
+                        return ResourceManager.GetString("White list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال اختصاص تعرفه.
+                /// </summary>
+                internal static string End_of_tariff_allocation_modal {
+                    get {
+                        return ResourceManager.GetString("End of tariff allocation modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام صاحب خودرو.
+                /// </summary>
+                internal static string Name_of_the_car_owner {
+                    get {
+                        return ResourceManager.GetString("Name of the car owner", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال اختصاص تعرفه.
+                /// </summary>
+                internal static string Start_of_tariff_assignment_modal {
+                    get {
+                        return ResourceManager.GetString("Start of tariff assignment modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع پلاک خودرو.
+                /// </summary>
+                internal static string Type_of_license_plate {
+                    get {
+                        return ResourceManager.GetString("Type of license plate", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تشریفات.
+                /// </summary>
+                internal static string Ceremonies {
+                    get {
+                        return ResourceManager.GetString("Ceremonies", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد تخفیف.
+                /// </summary>
+                internal static string discount_code {
+                    get {
+                        return ResourceManager.GetString("discount code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال مکان های پارک در پارکینگ.
+                /// </summary>
+                internal static string Modal_start_of_parking_places_in_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("Modal start of parking places in the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تردد روز.
+                /// </summary>
+                internal static string daily_traffic {
+                    get {
+                        return ResourceManager.GetString("daily traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ مالیات.
+                /// </summary>
+                internal static string Tax_amount {
+                    get {
+                        return ResourceManager.GetString("Tax amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گزارشهای موجود.
+                /// </summary>
+                internal static string Available_reports {
+                    get {
+                        return ResourceManager.GetString("Available reports", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ریالی.
+                /// </summary>
+                internal static string Rial {
+                    get {
+                        return ResourceManager.GetString("Rial", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to متن پیام.
+                /// </summary>
+                internal static string Message_text {
+                    get {
+                        return ResourceManager.GetString("Message text", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to افزدون به لیست.
+                /// </summary>
+                internal static string Add_to_list {
+                    get {
+                        return ResourceManager.GetString("Add to list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هفته جاری.
+                /// </summary>
+                internal static string current_week {
+                    get {
+                        return ResourceManager.GetString("current week", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مکان های پارک در پارکینگ.
+                /// </summary>
+                internal static string Parking_places_in_the_parking_lot {
+                    get {
+                        return ResourceManager.GetString("Parking places in the parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to واحد سازمانی.
+                /// </summary>
+                internal static string Organizational_Unit {
+                    get {
+                        return ResourceManager.GetString("Organizational Unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ آخرین بروز رسانی.
+                /// </summary>
+                internal static string Date_of_last_update {
+                    get {
+                        return ResourceManager.GetString("Date of last update", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب.
+                /// </summary>
+                internal static string Selection {
+                    get {
+                        return ResourceManager.GetString("Selection", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره موبایل صاحب خودرو.
+                /// </summary>
+                internal static string Car_owner's_mobile_number {
+                    get {
+                        return ResourceManager.GetString("Car owner's mobile number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خودروهای آزاد.
+                /// </summary>
+                internal static string free_cars {
+                    get {
+                        return ResourceManager.GetString("free cars", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب کارت.
+                /// </summary>
+                internal static string Select_card {
+                    get {
+                        return ResourceManager.GetString("Select card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ روز.
+                /// </summary>
+                internal static string daily_amount {
+                    get {
+                        return ResourceManager.GetString("daily amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ تخصیص.
+                /// </summary>
+                internal static string Date_of_allocation {
+                    get {
+                        return ResourceManager.GetString("Date of allocation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع استخدام.
+                /// </summary>
+                internal static string type_of_employment {
+                    get {
+                        return ResourceManager.GetString("type of employment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سهم موجر.
+                /// </summary>
+                internal static string lessor's_share {
+                    get {
+                        return ResourceManager.GetString("lessor's share", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ایــران.
+                /// </summary>
+                internal static string Iran {
+                    get {
+                        return ResourceManager.GetString("Iran", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تمامی.
+                /// </summary>
+                internal static string all {
+                    get {
+                        return ResourceManager.GetString("all", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مالیات.
+                /// </summary>
+                internal static string Tax_code {
+                    get {
+                        return ResourceManager.GetString("Tax code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سیاه.
+                /// </summary>
+                internal static string Black {
+                    get {
+                        return ResourceManager.GetString("Black", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع مالیات.
+                /// </summary>
+                internal static string Tax_type {
+                    get {
+                        return ResourceManager.GetString("Tax type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره کارت.
+                /// </summary>
+                internal static string card_number {
+                    get {
+                        return ResourceManager.GetString("card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خارج شده.
+                /// </summary>
+                internal static string out {
+                    get {
+                        return ResourceManager.GetString("out", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to توضیحات.
+                /// </summary>
+                internal static string Description {
+                    get {
+                        return ResourceManager.GetString("Description", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت خروج.
+                /// </summary>
+                internal static string leaving_hour {
+                    get {
+                        return ResourceManager.GetString("leaving hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام گروه.
+                /// </summary>
+                internal static string the_name_of_the_group {
+                    get {
+                        return ResourceManager.GetString("the name of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام خودرو.
+                /// </summary>
+                internal static string car_name {
+                    get {
+                        return ResourceManager.GetString("car name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اتوماتیک.
+                /// </summary>
+                internal static string automatic {
+                    get {
+                        return ResourceManager.GetString("automatic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هزینه مازاد به ازای هر دقیقه حضور.
+                /// </summary>
+                internal static string Excess_charge_per_minute_of_presence {
+                    get {
+                        return ResourceManager.GetString("Excess charge per minute of presence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزانه متغییر.
+                /// </summary>
+                internal static string Changed_daily {
+                    get {
+                        return ResourceManager.GetString("Changed daily", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حذف از لیست.
+                /// </summary>
+                internal static string Delete_from_the_list {
+                    get {
+                        return ResourceManager.GetString("Delete from the list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام مالیات.
+                /// </summary>
+                internal static string The_name_of_the_tax {
+                    get {
+                        return ResourceManager.GetString("The name of the tax", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ ارسال.
+                /// </summary>
+                internal static string postage_date {
+                    get {
+                        return ResourceManager.GetString("postage date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف گروه خودرو.
+                /// </summary>
+                internal static string Definition_of_car_group {
+                    get {
+                        return ResourceManager.GetString("Definition of car group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بخش پارکینگ.
+                /// </summary>
+                internal static string Parking_lot {
+                    get {
+                        return ResourceManager.GetString("Parking lot", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گزارش پارکینگ میله ای.
+                /// </summary>
+                internal static string Bar_parking_report {
+                    get {
+                        return ResourceManager.GetString("Bar parking report", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست تعرفه.
+                /// </summary>
+                internal static string Updating_the_tariff_list {
+                    get {
+                        return ResourceManager.GetString("Updating the tariff list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عدم شناسایی.
+                /// </summary>
+                internal static string Non-identification {
+                    get {
+                        return ResourceManager.GetString("Non-identification", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دریافت تصویر.
+                /// </summary>
+                internal static string Get_the_image {
+                    get {
+                        return ResourceManager.GetString("Get the image", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو و انتخاب دستگاه  پایان مودال.
+                /// </summary>
+                internal static string Search_and_select_the_modal_end_device {
+                    get {
+                        return ResourceManager.GetString("Search and select the modal end device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ.
+                /// </summary>
+                internal static string History {
+                    get {
+                        return ResourceManager.GetString("History", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام  گروه.
+                /// </summary>
+                internal static string the_name_of_the_group {
+                    get {
+                        return ResourceManager.GetString("the name of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جدید.
+                /// </summary>
+                internal static string New {
+                    get {
+                        return ResourceManager.GetString("New", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to امروز.
+                /// </summary>
+                internal static string Today {
+                    get {
+                        return ResourceManager.GetString("Today", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع خودرو.
+                /// </summary>
+                internal static string car_type {
+                    get {
+                        return ResourceManager.GetString("car type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بازگشت.
+                /// </summary>
+                internal static string coming_back {
+                    get {
+                        return ResourceManager.GetString("coming back", resourceCulture);
+                    }
+        }

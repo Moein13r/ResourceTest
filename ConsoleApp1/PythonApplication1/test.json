@@ -1,0 +1,2196 @@
+{
+    "Words": [        
+        {
+            "Persian": "تنظیمات نوبت کاری",
+            "English": "Shift settings"
+        },
+        {
+            "Persian": "قانون حضور شب",
+            "English": "The night attendance rule"
+        },
+        {
+            "Persian": "تابع مرخصی استحقاقی",
+            "English": "Paid leave function"
+        },
+        {
+            "Persian": "شیفت",
+            "English": "shift"
+        },
+        {
+            "Persian": "مثال",
+            "English": "Example"
+        },
+        {
+            "Persian": "باحقوق",
+            "English": "with rights"
+        },
+        {
+            "Persian": "ذر",
+            "English": "Zar"
+        },
+        {
+            "Persian": "انتخاب تاریخ",
+            "English": "Select date"
+        },
+        {
+            "Persian": "گروه کاری",
+            "English": "workgroup"
+        },
+        {
+            "Persian": "اختصاص شیفت",
+            "English": "shift assignment"
+        },
+        {
+            "Persian": "شیفت نامنظم به صورت کلی",
+            "English": "Irregular shift in general"
+        },
+        {
+            "Persian": "پیغام",
+            "English": "message"
+        },
+        {
+            "Persian": "شبکه",
+            "English": "Network"
+        },
+        {
+            "Persian": "شروع مودال جستجو",
+            "English": "Start the search modal"
+        },
+        {
+            "Persian": "عنوان دستگاه",
+            "English": "Device title"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "لیست شیفت های گروه",
+            "English": "List of group shifts"
+        },
+        {
+            "Persian": "غیبت غیرمجاز روزانه",
+            "English": "Daily unauthorized absence"
+        },
+        {
+            "Persian": "فایل اکسل",
+            "English": "Excel file"
+        },
+        {
+            "Persian": "باشد ظاهر قدیمی",
+            "English": "Let it look old"
+        },
+        {
+            "Persian": "مدیریت مسیر ارتباط با بانک اطلاعاتی",
+            "English": "Managing the communication path with the database"
+        },
+        {
+            "Persian": "از پرسنل",
+            "English": "From personnel"
+        },
+        {
+            "Persian": "اعمال بازه انقضا",
+            "English": "Apply the expiration date"
+        },
+        {
+            "Persian": "از تـاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "فیلد از پرسنل را پر کنید",
+            "English": "Fill in the personnel field"
+        },
+        {
+            "Persian": "وضیعت",
+            "English": "the situation"
+        },
+        {
+            "Persian": "ساعت اضافه کار پرسنل",
+            "English": "Overtime hours of personnel"
+        },
+        {
+            "Persian": "جابجای قانون حضور پرسنل",
+            "English": "Changing the personnel attendance law"
+        },
+        {
+            "Persian": "شماره پرسنل",
+            "English": "Personnel number"
+        },
+        {
+            "Persian": "محل انجام اضافه کار",
+            "English": "Place of overtime"
+        },
+        {
+            "Persian": "شروع  مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "از متغیر موجود در فایل جی اس باید بخواند",
+            "English": "It should be read from the variable in the JS file"
+        },
+        {
+            "Persian": "نام دستگاه",
+            "English": "device name"
+        },
+        {
+            "Persian": "ساعت",
+            "English": "the watch"
+        },
+        {
+            "Persian": "محل نصب",
+            "English": "installation location"
+        },
+        {
+            "Persian": "حضور در شیفت",
+            "English": "Attending the shift"
+        },
+        {
+            "Persian": "کـد قانون حضور",
+            "English": "Attendance code"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "پاییز",
+            "English": "Fall"
+        },
+        {
+            "Persian": "کد ماموریت باحقوق",
+            "English": "Authorized mission code"
+        },
+        {
+            "Persian": "حداقل اضافه كار",
+            "English": "Minimum overtime"
+        },
+        {
+            "Persian": "اسفند",
+            "English": "Esfand"
+        },
+        {
+            "Persian": "کد قانون حضور",
+            "English": "Attendance law code"
+        },
+        {
+            "Persian": "روزهای کاری قانون حضور",
+            "English": "Working days of attendance law"
+        },
+        {
+            "Persian": "تنظیمات کل استراحت ها",
+            "English": "Total rest settings"
+        },
+        {
+            "Persian": "مرخصی استعلاجی روزانه",
+            "English": "Daily sick leave"
+        },
+        {
+            "Persian": "دریافت تصویر",
+            "English": "Get the image"
+        },
+        {
+            "Persian": "تعطیلات رسمی تقویم اعمال شود",
+            "English": "Official calendar holidays apply"
+        },
+        {
+            "Persian": "ماموریت خارج از قانون حضور به عنوان اضافه کار محسوب شود",
+            "English": "The mission outside the attendance law is considered as overtime"
+        },
+        {
+            "Persian": "ایمپورت اضافه کار از فایل اکسل",
+            "English": "Import overtime from Excel file"
+        },
+        {
+            "Persian": "مناسبت",
+            "English": "occasion"
+        },
+        {
+            "Persian": "تیر",
+            "English": "Tir"
+        },
+        {
+            "Persian": "مرخصی استحقاقی ساعتی",
+            "English": "Hourly paid leave"
+        },
+        {
+            "Persian": "تاخیر مجاز",
+            "English": "Allowed delay"
+        },
+        {
+            "Persian": "ترددهای معمولی ثبت شده در",
+            "English": "Normal traffic recorded in"
+        },
+        {
+            "Persian": "نوع افزودن یا کاهش مرخصی",
+            "English": "Type of leave addition or reduction"
+        },
+        {
+            "Persian": "حذف مرخصی",
+            "English": "Remove leave"
+        },
+        {
+            "Persian": "برنامه کاری پرسنل",
+            "English": "Personnel work schedule"
+        },
+        {
+            "Persian": "نــام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "نوبت کاری از ساعت",
+            "English": "Work shifts from the clock"
+        },
+        {
+            "Persian": "ویرایش تردد جدید",
+            "English": "Edit new traffic"
+        },
+        {
+            "Persian": "اگر عدد صفر را در هر کدام از گزینه های زیر وارد کنید",
+            "English": "If you enter zero in any of the following options"
+        },
+        {
+            "Persian": "حداکثر کسر کسر کار از اضافه کار و مرخصی استحقاقی",
+            "English": "Maximum deduction of work deduction from overtime and paid leave"
+        },
+        {
+            "Persian": "مرخصی استخقاقی ساعتی",
+            "English": "Hourly paid leave"
+        },
+        {
+            "Persian": "تاریخ تغییرات",
+            "English": "Date of changes"
+        },
+        {
+            "Persian": "شناسه تردد ارسالی",
+            "English": "Sent traffic ID"
+        },
+        {
+            "Persian": "محل خدمت",
+            "English": "Service location"
+        },
+        {
+            "Persian": "استراحت",
+            "English": "rest"
+        },
+        {
+            "Persian": "تعریف چارت سازمانی",
+            "English": "Definition of organizational chart"
+        },
+        {
+            "Persian": "اضافه کار زمان استراحت نیاز به مجوز دارد",
+            "English": "Rest time overtime requires a permit"
+        },
+        {
+            "Persian": "مرخصی بدون حقوق روزانه",
+            "English": "Daily unpaid leave"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "کد",
+            "English": "code"
+        },
+        {
+            "Persian": "تاریخ و ساعت جاری ذخیره گردد",
+            "English": "Save the current date and time"
+        },
+        {
+            "Persian": "کارکرد روزانه",
+            "English": "daily operation"
+        },
+        {
+            "Persian": "نوع دستگاه",
+            "English": "device type"
+        },
+        {
+            "Persian": "گرید روزهای کاری شیفت ها",
+            "English": "Workday grid of shifts"
+        },
+        {
+            "Persian": "شروع تردد شیفت شب",
+            "English": "Start of night shift traffic"
+        },
+        {
+            "Persian": "پایان مودال جستجو",
+            "English": "End of search modal"
+        },
+        {
+            "Persian": "فعال",
+            "English": "active"
+        },
+        {
+            "Persian": "تابع مرخصی بدون حقوق",
+            "English": "Subject to unpaid leave"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "تا پرسنل",
+            "English": "up to personnel"
+        },
+        {
+            "Persian": "نام گروه کاری",
+            "English": "Name of the working group"
+        },
+        {
+            "Persian": "پرسنل واحد سازمانی",
+            "English": "Organizational unit personnel"
+        },
+        {
+            "Persian": "بروزرسانی لیست گروه کاری",
+            "English": "Update the working group list"
+        },
+        {
+            "Persian": "مرخصی سازمانی از کارکرد کسر شود",
+            "English": "Deduct organizational leave from work"
+        },
+        {
+            "Persian": "کسر کار به عنوان مرخصی استحقاقی محسوب شود",
+            "English": "Deduction from work should be considered as paid leave"
+        },
+        {
+            "Persian": "افزایش و کاهش اضافه کار",
+            "English": "Increase and decrease overtime"
+        },
+        {
+            "Persian": "واحد سازمانی",
+            "English": "Organizational Unit"
+        },
+        {
+            "Persian": "اضافه کار بعد وقت نیاز به مجوز دارد",
+            "English": "Overtime after hours requires a permit"
+        },
+        {
+            "Persian": "ایمپورت ترددها از فایل اکسل",
+            "English": "Import traffic from Excel file"
+        },
+        {
+            "Persian": "غیبت مجاز",
+            "English": "Authorized absence"
+        },
+        {
+            "Persian": "روز",
+            "English": "Day"
+        },
+        {
+            "Persian": "ثبت دستی تردد",
+            "English": "Manual traffic registration"
+        },
+        {
+            "Persian": "ضریب غیبت روزانه",
+            "English": "Daily absence rate"
+        },
+        {
+            "Persian": "پایـان",
+            "English": "the end"
+        },
+        {
+            "Persian": "دریافت فعال ساز دستگاه ها",
+            "English": "Get devices activator"
+        },
+        {
+            "Persian": "تاریخچه",
+            "English": "History"
+        },
+        {
+            "Persian": "تعجیل مجـاز",
+            "English": "Haste is allowed"
+        },
+        {
+            "Persian": "تنظیم قوانین روزهای شیفت",
+            "English": "Set the rules of shift days"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "تعداد تردد مجاز در روز",
+            "English": "Number of traffic allowed per day"
+        },
+        {
+            "Persian": "پورت سریال",
+            "English": "Serial port"
+        },
+        {
+            "Persian": "قانون حضور استراحت",
+            "English": "Law of presence of rest"
+        },
+        {
+            "Persian": "شیفت نامنظم به صورت جدولی",
+            "English": "Irregular shift in tabular form"
+        },
+        {
+            "Persian": "کل حضور مجاز",
+            "English": "Total authorized attendance"
+        },
+        {
+            "Persian": "اگر این مقدار",
+            "English": "If this value"
+        },
+        {
+            "Persian": "تنظیمات",
+            "English": "Settings"
+        },
+        {
+            "Persian": "خرین دسترسی",
+            "English": "Buy access"
+        },
+        {
+            "Persian": "اضافه کار",
+            "English": "Overtime"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "یک روز کامل کاری",
+            "English": "A full working day"
+        },
+        {
+            "Persian": "حداقل اضافه کار قبل وقت",
+            "English": "Minimum overtime ahead of time"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید اضافه کار تنظیم شده به کل پرسنل سازمان  تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the adjusted overtime will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "تاریخ شروع چرخش",
+            "English": "Rotation start date"
+        },
+        {
+            "Persian": "ثبت ماموریت",
+            "English": "Mission registration"
+        },
+        {
+            "Persian": "انتخاب مدیریت واحد های مجاز دستگاه",
+            "English": "Select the management of the authorized units of the device"
+        },
+        {
+            "Persian": "تـا شماره کارت",
+            "English": "to the card number"
+        },
+        {
+            "Persian": "اختصاص شیفت به پرسنل",
+            "English": "Assigning shifts to personnel"
+        },
+        {
+            "Persian": "دی",
+            "English": "January"
+        },
+        {
+            "Persian": "مورد استفاده",
+            "English": "used"
+        },
+        {
+            "Persian": "ساعت شروع",
+            "English": "start time"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "توضیحـات",
+            "English": "Explanations"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "پایان مودال لیست تردد های ثبت نشده",
+            "English": "End of modal list of unregistered traffic"
+        },
+        {
+            "Persian": "تغییر نوع تردد",
+            "English": "Change the type of traffic"
+        },
+        {
+            "Persian": "مدت زمان باز بودن در",
+            "English": "Opening time"
+        },
+        {
+            "Persian": "روز تعطیل است",
+            "English": "It is a holiday"
+        },
+        {
+            "Persian": "ماموریت با حقوق ساعتی",
+            "English": "Mission with hourly pay"
+        },
+        {
+            "Persian": "کاهش",
+            "English": "Decrease"
+        },
+        {
+            "Persian": "دستگاه",
+            "English": "device"
+        },
+        {
+            "Persian": "دوشنبه",
+            "English": "Monday"
+        },
+        {
+            "Persian": "تاریخ تردد",
+            "English": "Date of traffic"
+        },
+        {
+            "Persian": "ایمپورت مرخصی از فایل اکسل",
+            "English": "Import leave from Excel file"
+        },
+        {
+            "Persian": "هیچ رکوردی موجود نیست",
+            "English": "No records available"
+        },
+        {
+            "Persian": "تاخیر غیر مجاز روزانه",
+            "English": "Unauthorized daily delay"
+        },
+        {
+            "Persian": "ورودی",
+            "English": "Entrance"
+        },
+        {
+            "Persian": "تا",
+            "English": "until the"
+        },
+        {
+            "Persian": "خطا در فراخوانی اطلاعات تردد",
+            "English": "Error in calling traffic information"
+        },
+        {
+            "Persian": "خروج",
+            "English": "Exit"
+        },
+        {
+            "Persian": "تعداد روز",
+            "English": "number of days"
+        },
+        {
+            "Persian": "باشد ظاهر جدید صفحه افزایش و کاهش اضافه کار نمایش داده می شود",
+            "English": "The new appearance of the overtime increment and decrement page will be displayed"
+        },
+        {
+            "Persian": "پرسنل واحد",
+            "English": "Unit personnel"
+        },
+        {
+            "Persian": "مدیریت کارکرد",
+            "English": "Functional management"
+        },
+        {
+            "Persian": "باز کردن در",
+            "English": "open the door"
+        },
+        {
+            "Persian": "قانون حضور",
+            "English": "law of presence"
+        },
+        {
+            "Persian": "کپی   کارمندان",
+            "English": "Copy of employees"
+        },
+        {
+            "Persian": "ساعت ورود",
+            "English": "entrance time"
+        },
+        {
+            "Persian": "نام و نام خانوادگی کاربر",
+            "English": "User name and surname"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "رمز",
+            "English": "password"
+        },
+        {
+            "Persian": "نوع ثبت شیفت نامنظم",
+            "English": "Irregular shift registration type"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "مشخصات کاربر",
+            "English": "User profile"
+        },
+        {
+            "Persian": "از شماره کارت",
+            "English": "From the card number"
+        },
+        {
+            "Persian": "نـوع تعطیلی",
+            "English": "Kind of holiday"
+        },
+        {
+            "Persian": "فروردین",
+            "English": "farvardin"
+        },
+        {
+            "Persian": "انتخاب واحد",
+            "English": "Select unit"
+        },
+        {
+            "Persian": "مدت اضافه کار اجباری",
+            "English": "Mandatory overtime"
+        },
+        {
+            "Persian": "انصراف",
+            "English": "opt out"
+        },
+        {
+            "Persian": "از تاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "عــادی",
+            "English": "normal"
+        },
+        {
+            "Persian": "سلف سرویس",
+            "English": "Self service"
+        },
+        {
+            "Persian": "ساعت تردد",
+            "English": "traffic hours"
+        },
+        {
+            "Persian": "تعریف دستگاه",
+            "English": "Device definition"
+        },
+        {
+            "Persian": "شـروع",
+            "English": "start"
+        },
+        {
+            "Persian": "سازمانی",
+            "English": "organizational"
+        },
+        {
+            "Persian": "ماموریت از کارکرد کسر شود",
+            "English": "Deduct the mission from the function"
+        },
+        {
+            "Persian": "سال",
+            "English": "Year"
+        },
+        {
+            "Persian": "تنظیمات استراحت",
+            "English": "Rest settings"
+        },
+        {
+            "Persian": "فیلد تا پرسنل را پر کنید",
+            "English": "Fill in the personnel field"
+        },
+        {
+            "Persian": "عملیات تردد روز",
+            "English": "Daily traffic operation"
+        },
+        {
+            "Persian": "پهنای باند",
+            "English": "Bandwidth"
+        },
+        {
+            "Persian": "فصل",
+            "English": "Season"
+        },
+        {
+            "Persian": "بروزرسانی لیست واحد سازمانی",
+            "English": "Updating the list of organizational units"
+        },
+        {
+            "Persian": "کد مرخصی سازمانی",
+            "English": "Organizational leave code"
+        },
+        {
+            "Persian": "مرخصی حادثه از کارکرد کسر شود",
+            "English": "Accident leave should be deducted from work"
+        },
+        {
+            "Persian": "استراحت یک",
+            "English": "Rest one"
+        },
+        {
+            "Persian": "ویرایش تردد",
+            "English": "Edit traffic"
+        },
+        {
+            "Persian": "تک تردد",
+            "English": "single traffic"
+        },
+        {
+            "Persian": "انتخاب پرسنل",
+            "English": "Selection of personnel"
+        },
+        {
+            "Persian": "مانده اضافه کار اختصاص یافته منفی اعمال نشود",
+            "English": "Do not apply negative overtime balance"
+        },
+        {
+            "Persian": "نوع مرخصی",
+            "English": "Type of leave"
+        },
+        {
+            "Persian": "حداکثر کسر کسرکار از اضافه کار و مرخصی استحقاقی",
+            "English": "Maximum deduction of overtime and paid leave"
+        },
+        {
+            "Persian": "حضور در بازه استراحت",
+            "English": "Attending the rest period"
+        },
+        {
+            "Persian": "درس فیزیکی",
+            "English": "Physical lesson"
+        },
+        {
+            "Persian": "ثبت جزیی",
+            "English": "Partial registration"
+        },
+        {
+            "Persian": "عملکرد",
+            "English": "Function"
+        },
+        {
+            "Persian": "فاصله بروزرسانی به دقیقه",
+            "English": "Update interval in minutes"
+        },
+        {
+            "Persian": "بروزرسانی  لیست دستگاه",
+            "English": "Update device list"
+        },
+        {
+            "Persian": "کد غیبت مجاز",
+            "English": "Authorized absence code"
+        },
+        {
+            "Persian": "تنظیمات قانون حضور موظفی",
+            "English": "Mandatory attendance law settings"
+        },
+        {
+            "Persian": "تا کد",
+            "English": "up to the code"
+        },
+        {
+            "Persian": "کد مرخصی",
+            "English": "Leave code"
+        },
+        {
+            "Persian": "شماره پورت",
+            "English": "Port number"
+        },
+        {
+            "Persian": "زمان ورود",
+            "English": "arrival time"
+        },
+        {
+            "Persian": "بارگذاری تردد انبوه از اکسل",
+            "English": "Load bulk traffic from Excel"
+        },
+        {
+            "Persian": "ش",
+            "English": "Sh"
+        },
+        {
+            "Persian": "تغییر ترددهای پرسنل",
+            "English": "Change of personnel traffic"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "شناسه  عکس تردد ارسالی",
+            "English": "ID of the submitted traffic photo"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "ضریب اضافه کار در روز تعطیل",
+            "English": "Overtime rate on holidays"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "تک پرسنل",
+            "English": "single personnel"
+        },
+        {
+            "Persian": "استفاده شود",
+            "English": "to be used"
+        },
+        {
+            "Persian": "تخصیص شیفت",
+            "English": "shift assignment"
+        },
+        {
+            "Persian": "حداکثر اضافه کار قبل وقت",
+            "English": "Maximum overtime ahead of time"
+        },
+        {
+            "Persian": "مدت استراحت اضافه کار",
+            "English": "Overtime rest period"
+        },
+        {
+            "Persian": "نمایش ترددهای حذف شده",
+            "English": "Show deleted traffic"
+        },
+        {
+            "Persian": "چهارشنبه",
+            "English": "Wednesday"
+        },
+        {
+            "Persian": "مدت مرخصی",
+            "English": "Vacation period"
+        },
+        {
+            "Persian": "بدون حقوق روزانه",
+            "English": "No daily salary"
+        },
+        {
+            "Persian": "تاریخچه تردد",
+            "English": "Traffic history"
+        },
+        {
+            "Persian": "مجوز اضافه کار",
+            "English": "Overtime permit"
+        },
+        {
+            "Persian": "کد مرخصی استعلاجی",
+            "English": "Sick leave code"
+        },
+        {
+            "Persian": "تابستان",
+            "English": "Summer"
+        },
+        {
+            "Persian": "جستجو براساس",
+            "English": "search by"
+        },
+        {
+            "Persian": "ساعت شـروع",
+            "English": "start time"
+        },
+        {
+            "Persian": "استراحت اضافه کار",
+            "English": "overtime break"
+        },
+        {
+            "Persian": "تنظیمات قانون حضور",
+            "English": "Presence rule settings"
+        },
+        {
+            "Persian": "تعجیل مجاز از کارکرد کسر شود",
+            "English": "Haste is allowed to be deducted from the performance"
+        },
+        {
+            "Persian": "حضور و غیاب",
+            "English": "presence and absence"
+        },
+        {
+            "Persian": "حذف مرخصی و ماموریت",
+            "English": "Remove leave and mission"
+        },
+        {
+            "Persian": "پرسنلی یافت نشد",
+            "English": "No personnel found"
+        },
+        {
+            "Persian": "ذخیره به صورت کلی",
+            "English": "Save as general"
+        },
+        {
+            "Persian": "ثبت تردد انبوه بر اساس شیفت",
+            "English": "Registration of mass traffic based on shift"
+        },
+        {
+            "Persian": "فایل اکسل بارگذاری شد",
+            "English": "The Excel file has been loaded"
+        },
+        {
+            "Persian": "بارگذاری مجدد",
+            "English": "reload"
+        },
+        {
+            "Persian": "کد پرسنل",
+            "English": "Personnel code"
+        },
+        {
+            "Persian": "کد دستگاه",
+            "English": "Device code"
+        },
+        {
+            "Persian": "های",
+            "English": "Hi"
+        },
+        {
+            "Persian": "نـام سازمان",
+            "English": "Name of the organization"
+        },
+        {
+            "Persian": "حداقل مدت مرخصی",
+            "English": "Minimum leave period"
+        },
+        {
+            "Persian": "تعطیلات قراردادی تقویم اعمال شود",
+            "English": "Contractual calendar holidays apply"
+        },
+        {
+            "Persian": "لطفا صبر کنید",
+            "English": "please wait"
+        },
+        {
+            "Persian": "شماره کارت مراجعه کننده",
+            "English": "Client card number"
+        },
+        {
+            "Persian": "ساعت اضافه کار",
+            "English": "overtime hours"
+        },
+        {
+            "Persian": "نی",
+            "English": "straw"
+        },
+        {
+            "Persian": "از تـاریخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "تردد ها",
+            "English": "traffic"
+        },
+        {
+            "Persian": "کسورات",
+            "English": "Deductions"
+        },
+        {
+            "Persian": "ساعت تغییرات",
+            "English": "Hour changes"
+        },
+        {
+            "Persian": "کد مرخصی حادثه",
+            "English": "accident leave code"
+        },
+        {
+            "Persian": "نحوه تغییر",
+            "English": "How to change"
+        },
+        {
+            "Persian": "ورود و خروج",
+            "English": "Arrivals and Departures"
+        },
+        {
+            "Persian": "تنظیمات قانون حضور در ماه رمضان",
+            "English": "Settings of the law of attendance in the month of Ramadan"
+        },
+        {
+            "Persian": "ضریب کسرکار",
+            "English": "Unemployment rate"
+        },
+        {
+            "Persian": "روز استثنا",
+            "English": "exception day"
+        },
+        {
+            "Persian": "نـام دوبین",
+            "English": "Dubin's name"
+        },
+        {
+            "Persian": "شهریور",
+            "English": "Shahrivar"
+        },
+        {
+            "Persian": "کد مرخصی بدون حقوق",
+            "English": "Leave code without pay"
+        },
+        {
+            "Persian": "کد گروه کاری",
+            "English": "Workgroup code"
+        },
+        {
+            "Persian": "نام شرکت",
+            "English": "Company Name"
+        },
+        {
+            "Persian": "استراحت عادی از کارکرد کسر شود",
+            "English": "Deduct normal rest from work"
+        },
+        {
+            "Persian": "اعمال بر روی",
+            "English": "Apply on"
+        },
+        {
+            "Persian": "روزهای تقــویم",
+            "English": "Calendar days"
+        },
+        {
+            "Persian": "مرخصی مدیریتی به پرسنل واحد",
+            "English": "Administrative leave to unit personnel"
+        },
+        {
+            "Persian": "نـام گروه کاری",
+            "English": "The name of the working group"
+        },
+        {
+            "Persian": "استراحت عادی",
+            "English": "normal rest"
+        },
+        {
+            "Persian": "یکشنبه",
+            "English": "Sunday"
+        },
+        {
+            "Persian": "تاخیر مجاز ورود",
+            "English": "Allowed entry delay"
+        },
+        {
+            "Persian": "جهت نمایش اطلاعات سازمان و واحد و سال و ماه مورد نظر را مشخص کنید",
+            "English": "To display information about the organization and unit, specify the desired year and month"
+        },
+        {
+            "Persian": "لیست تردد های ثبت نشده",
+            "English": "List of unregistered traffic"
+        },
+        {
+            "Persian": "مسیر ارتباط با بانک اطلاعاتی",
+            "English": "The connection path with the database"
+        },
+        {
+            "Persian": "فایل",
+            "English": "file"
+        },
+        {
+            "Persian": "تعطیل قراردادی",
+            "English": "contractual holiday"
+        },
+        {
+            "Persian": "بان",
+            "English": "Ban"
+        },
+        {
+            "Persian": "زمستان",
+            "English": "winter"
+        },
+        {
+            "Persian": "حداقل اضافه کار بعد وقت",
+            "English": "Minimum overtime after hours"
+        },
+        {
+            "Persian": "مرخصی بدون حقوق از کارکرد کسر شود",
+            "English": "Deduct unpaid leave from work"
+        },
+        {
+            "Persian": "سه شنبه",
+            "English": "Tuesday"
+        },
+        {
+            "Persian": "تــاریـخ",
+            "English": "History"
+        },
+        {
+            "Persian": "ثبت تردد انبوه دستی",
+            "English": "Manual mass traffic registration"
+        },
+        {
+            "Persian": "شماره دستگاه",
+            "English": "Device number"
+        },
+        {
+            "Persian": "مبلغ ساعت اضافه کار",
+            "English": "The amount of overtime hours"
+        },
+        {
+            "Persian": "اضـافه کــار",
+            "English": "Extra work"
+        },
+        {
+            "Persian": "نوع ثبت تاریخ",
+            "English": "Date record type"
+        },
+        {
+            "Persian": "مبلغ اضافه کار",
+            "English": "Overtime amount"
+        },
+        {
+            "Persian": "ارباب رجوع",
+            "English": "customer"
+        },
+        {
+            "Persian": "ثبت تردد جدید",
+            "English": "Register new traffic"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "گزارش کاردکس مرخصی",
+            "English": "Cardex leave report"
+        },
+        {
+            "Persian": "اضافه کار محسوب شود",
+            "English": "considered overtime"
+        },
+        {
+            "Persian": "غیرفعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "موظفـی",
+            "English": "Obligatory"
+        },
+        {
+            "Persian": "تابع غیبت مجاز",
+            "English": "Allowed absence function"
+        },
+        {
+            "Persian": "ثبت انبوه ترددهای پرسنل",
+            "English": "Mass registration of personnel traffic"
+        },
+        {
+            "Persian": "دوره کارکرد",
+            "English": "period of operation"
+        },
+        {
+            "Persian": "تابع مرخصی سازمانی",
+            "English": "Corporate leave function"
+        },
+        {
+            "Persian": "اضافه کردن کارمند به گروه",
+            "English": "Add employee to group"
+        },
+        {
+            "Persian": "ماموريت روزانه",
+            "English": "Daily mission"
+        },
+        {
+            "Persian": "مدت استراحت کار عادی",
+            "English": "Normal work break period"
+        },
+        {
+            "Persian": "نمایش",
+            "English": "the show"
+        },
+        {
+            "Persian": "حداکثر اضافه کار بعد وقت",
+            "English": "Maximum overtime after time"
+        },
+        {
+            "Persian": "نحوه اتصال به دستگاه",
+            "English": "How to connect to the device"
+        },
+        {
+            "Persian": "ضریب تعجیل",
+            "English": "Acceleration factor"
+        },
+        {
+            "Persian": "تقویم",
+            "English": "Calendar"
+        },
+        {
+            "Persian": "کـد دستگاه",
+            "English": "Device code"
+        },
+        {
+            "Persian": "مرخصی",
+            "English": "Leave"
+        },
+        {
+            "Persian": "حداکثر جبران تاخیر اول وقت از اضافه کار و مرخصی استحقاقی",
+            "English": "Maximum compensation for the first time delay from overtime and paid leave"
+        },
+        {
+            "Persian": "از طریق فایل",
+            "English": "through the file"
+        },
+        {
+            "Persian": "مرخصی به یک پرسنل",
+            "English": "Leave to a staff member"
+        },
+        {
+            "Persian": "مشخصات",
+            "English": "Specifications"
+        },
+        {
+            "Persian": "ترتیبی",
+            "English": "in order"
+        },
+        {
+            "Persian": "تنظیمات شیفت",
+            "English": "Shift settings"
+        },
+        {
+            "Persian": "وضعیت دستگاه ها",
+            "English": "Device status"
+        },
+        {
+            "Persian": "بهمن",
+            "English": "Avalanche"
+        },
+        {
+            "Persian": "تا ساعت حضور",
+            "English": "Until the time of attendance"
+        },
+        {
+            "Persian": "بهار",
+            "English": "Spring"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "استحقاقی روزانه",
+            "English": "Daily allowance"
+        },
+        {
+            "Persian": "مدت زمان استراحت در روز تعطیل کسر شود",
+            "English": "Deduct the rest period on the day off"
+        },
+        {
+            "Persian": "ترددی",
+            "English": "traffic"
+        },
+        {
+            "Persian": "ماموریت",
+            "English": "Mission"
+        },
+        {
+            "Persian": "گرید روزهای کاری قانون حضور",
+            "English": "Grade of working days of attendance law"
+        },
+        {
+            "Persian": "پرسنل انتخابی",
+            "English": "Selected personnel"
+        },
+        {
+            "Persian": "پورت",
+            "English": "port"
+        },
+        {
+            "Persian": "شماره کارت",
+            "English": "card number"
+        },
+        {
+            "Persian": "خواندن اطلاعات از دستگاه های دیگر",
+            "English": "Read information from other devices"
+        },
+        {
+            "Persian": "مرخصی استحقاقی روزانه",
+            "English": "Paid daily leave"
+        },
+        {
+            "Persian": "ثبت کلی",
+            "English": "General registration"
+        },
+        {
+            "Persian": "ثبت",
+            "English": "Record"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "تاریخ پایان",
+            "English": "end date"
+        },
+        {
+            "Persian": "نـام گروه",
+            "English": "The name of the group"
+        },
+        {
+            "Persian": "تا تاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "تنظیمات  حضور و تقویم",
+            "English": "Attendance and calendar settings"
+        },
+        {
+            "Persian": "نام و نام خانوادگی پرسنل",
+            "English": "Names and surnames of personnel"
+        },
+        {
+            "Persian": "شرکت",
+            "English": "Company"
+        },
+        {
+            "Persian": "اضافه کار قبل وقت نیاز به مجوز دارد",
+            "English": "Overtime requires permission in advance"
+        },
+        {
+            "Persian": "ماه",
+            "English": "Month"
+        },
+        {
+            "Persian": "مانده ماه قبل برای ماه قبل",
+            "English": "Balance of the previous month for the previous month"
+        },
+        {
+            "Persian": "نوع استخدام",
+            "English": "type of employment"
+        },
+        {
+            "Persian": "نـام دستگاه",
+            "English": "Device name"
+        },
+        {
+            "Persian": "استراحت اضافه کار از کارکرد کسر شود",
+            "English": "Overtime rest should be deducted from work"
+        },
+        {
+            "Persian": "جستجو در قانون حضور",
+            "English": "Search in the law of presence"
+        },
+        {
+            "Persian": "تردد",
+            "English": "traffic"
+        },
+        {
+            "Persian": "دریافت کد",
+            "English": "Get the code"
+        },
+        {
+            "Persian": "یک شنبه",
+            "English": "a saturday"
+        },
+        {
+            "Persian": "مدیریت زمان های غیرفعال بودن دستگاه",
+            "English": "Manage device downtime"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "شناسه داده ارسالی",
+            "English": "ID of the data sent"
+        },
+        {
+            "Persian": "تاریخ از",
+            "English": "Date of"
+        },
+        {
+            "Persian": "طول دوره چرخش",
+            "English": "The length of the rotation period"
+        },
+        {
+            "Persian": "استراحت سه",
+            "English": "Rest three"
+        },
+        {
+            "Persian": "غیبت مجاز از کارکرد کسر شود",
+            "English": "Allowed absence to be deducted from work"
+        },
+        {
+            "Persian": "چک کردن وضعیت فعال سازی",
+            "English": "Check activation status"
+        },
+        {
+            "Persian": "روزانـه",
+            "English": "daily"
+        },
+        {
+            "Persian": "ایاب و ذهاب تعلق گیرد",
+            "English": "To be paid back and forth"
+        },
+        {
+            "Persian": "تنظیمات قانون حضور ترددی",
+            "English": "Traffic presence law settings"
+        },
+        {
+            "Persian": "مرخصی روزانه بر اساس",
+            "English": "Daily leave based on"
+        },
+        {
+            "Persian": "انتخاب کنید",
+            "English": "Select"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "درس",
+            "English": "Lesson"
+        },
+        {
+            "Persian": "شماره سریال",
+            "English": "Serial number"
+        },
+        {
+            "Persian": "تعریف گروه کاری",
+            "English": "Definition of working group"
+        },
+        {
+            "Persian": "جستجو و انتخاب پرسنل",
+            "English": "Search and selection of personnel"
+        },
+        {
+            "Persian": "انتقال مانده",
+            "English": "balance transfer"
+        },
+        {
+            "Persian": "گروه",
+            "English": "group"
+        },
+        {
+            "Persian": "هر دو",
+            "English": "both"
+        },
+        {
+            "Persian": "کـد گروه",
+            "English": "Group code"
+        },
+        {
+            "Persian": "تابع مرخصی استعلاجی",
+            "English": "Sick leave function"
+        },
+        {
+            "Persian": "تعریف شیفت",
+            "English": "Definition of shift"
+        },
+        {
+            "Persian": "دوره ای",
+            "English": "periodic"
+        },
+        {
+            "Persian": "دوربین",
+            "English": "Camera"
+        },
+        {
+            "Persian": "مهر",
+            "English": "stamp"
+        },
+        {
+            "Persian": "نوع اتصال",
+            "English": "Connection type"
+        },
+        {
+            "Persian": "میزان",
+            "English": "Level"
+        },
+        {
+            "Persian": "کارکرد ماهانه",
+            "English": "Monthly performance"
+        },
+        {
+            "Persian": "انتقال مانده اضافه کار اختصاص یافته به ماه بعد",
+            "English": "Transferring the assigned overtime balance to the next month"
+        },
+        {
+            "Persian": "خارج سازمان",
+            "English": "Outside the organization"
+        },
+        {
+            "Persian": "ساعت خروج",
+            "English": "leaving hour"
+        },
+        {
+            "Persian": "شروع مودال لیست تردد های ثبت نشده",
+            "English": "The beginning of the modal list of unregistered traffic"
+        },
+        {
+            "Persian": "گروه کاری مبدا",
+            "English": "Origin working group"
+        },
+        {
+            "Persian": "فعال سازی دستگاه",
+            "English": "Device activation"
+        },
+        {
+            "Persian": "تعداد روزی که قصد دارید تردد ثبت شود",
+            "English": "The number of days you intend to register the traffic"
+        },
+        {
+            "Persian": "زمان ثابت",
+            "English": "fixed time"
+        },
+        {
+            "Persian": "نمایش ترددهای بیشتر",
+            "English": "Show more traffic"
+        },
+        {
+            "Persian": "نام چاپگر",
+            "English": "Printer name"
+        },
+        {
+            "Persian": "محدوده زمانی درست وارد نشده است",
+            "English": "The time range is not entered correctly"
+        },
+        {
+            "Persian": "مرخصی استعلاجی از کارکرد کسر شود",
+            "English": "Sick leave should be deducted from work"
+        },
+        {
+            "Persian": "لیست مرخصی های افزایشی و کاهشی",
+            "English": "List of increasing and decreasing holidays"
+        },
+        {
+            "Persian": "تا تـاریخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "شیفت اجباری",
+            "English": "Mandatory shift"
+        },
+        {
+            "Persian": "بروزرسانی لیست قانون حضور",
+            "English": "Updating the list of attendance rules"
+        },
+        {
+            "Persian": "ثبت مجوز اضافه کار",
+            "English": "Registration of overtime permit"
+        },
+        {
+            "Persian": "کد ماموریت بدون حقوق",
+            "English": "Free mission code"
+        },
+        {
+            "Persian": "شروع",
+            "English": "Beginning"
+        },
+        {
+            "Persian": "مرداد",
+            "English": "Mordad"
+        },
+        {
+            "Persian": "نام و نام خانوادگی",
+            "English": "first name and last name"
+        },
+        {
+            "Persian": "شیفت قبلی",
+            "English": "Previous shift"
+        },
+        {
+            "Persian": "تخصیص شیفت به گروه",
+            "English": "Shift assignment to group"
+        },
+        {
+            "Persian": "پست سازمانی",
+            "English": "Organizational position"
+        },
+        {
+            "Persian": "اردیبهشت",
+            "English": "Ordibehesht"
+        },
+        {
+            "Persian": "ساعت پایان",
+            "English": "end time"
+        },
+        {
+            "Persian": "مقـدار حق شیفت",
+            "English": "Amount of shift fee"
+        },
+        {
+            "Persian": "ماموریت با حقوق روزانه",
+            "English": "Mission with daily salary"
+        },
+        {
+            "Persian": "ثبت کننده سند",
+            "English": "Document registrar"
+        },
+        {
+            "Persian": "تـا پرسنل",
+            "English": "to personnel"
+        },
+        {
+            "Persian": "نام قانون حضور",
+            "English": "The name of the attendance rule"
+        },
+        {
+            "Persian": "حذف تردد",
+            "English": "Remove traffic"
+        },
+        {
+            "Persian": "جمعه",
+            "English": "Friday"
+        },
+        {
+            "Persian": "نمایش تاریخچه شیفت های گروه",
+            "English": "Display the history of group shifts"
+        },
+        {
+            "Persian": "اضافه",
+            "English": "addition"
+        },
+        {
+            "Persian": "مـدل",
+            "English": "model"
+        },
+        {
+            "Persian": "بازه انقضای کاربران",
+            "English": "Expiration period of users"
+        },
+        {
+            "Persian": "تا ساعت اضافه کار واحد",
+            "English": "up to one overtime hour"
+        },
+        {
+            "Persian": "پنج شنبه",
+            "English": "Thursday"
+        },
+        {
+            "Persian": "انتخابی",
+            "English": "selective"
+        },
+        {
+            "Persian": "به",
+            "English": "To"
+        },
+        {
+            "Persian": "کپی مدیریت گروه کاری",
+            "English": "Workgroup management copy"
+        },
+        {
+            "Persian": "اضافه کار تعطیل مجاز",
+            "English": "Holiday overtime allowed"
+        },
+        {
+            "Persian": "حداکثر مدت مرخصی",
+            "English": "Maximum leave period"
+        },
+        {
+            "Persian": "مدیریت تردد ها",
+            "English": "Traffic management"
+        },
+        {
+            "Persian": "راهنما",
+            "English": "Guide"
+        },
+        {
+            "Persian": "غیر فعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "بروزرسانی قانون حضور",
+            "English": "Update attendance rules"
+        },
+        {
+            "Persian": "فیلتر  نمایش جدول کارکرد",
+            "English": "Function table display filter"
+        },
+        {
+            "Persian": "ضریبت غیبت روزانه",
+            "English": "Daily absence rate"
+        },
+        {
+            "Persian": "از کد",
+            "English": "from the code"
+        },
+        {
+            "Persian": "زمان انتقال",
+            "English": "transfer time"
+        },
+        {
+            "Persian": "ضریب تاخیر",
+            "English": "Delay factor"
+        },
+        {
+            "Persian": "نمایش تاریخچه باز شدن در",
+            "English": "Display the history of opening the door"
+        },
+        {
+            "Persian": "خرداد",
+            "English": "Khordad"
+        },
+        {
+            "Persian": "خواندن اطلاعات",
+            "English": "Read information"
+        },
+        {
+            "Persian": "تعجیل مجاز",
+            "English": "Acceleration allowed"
+        },
+        {
+            "Persian": "نوع",
+            "English": "type"
+        },
+        {
+            "Persian": "پایان",
+            "English": "the end"
+        },
+        {
+            "Persian": "بروزرسانی لیست سازمان",
+            "English": "Organization list update"
+        },
+        {
+            "Persian": "طول قانون حضور",
+            "English": "Length of attendance rule"
+        },
+        {
+            "Persian": "مانده اضافه کار اختصاص یافته منفی اعمال شود",
+            "English": "The negative overtime balance should be applied"
+        },
+        {
+            "Persian": "تاخیر مجاز از کارکرد کسر شود",
+            "English": "Allowable delay will be deducted from the performance"
+        },
+        {
+            "Persian": "نــام پرسنل",
+            "English": "Personnel name"
+        },
+        {
+            "Persian": "افزایش",
+            "English": "Increase"
+        },
+        {
+            "Persian": "پایان  مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "کـد گروه کاری",
+            "English": "Working group code"
+        },
+        {
+            "Persian": "از سال",
+            "English": "of the year"
+        },
+        {
+            "Persian": "جبران موظفی با اضافه کار",
+            "English": "Compensating the obligation with overtime"
+        },
+        {
+            "Persian": "روزهای استثنا",
+            "English": "Exception days"
+        },
+        {
+            "Persian": "عدد یک برای ثبت تردد و عدد صفر برای حذف تردد",
+            "English": "Number one to register traffic and number zero to delete traffic"
+        },
+        {
+            "Persian": "تـاریخ",
+            "English": "the date"
+        },
+        {
+            "Persian": "دقیقه",
+            "English": "minutes"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "تنظیمـات بیشتـر قانون حضور",
+            "English": "More settings of attendance law"
+        },
+        {
+            "Persian": "بازیابی تردد",
+            "English": "traffic recovery"
+        },
+        {
+            "Persian": "لیست کلیه پرسنل",
+            "English": "List of all personnel"
+        },
+        {
+            "Persian": "خطا در بارگذاری فایل اکسل",
+            "English": "Error loading Excel file"
+        },
+        {
+            "Persian": "ورود",
+            "English": "log in"
+        },
+        {
+            "Persian": "پرسنلی",
+            "English": "personnel"
+        },
+        {
+            "Persian": "مانده منفی",
+            "English": "negative balance"
+        },
+        {
+            "Persian": "شنبه",
+            "English": "Saturday"
+        },
+        {
+            "Persian": "بدون حقوق",
+            "English": "without salary"
+        },
+        {
+            "Persian": "استراحت دو",
+            "English": "rest two"
+        },
+        {
+            "Persian": "حالت خواندن",
+            "English": "reading mode"
+        },
+        {
+            "Persian": "کسر کار",
+            "English": "low time work"
+        },
+        {
+            "Persian": "اختصاص دوربین به دستگاه",
+            "English": "Assign the camera to the device"
+        },
+        {
+            "Persian": "طول دوره",
+            "English": "Course length"
+        },
+        {
+            "Persian": "تاریخچه خروج",
+            "English": "Checkout history"
+        },
+        {
+            "Persian": "ثبت مرخصی",
+            "English": "Leave registration"
+        },
+        {
+            "Persian": "کسر کار از اضافه کار مجاز کسر شود",
+            "English": "Deduct the work from the authorized overtime"
+        },
+        {
+            "Persian": "نـام قانون حضور",
+            "English": "The name of the attendance law"
+        },
+        {
+            "Persian": "شرح مرخصی",
+            "English": "Leave description"
+        },
+        {
+            "Persian": "ضریب اضافه کار",
+            "English": "Overtime rate"
+        },
+        {
+            "Persian": "تاریخ اعمال مرخصی",
+            "English": "Date of application of leave"
+        },
+        {
+            "Persian": "حداکثر اضافه كار",
+            "English": "Maximum overtime"
+        },
+        {
+            "Persian": "فعال سازی دستگاه ها",
+            "English": "Activation of devices"
+        },
+        {
+            "Persian": "کنترل دسترسی",
+            "English": "Access control"
+        },
+        {
+            "Persian": "نوع تردد",
+            "English": "Type of traffic"
+        },
+        {
+            "Persian": "زمان استراحت  در ماه رمضان",
+            "English": "Rest time in Ramadan"
+        },
+        {
+            "Persian": "تعطیل رسمی",
+            "English": "Public holiday"
+        },
+        {
+            "Persian": "تا ساعت اضافه کار پرسنل",
+            "English": "up to staff overtime hours"
+        },
+        {
+            "Persian": "ساعت حضـور",
+            "English": "attendance hour"
+        },
+        {
+            "Persian": "تقویم تعطیلات",
+            "English": "Holiday calendar"
+        },
+        {
+            "Persian": "عملیات تردد ساعت",
+            "English": "Hour traffic operation"
+        },
+        {
+            "Persian": "تاخیر مجـاز",
+            "English": "Allowed delay"
+        },
+        {
+            "Persian": "فقط برای ایران خودرو نمایش داده شود",
+            "English": "Shown only for Iran Khodro"
+        },
+        {
+            "Persian": "داخل سازمان",
+            "English": "Inside the organization"
+        },
+        {
+            "Persian": "تابع ماموریت بدون حقوق",
+            "English": "Unpaid mission function"
+        },
+        {
+            "Persian": "مدت",
+            "English": "Period"
+        },
+        {
+            "Persian": "زمان خروج",
+            "English": "departure time"
+        },
+        {
+            "Persian": "ساعت اضافه کار واحد",
+            "English": "Unit overtime hours"
+        },
+        {
+            "Persian": "خروجی",
+            "English": "output"
+        },
+        {
+            "Persian": "در صورت عدم انجام موظفی کسر کار تعلق بگیرد",
+            "English": "In case of non-fulfillment of the obligation, the work deduction will be deducted"
+        },
+        {
+            "Persian": "سریال دستگاه",
+            "English": "Device serial number"
+        },
+        {
+            "Persian": "مدیریت واحد های مجاز دستگاه",
+            "English": "Management of authorized device units"
+        },
+        {
+            "Persian": "هر دو لیست",
+            "English": "Both lists"
+        },
+        {
+            "Persian": "کل اضافه کار مجاز",
+            "English": "Total overtime allowed"
+        },
+        {
+            "Persian": "لیست کارمندان گروه",
+            "English": "List of employees of the group"
+        },
+        {
+            "Persian": "تعریف قانون حضور",
+            "English": "Definition of attendance law"
+        },
+        {
+            "Persian": "نوع ساعت",
+            "English": "Type of watch"
+        },
+        {
+            "Persian": "اضافه کاری",
+            "English": "overtime"
+        },
+        {
+            "Persian": "غیبت غیرمجاز",
+            "English": "Unauthorized absence"
+        },
+        {
+            "Persian": "تا سال",
+            "English": "until the year"
+        },
+        {
+            "Persian": "از ساعت اضافه کار پرسنل",
+            "English": "From overtime hours of personnel"
+        },
+        {
+            "Persian": "مرخصی استحقاقی از کارکرد کسر شود",
+            "English": "Paid leave should be deducted from work"
+        },
+        {
+            "Persian": "جستجو در شیفت نامنظم",
+            "English": "Irregular shift search"
+        },
+        {
+            "Persian": "از ساعت حضور",
+            "English": "From the time of attendance"
+        },
+        {
+            "Persian": "استفاده نشود",
+            "English": "Do not use"
+        },
+        {
+            "Persian": "پارکینگ",
+            "English": "Parking"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "گشت و نگهبانی",
+            "English": "patrol and guard"
+        },
+        {
+            "Persian": "از ساعت اضافه کار واحد",
+            "English": "From the overtime hours of the unit"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "اضافه کار نیاز به مجوز دارد",
+            "English": "Overtime requires a permit"
+        },
+        {
+            "Persian": "تابع مرخصی حادثه",
+            "English": "Accident leave function"
+        },
+        {
+            "Persian": "اختصاص گروه کاری",
+            "English": "Assignment of work group"
+        },
+        {
+            "Persian": "از مانده مرخصی کسر شود",
+            "English": "be deducted from the leave balance"
+        },
+        {
+            "Persian": "ثبت نوع تعطیلی",
+            "English": "Record the type of closure"
+        },
+        {
+            "Persian": "نوع اضافه کار",
+            "English": "Type of overtime"
+        },
+        {
+            "Persian": "تسویه مانده مرخصی",
+            "English": "Settlement of leave balance"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "تاریخچه ورود",
+            "English": "Login history"
+        },
+        {
+            "Persian": "شیفت بعدی",
+            "English": "Next shift"
+        },
+        {
+            "Persian": "تابع ماموریت باحقوق",
+            "English": "Authorized mission function"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "عدم انتقال مانده اضافه کار اختصاص یافته به ماه بعد",
+            "English": "Failure to transfer the balance of overtime assigned to the next month"
+        },
+        {
+            "Persian": "نــام",
+            "English": "the name"
+        },
+        {
+            "Persian": "تقویم اعمال شود",
+            "English": "Apply calendar"
+        },
+        {
+            "Persian": "اعمال",
+            "English": "actions"
+        },
+        {
+            "Persian": "نــام و نــام خانوادگی",
+            "English": "Name and surname"
+        },
+        {
+            "Persian": "کد مرخصی استحقاقی",
+            "English": "Entitled leave code"
+        },
+        {
+            "Persian": "می باشد",
+            "English": "is"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید مرخصی تنظیم شده به کل پرسنل واحد سازمانی  تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the set leave will be granted to all personnel of the organizational unit"
+        },
+        {
+            "Persian": "نوع قانون حضور",
+            "English": "Type of attendance rule"
+        },
+        {
+            "Persian": "پیش نمایش",
+            "English": "Preview"
+        },
+        {
+            "Persian": "واحد",
+            "English": "the unit"
+        },
+        {
+            "Persian": "گزارش مورد نظر هیچ رکوردی ندارد",
+            "English": "The desired report has no records"
+        },
+        {
+            "Persian": "درصد",
+            "English": "Percentage"
+        },
+        {
+            "Persian": "بازه زمانی",
+            "English": "timespan"
+        },
+        {
+            "Persian": "لیست اختصاص های اضافه کار",
+            "English": "List of overtime assignments"
+        },
+        {
+            "Persian": "ریال",
+            "English": "Rials"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "تا تـاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "لیست کارمند های گروه",
+            "English": "List of employees of the group"
+        },
+        {
+            "Persian": "شب کاری",
+            "English": "night work"
+        },
+        {
+            "Persian": "جابه جایی قانون حضور پرسنل",
+            "English": "Transfer of personnel attendance law"
+        },
+        {
+            "Persian": "سیستم نیز به عنوان همان مدل در نظر گرفته می شود",
+            "English": "The system is also considered as the same model"
+        },
+        {
+            "Persian": "روزانه",
+            "English": "Daily"
+        },
+        {
+            "Persian": "کد پرسنلی",
+            "English": "Personnel Code"
+        },
+        {
+            "Persian": "هردو",
+            "English": "both"
+        },
+        {
+            "Persian": "تاریخ شروع",
+            "English": "start date"
+        },
+        {
+            "Persian": "ثبت غیبت مجاز",
+            "English": "Registration of authorized absence"
+        },
+        {
+            "Persian": "تعجیل مجاز خروج",
+            "English": "Allowed acceleration of departure"
+        }
+    ]
+}

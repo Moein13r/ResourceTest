@@ -1,0 +1,524 @@
+{
+    "Words": [
+        {
+            "Persian": "موقعیت",
+            "English": "Location"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "زمان گشت",
+            "English": "It's time"
+        },
+        {
+            "Persian": "وضیعت تاهل",
+            "English": "marital status"
+        },
+        {
+            "Persian": "زمان استراحت",
+            "English": "rest time"
+        },
+        {
+            "Persian": "تعجیل",
+            "English": "rush"
+        },
+        {
+            "Persian": "تنظیمات گزارش",
+            "English": "Report settings"
+        },
+        {
+            "Persian": "تاریخ تولد",
+            "English": "Date of birth"
+        },
+        {
+            "Persian": "ساعت گشت",
+            "English": "It's time"
+        },
+        {
+            "Persian": "ساعت شروع",
+            "English": "start time"
+        },
+        {
+            "Persian": "نام و نام خانوادگی",
+            "English": "first name and last name"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "مسیر",
+            "English": "Direction"
+        },
+        {
+            "Persian": "ثبت اطلاعات جدید",
+            "English": "Register new information"
+        },
+        {
+            "Persian": "گزارشهای موجود",
+            "English": "Available reports"
+        },
+        {
+            "Persian": "نوع گزارش",
+            "English": "Report type"
+        },
+        {
+            "Persian": "توضیحات موقعیت دوره",
+            "English": "Course position description"
+        },
+        {
+            "Persian": "عملکرد",
+            "English": "Function"
+        },
+        {
+            "Persian": "نامشخص و تایید نشده",
+            "English": "Uncertain and unconfirmed"
+        },
+        {
+            "Persian": "ترتیب",
+            "English": "order"
+        },
+        {
+            "Persian": "نقاط فراموش شدده",
+            "English": "Forgotten points"
+        },
+        {
+            "Persian": "شروع",
+            "English": "Beginning"
+        },
+        {
+            "Persian": "واحد سازمانی",
+            "English": "Organizational Unit"
+        },
+        {
+            "Persian": "از تاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "نامشخص و تایید شده",
+            "English": "Uncertain and confirmed"
+        },
+        {
+            "Persian": "وضعیت نظام وظیفه",
+            "English": "military service status"
+        },
+        {
+            "Persian": "تغییر عنوان و ترتیب",
+            "English": "Change title and order"
+        },
+        {
+            "Persian": "ساعت موظفی",
+            "English": "duty hours"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "تاریخچه نگهبانی",
+            "English": "History of guarding"
+        },
+        {
+            "Persian": "تایید شده و تایید نشده",
+            "English": "Confirmed and unconfirmed"
+        },
+        {
+            "Persian": "نام دوره",
+            "English": "Course name"
+        },
+        {
+            "Persian": "نامشخص",
+            "English": "Unknown"
+        },
+        {
+            "Persian": "گشت های ناقص",
+            "English": "Incomplete patrols"
+        },
+        {
+            "Persian": "فایل تکست",
+            "English": "Text file"
+        },
+        {
+            "Persian": "تایید نشده",
+            "English": "not confirmed"
+        },
+        {
+            "Persian": "مسیر های نگهبانی",
+            "English": "Guard tracks"
+        },
+        {
+            "Persian": "جدول جابجایی پرسنل",
+            "English": "Personnel transfer table"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "شماره پرسنل",
+            "English": "Personnel number"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "نگهبانان",
+            "English": "Guards"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "مغایرت با برنامه گشت زنی",
+            "English": "Violation of the patrol schedule"
+        },
+        {
+            "Persian": "تایید شده",
+            "English": "confirmed"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "مدیریت موقعیت های مسیر",
+            "English": "Manage route positions"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "اندازه فونت",
+            "English": "Font size"
+        },
+        {
+            "Persian": "حذف دوره",
+            "English": "Remove the course"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "اعمال",
+            "English": "actions"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "تاریخ ثبت",
+            "English": "Date of Registration"
+        },
+        {
+            "Persian": "فونت",
+            "English": "Font"
+        },
+        {
+            "Persian": "مدرک تحصیلی",
+            "English": "degree of education"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "کاربر",
+            "English": "user"
+        },
+        {
+            "Persian": "دقیقه",
+            "English": "minutes"
+        },
+        {
+            "Persian": "نام موقعیت",
+            "English": "Position name"
+        },
+        {
+            "Persian": "نام مسیر",
+            "English": "path name"
+        },
+        {
+            "Persian": "مدیریت جزیی مسیرها و موقعیت ها",
+            "English": "Detailed management of routes and positions"
+        },
+        {
+            "Persian": "دریافت تصویر",
+            "English": "Get the image"
+        },
+        {
+            "Persian": "اختصاص پرسنل به گروه گشت و نگهبانی",
+            "English": "Assigning personnel to the patrol and guard group"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "مدیریت موقعیت های دوره",
+            "English": "Management of course positions"
+        },
+        {
+            "Persian": "تعداد موقعیت",
+            "English": "Number of positions"
+        },
+        {
+            "Persian": "دوره",
+            "English": "the period"
+        },
+        {
+            "Persian": "تاریخ استخدام",
+            "English": "date of employeement"
+        },
+        {
+            "Persian": "فیلتر گزارش",
+            "English": "Report filter"
+        },
+        {
+            "Persian": "گشت زنی",
+            "English": "patrolling"
+        },
+        {
+            "Persian": "نام پدر",
+            "English": "father's name"
+        },
+        {
+            "Persian": "شماره شناسنامه",
+            "English": "Id"
+        },
+        {
+            "Persian": "گروه",
+            "English": "group"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "تثبیت کننده",
+            "English": "Stabilizer"
+        },
+        {
+            "Persian": "کد گروه",
+            "English": "Group code"
+        },
+        {
+            "Persian": "روزهای هفته",
+            "English": "Days of the Week"
+        },
+        {
+            "Persian": "نمایش",
+            "English": "the show"
+        },
+        {
+            "Persian": "پرسنل جایگزین",
+            "English": "Substitute personnel"
+        },
+        {
+            "Persian": "فاصله شروع موقعیت بعدی",
+            "English": "Start distance of the next position"
+        },
+        {
+            "Persian": "تاریخچه",
+            "English": "History"
+        },
+        {
+            "Persian": "عنوان موقعیت دوره",
+            "English": "Course position title"
+        },
+        {
+            "Persian": "شروع مودال موقعیت ها",
+            "English": "Modal start positions"
+        },
+        {
+            "Persian": "تنظیمات نمایش",
+            "English": "Display settings"
+        },
+        {
+            "Persian": "مسیر ها",
+            "English": "routes"
+        },
+        {
+            "Persian": "تا تاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "فایل اکسل",
+            "English": "Excel file"
+        },
+        {
+            "Persian": "تاخیر و تعجیل",
+            "English": "delay and haste"
+        },
+        {
+            "Persian": "نام گزارش",
+            "English": "The name of the report"
+        },
+        {
+            "Persian": "وضیعت",
+            "English": "the situation"
+        },
+        {
+            "Persian": "پایان مودال  موقعیت ها",
+            "English": "Modal endings of positions"
+        },
+        {
+            "Persian": "خروجی فایل",
+            "English": "File output"
+        },
+        {
+            "Persian": "تا پرسنل",
+            "English": "up to personnel"
+        },
+        {
+            "Persian": "روز هفته",
+            "English": "week day"
+        },
+        {
+            "Persian": "پرسنل اصلی",
+            "English": "Main personnel"
+        },
+        {
+            "Persian": "تاریخ گشت",
+            "English": "It became history"
+        },
+        {
+            "Persian": "توضیح تثبیت",
+            "English": "Explanation of stabilization"
+        },
+        {
+            "Persian": "موقعیت ها",
+            "English": "situations"
+        },
+        {
+            "Persian": "تاخیر",
+            "English": "Delay"
+        },
+        {
+            "Persian": "اختصاص پرسنل به مسیر",
+            "English": "Assign personnel to the route"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "جنسیت",
+            "English": "gender"
+        },
+        {
+            "Persian": "نوع استخدام",
+            "English": "type of employment"
+        },
+        {
+            "Persian": "تاریخ شروع دوره",
+            "English": "Course start date"
+        },
+        {
+            "Persian": "توضیحات دوره",
+            "English": "Course description"
+        },
+        {
+            "Persian": "توضیحات مسیر",
+            "English": "Description of the route"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "ساعت",
+            "English": "the watch"
+        },
+        {
+            "Persian": "مرتب سازی",
+            "English": "Ordering"
+        },
+        {
+            "Persian": "ویرایش دوره",
+            "English": "Course editing"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "رویداد",
+            "English": "Event"
+        },
+        {
+            "Persian": "تغییر عنوان و ترتیب گزینه ها در گزارش",
+            "English": "Changing the title and order of options in the report"
+        },
+        {
+            "Persian": "نوع تثبیت",
+            "English": "Type of fixation"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "ساعت ثبت",
+            "English": "Registration time"
+        },
+        {
+            "Persian": "چاپ",
+            "English": "print"
+        },
+        {
+            "Persian": "نامشخص و تایید شده و تایید نشده",
+            "English": "Uncertain, confirmed and unconfirmed"
+        },
+        {
+            "Persian": "نام گروه",
+            "English": "the name of the group"
+        },
+        {
+            "Persian": "از پرسنل",
+            "English": "From personnel"
+        },
+        {
+            "Persian": "تعداد چرخش",
+            "English": "Number of turns"
+        }
+    ]
+}

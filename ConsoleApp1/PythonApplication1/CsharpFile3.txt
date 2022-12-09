@@ -1,0 +1,272 @@
+/// <summary>
+                ///   Looks up a localized string similar to کد گروه.
+                /// </summary>
+                internal static string Group_code {
+                    get {
+                        return ResourceManager.GetString("Group code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to وضعیت.
+                /// </summary>
+                internal static string Condition {
+                    get {
+                        return ResourceManager.GetString("Condition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کاربر مدیر.
+                /// </summary>
+                internal static string Admin_user {
+                    get {
+                        return ResourceManager.GetString("Admin user", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام گروه.
+                /// </summary>
+                internal static string The_name_of_the_group {
+                    get {
+                        return ResourceManager.GetString("The name of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دستگاه.
+                /// </summary>
+                internal static string device {
+                    get {
+                        return ResourceManager.GetString("device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کلمه عبور.
+                /// </summary>
+                internal static string Password {
+                    get {
+                        return ResourceManager.GetString("Password", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ارسال کاربران.
+                /// </summary>
+                internal static string Send_users {
+                    get {
+                        return ResourceManager.GetString("Send users", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گروه.
+                /// </summary>
+                internal static string group {
+                    get {
+                        return ResourceManager.GetString("group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد شناسایی.
+                /// </summary>
+                internal static string Identification_code {
+                    get {
+                        return ResourceManager.GetString("Identification code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کارت.
+                /// </summary>
+                internal static string Card {
+                    get {
+                        return ResourceManager.GetString("Card", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کاربر عادی.
+                /// </summary>
+                internal static string Normal_user {
+                    get {
+                        return ResourceManager.GetString("Normal user", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پرسنلی.
+                /// </summary>
+                internal static string User_ID,_Personnel_ID {
+                    get {
+                        return ResourceManager.GetString("User ID, Personnel ID", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام گروه.
+                /// </summary>
+                internal static string the_name_of_the_group {
+                    get {
+                        return ResourceManager.GetString("the name of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ردیف.
+                /// </summary>
+                internal static string Row {
+                    get {
+                        return ResourceManager.GetString("Row", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کاربر مدیر ارشد.
+                /// </summary>
+                internal static string Senior_admin_user {
+                    get {
+                        return ResourceManager.GetString("Senior admin user", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام.
+                /// </summary>
+                internal static string name {
+                    get {
+                        return ResourceManager.GetString("name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب دستگاه.
+                /// </summary>
+                internal static string Select_device {
+                    get {
+                        return ResourceManager.GetString("Select device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دریافت کاربران.
+                /// </summary>
+                internal static string Get_users {
+                    get {
+                        return ResourceManager.GetString("Get users", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جدید.
+                /// </summary>
+                internal static string New {
+                    get {
+                        return ResourceManager.GetString("New", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب گروه.
+                /// </summary>
+                internal static string Select_group {
+                    get {
+                        return ResourceManager.GetString("Select group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سازمان.
+                /// </summary>
+                internal static string Organization {
+                    get {
+                        return ResourceManager.GetString("Organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام.
+                /// </summary>
+                internal static string the_name {
+                    get {
+                        return ResourceManager.GetString("the name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد پرسنلی.
+                /// </summary>
+                internal static string Personnel_Code {
+                    get {
+                        return ResourceManager.GetString("Personnel Code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عملیات.
+                /// </summary>
+                internal static string the_operation {
+                    get {
+                        return ResourceManager.GetString("the operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره کارت.
+                /// </summary>
+                internal static string card_number {
+                    get {
+                        return ResourceManager.GetString("card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ذخیره.
+                /// </summary>
+                internal static string Store {
+                    get {
+                        return ResourceManager.GetString("Store", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دریافت کاربران از دستگاه.
+                /// </summary>
+                internal static string Get_users_from_the_device {
+                    get {
+                        return ResourceManager.GetString("Get users from the device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت دستگاه.
+                /// </summary>
+                internal static string Device_management {
+                    get {
+                        return ResourceManager.GetString("Device management", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام خانوادگی.
+                /// </summary>
+                internal static string last_name {
+                    get {
+                        return ResourceManager.GetString("last name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت گروه ها.
+                /// </summary>
+                internal static string Manage_groups {
+                    get {
+                        return ResourceManager.GetString("Manage groups", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سطح دسترسی.
+                /// </summary>
+                internal static string Access_level {
+                    get {
+                        return ResourceManager.GetString("Access level", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to واحد.
+                /// </summary>
+                internal static string the_unit {
+                    get {
+                        return ResourceManager.GetString("the unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ارسال کاربران به دستگاه.
+                /// </summary>
+                internal static string Send_users_to_the_device {
+                    get {
+                        return ResourceManager.GetString("Send users to the device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کاربر ثبات اثرانگشت.
+                /// </summary>
+                internal static string Fingerprint_user {
+                    get {
+                        return ResourceManager.GetString("Fingerprint user", resourceCulture);
+                    }
+        }

@@ -1,0 +1,4384 @@
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات نوبت کاری.
+                /// </summary>
+                internal static string Shift_settings {
+                    get {
+                        return ResourceManager.GetString("Shift settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to قانون حضور شب.
+                /// </summary>
+                internal static string The_night_attendance_rule {
+                    get {
+                        return ResourceManager.GetString("The night attendance rule", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع مرخصی استحقاقی.
+                /// </summary>
+                internal static string Paid_leave_function {
+                    get {
+                        return ResourceManager.GetString("Paid leave function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شیفت.
+                /// </summary>
+                internal static string shift {
+                    get {
+                        return ResourceManager.GetString("shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مثال.
+                /// </summary>
+                internal static string Example {
+                    get {
+                        return ResourceManager.GetString("Example", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to باحقوق.
+                /// </summary>
+                internal static string with_rights {
+                    get {
+                        return ResourceManager.GetString("with rights", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ذر.
+                /// </summary>
+                internal static string Zar {
+                    get {
+                        return ResourceManager.GetString("Zar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب تاریخ.
+                /// </summary>
+                internal static string Select_date {
+                    get {
+                        return ResourceManager.GetString("Select date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گروه کاری.
+                /// </summary>
+                internal static string workgroup {
+                    get {
+                        return ResourceManager.GetString("workgroup", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص شیفت.
+                /// </summary>
+                internal static string shift_assignment {
+                    get {
+                        return ResourceManager.GetString("shift assignment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شیفت نامنظم به صورت کلی.
+                /// </summary>
+                internal static string Irregular_shift_in_general {
+                    get {
+                        return ResourceManager.GetString("Irregular shift in general", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پیغام.
+                /// </summary>
+                internal static string message {
+                    get {
+                        return ResourceManager.GetString("message", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شبکه.
+                /// </summary>
+                internal static string Network {
+                    get {
+                        return ResourceManager.GetString("Network", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال جستجو.
+                /// </summary>
+                internal static string Start_the_search_modal {
+                    get {
+                        return ResourceManager.GetString("Start the search modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عنوان دستگاه.
+                /// </summary>
+                internal static string Device_title {
+                    get {
+                        return ResourceManager.GetString("Device title", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عملیات.
+                /// </summary>
+                internal static string the_operation {
+                    get {
+                        return ResourceManager.GetString("the operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تاریخ.
+                /// </summary>
+                internal static string Up_to_date {
+                    get {
+                        return ResourceManager.GetString("Up to date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست شیفت های گروه.
+                /// </summary>
+                internal static string List_of_group_shifts {
+                    get {
+                        return ResourceManager.GetString("List of group shifts", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیبت غیرمجاز روزانه.
+                /// </summary>
+                internal static string Daily_unauthorized_absence {
+                    get {
+                        return ResourceManager.GetString("Daily unauthorized absence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فایل اکسل.
+                /// </summary>
+                internal static string Excel_file {
+                    get {
+                        return ResourceManager.GetString("Excel file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to باشد ظاهر قدیمی.
+                /// </summary>
+                internal static string Let_it_look_old {
+                    get {
+                        return ResourceManager.GetString("Let it look old", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت مسیر ارتباط با بانک اطلاعاتی.
+                /// </summary>
+                internal static string Managing_the_communication_path_with_the_database {
+                    get {
+                        return ResourceManager.GetString("Managing the communication path with the database", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از پرسنل.
+                /// </summary>
+                internal static string From_personnel {
+                    get {
+                        return ResourceManager.GetString("From personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اعمال بازه انقضا.
+                /// </summary>
+                internal static string Apply_the_expiration_date {
+                    get {
+                        return ResourceManager.GetString("Apply the expiration date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تـاریـخ.
+                /// </summary>
+                internal static string from_history {
+                    get {
+                        return ResourceManager.GetString("from history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فیلد از پرسنل را پر کنید.
+                /// </summary>
+                internal static string Fill_in_the_personnel_field {
+                    get {
+                        return ResourceManager.GetString("Fill in the personnel field", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to وضیعت.
+                /// </summary>
+                internal static string the_situation {
+                    get {
+                        return ResourceManager.GetString("the situation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت اضافه کار پرسنل.
+                /// </summary>
+                internal static string Overtime_hours_of_personnel {
+                    get {
+                        return ResourceManager.GetString("Overtime hours of personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جابجای قانون حضور پرسنل.
+                /// </summary>
+                internal static string Changing_the_personnel_attendance_law {
+                    get {
+                        return ResourceManager.GetString("Changing the personnel attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پرسنل.
+                /// </summary>
+                internal static string Personnel_number {
+                    get {
+                        return ResourceManager.GetString("Personnel number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to محل انجام اضافه کار.
+                /// </summary>
+                internal static string Place_of_overtime {
+                    get {
+                        return ResourceManager.GetString("Place of overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع  مودال.
+                /// </summary>
+                internal static string Modal_start {
+                    get {
+                        return ResourceManager.GetString("Modal start", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از متغیر موجود در فایل جی اس باید بخواند.
+                /// </summary>
+                internal static string It_should_be_read_from_the_variable_in_the_JS_file {
+                    get {
+                        return ResourceManager.GetString("It should be read from the variable in the JS file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام دستگاه.
+                /// </summary>
+                internal static string device_name {
+                    get {
+                        return ResourceManager.GetString("device name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت.
+                /// </summary>
+                internal static string the_watch {
+                    get {
+                        return ResourceManager.GetString("the watch", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to محل نصب.
+                /// </summary>
+                internal static string installation_location {
+                    get {
+                        return ResourceManager.GetString("installation location", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حضور در شیفت.
+                /// </summary>
+                internal static string Attending_the_shift {
+                    get {
+                        return ResourceManager.GetString("Attending the shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کـد قانون حضور.
+                /// </summary>
+                internal static string Attendance_code {
+                    get {
+                        return ResourceManager.GetString("Attendance code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تاریخ.
+                /// </summary>
+                internal static string from {
+                    get {
+                        return ResourceManager.GetString("from", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پاییز.
+                /// </summary>
+                internal static string Fall {
+                    get {
+                        return ResourceManager.GetString("Fall", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد ماموریت باحقوق.
+                /// </summary>
+                internal static string Authorized_mission_code {
+                    get {
+                        return ResourceManager.GetString("Authorized mission code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل اضافه كار.
+                /// </summary>
+                internal static string Minimum_overtime {
+                    get {
+                        return ResourceManager.GetString("Minimum overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اسفند.
+                /// </summary>
+                internal static string Esfand {
+                    get {
+                        return ResourceManager.GetString("Esfand", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد قانون حضور.
+                /// </summary>
+                internal static string Attendance_law_code {
+                    get {
+                        return ResourceManager.GetString("Attendance law code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزهای کاری قانون حضور.
+                /// </summary>
+                internal static string Working_days_of_attendance_law {
+                    get {
+                        return ResourceManager.GetString("Working days of attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات کل استراحت ها.
+                /// </summary>
+                internal static string Total_rest_settings {
+                    get {
+                        return ResourceManager.GetString("Total rest settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی استعلاجی روزانه.
+                /// </summary>
+                internal static string Daily_sick_leave {
+                    get {
+                        return ResourceManager.GetString("Daily sick leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دریافت تصویر.
+                /// </summary>
+                internal static string Get_the_image {
+                    get {
+                        return ResourceManager.GetString("Get the image", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعطیلات رسمی تقویم اعمال شود.
+                /// </summary>
+                internal static string Official_calendar_holidays_apply {
+                    get {
+                        return ResourceManager.GetString("Official calendar holidays apply", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماموریت خارج از قانون حضور به عنوان اضافه کار محسوب شود.
+                /// </summary>
+                internal static string The_mission_outside_the_attendance_law_is_considered_as_overtime {
+                    get {
+                        return ResourceManager.GetString("The mission outside the attendance law is considered as overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ایمپورت اضافه کار از فایل اکسل.
+                /// </summary>
+                internal static string Import_overtime_from_Excel_file {
+                    get {
+                        return ResourceManager.GetString("Import overtime from Excel file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مناسبت.
+                /// </summary>
+                internal static string occasion {
+                    get {
+                        return ResourceManager.GetString("occasion", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تیر.
+                /// </summary>
+                internal static string Tir {
+                    get {
+                        return ResourceManager.GetString("Tir", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی استحقاقی ساعتی.
+                /// </summary>
+                internal static string Hourly_paid_leave {
+                    get {
+                        return ResourceManager.GetString("Hourly paid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاخیر مجاز.
+                /// </summary>
+                internal static string Allowed_delay {
+                    get {
+                        return ResourceManager.GetString("Allowed delay", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ترددهای معمولی ثبت شده در.
+                /// </summary>
+                internal static string Normal_traffic_recorded_in {
+                    get {
+                        return ResourceManager.GetString("Normal traffic recorded in", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع افزودن یا کاهش مرخصی.
+                /// </summary>
+                internal static string Type_of_leave_addition_or_reduction {
+                    get {
+                        return ResourceManager.GetString("Type of leave addition or reduction", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حذف مرخصی.
+                /// </summary>
+                internal static string Remove_leave {
+                    get {
+                        return ResourceManager.GetString("Remove leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to برنامه کاری پرسنل.
+                /// </summary>
+                internal static string Personnel_work_schedule {
+                    get {
+                        return ResourceManager.GetString("Personnel work schedule", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نــام خانوادگی.
+                /// </summary>
+                internal static string last_name {
+                    get {
+                        return ResourceManager.GetString("last name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوبت کاری از ساعت.
+                /// </summary>
+                internal static string Work_shifts_from_the_clock {
+                    get {
+                        return ResourceManager.GetString("Work shifts from the clock", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ویرایش تردد جدید.
+                /// </summary>
+                internal static string Edit_new_traffic {
+                    get {
+                        return ResourceManager.GetString("Edit new traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اگر عدد صفر را در هر کدام از گزینه های زیر وارد کنید.
+                /// </summary>
+                internal static string If_you_enter_zero_in_any_of_the_following_options {
+                    get {
+                        return ResourceManager.GetString("If you enter zero in any of the following options", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر کسر کسر کار از اضافه کار و مرخصی استحقاقی.
+                /// </summary>
+                internal static string Maximum_deduction_of_work_deduction_from_overtime_and_paid_leave {
+                    get {
+                        return ResourceManager.GetString("Maximum deduction of work deduction from overtime and paid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی استخقاقی ساعتی.
+                /// </summary>
+                internal static string Hourly_paid_leave {
+                    get {
+                        return ResourceManager.GetString("Hourly paid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ تغییرات.
+                /// </summary>
+                internal static string Date_of_changes {
+                    get {
+                        return ResourceManager.GetString("Date of changes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شناسه تردد ارسالی.
+                /// </summary>
+                internal static string Sent_traffic_ID {
+                    get {
+                        return ResourceManager.GetString("Sent traffic ID", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to محل خدمت.
+                /// </summary>
+                internal static string Service_location {
+                    get {
+                        return ResourceManager.GetString("Service location", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت.
+                /// </summary>
+                internal static string rest {
+                    get {
+                        return ResourceManager.GetString("rest", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف چارت سازمانی.
+                /// </summary>
+                internal static string Definition_of_organizational_chart {
+                    get {
+                        return ResourceManager.GetString("Definition of organizational chart", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار زمان استراحت نیاز به مجوز دارد.
+                /// </summary>
+                internal static string Rest_time_overtime_requires_a_permit {
+                    get {
+                        return ResourceManager.GetString("Rest time overtime requires a permit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی بدون حقوق روزانه.
+                /// </summary>
+                internal static string Daily_unpaid_leave {
+                    get {
+                        return ResourceManager.GetString("Daily unpaid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عنوان.
+                /// </summary>
+                internal static string Title {
+                    get {
+                        return ResourceManager.GetString("Title", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد.
+                /// </summary>
+                internal static string code {
+                    get {
+                        return ResourceManager.GetString("code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ و ساعت جاری ذخیره گردد.
+                /// </summary>
+                internal static string Save_the_current_date_and_time {
+                    get {
+                        return ResourceManager.GetString("Save the current date and time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کارکرد روزانه.
+                /// </summary>
+                internal static string daily_operation {
+                    get {
+                        return ResourceManager.GetString("daily operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع دستگاه.
+                /// </summary>
+                internal static string device_type {
+                    get {
+                        return ResourceManager.GetString("device type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گرید روزهای کاری شیفت ها.
+                /// </summary>
+                internal static string Workday_grid_of_shifts {
+                    get {
+                        return ResourceManager.GetString("Workday grid of shifts", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع تردد شیفت شب.
+                /// </summary>
+                internal static string Start_of_night_shift_traffic {
+                    get {
+                        return ResourceManager.GetString("Start of night shift traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال جستجو.
+                /// </summary>
+                internal static string End_of_search_modal {
+                    get {
+                        return ResourceManager.GetString("End of search modal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فعال.
+                /// </summary>
+                internal static string active {
+                    get {
+                        return ResourceManager.GetString("active", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع مرخصی بدون حقوق.
+                /// </summary>
+                internal static string Subject_to_unpaid_leave {
+                    get {
+                        return ResourceManager.GetString("Subject to unpaid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از ساعت.
+                /// </summary>
+                internal static string from_the_hour {
+                    get {
+                        return ResourceManager.GetString("from the hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا پرسنل.
+                /// </summary>
+                internal static string up_to_personnel {
+                    get {
+                        return ResourceManager.GetString("up to personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام گروه کاری.
+                /// </summary>
+                internal static string Name_of_the_working_group {
+                    get {
+                        return ResourceManager.GetString("Name of the working group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنل واحد سازمانی.
+                /// </summary>
+                internal static string Organizational_unit_personnel {
+                    get {
+                        return ResourceManager.GetString("Organizational unit personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی لیست گروه کاری.
+                /// </summary>
+                internal static string Update_the_working_group_list {
+                    get {
+                        return ResourceManager.GetString("Update the working group list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی سازمانی از کارکرد کسر شود.
+                /// </summary>
+                internal static string Deduct_organizational_leave_from_work {
+                    get {
+                        return ResourceManager.GetString("Deduct organizational leave from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کسر کار به عنوان مرخصی استحقاقی محسوب شود.
+                /// </summary>
+                internal static string Deduction_from_work_should_be_considered_as_paid_leave {
+                    get {
+                        return ResourceManager.GetString("Deduction from work should be considered as paid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to افزایش و کاهش اضافه کار.
+                /// </summary>
+                internal static string Increase_and_decrease_overtime {
+                    get {
+                        return ResourceManager.GetString("Increase and decrease overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to واحد سازمانی.
+                /// </summary>
+                internal static string Organizational_Unit {
+                    get {
+                        return ResourceManager.GetString("Organizational Unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار بعد وقت نیاز به مجوز دارد.
+                /// </summary>
+                internal static string Overtime_after_hours_requires_a_permit {
+                    get {
+                        return ResourceManager.GetString("Overtime after hours requires a permit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ایمپورت ترددها از فایل اکسل.
+                /// </summary>
+                internal static string Import_traffic_from_Excel_file {
+                    get {
+                        return ResourceManager.GetString("Import traffic from Excel file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیبت مجاز.
+                /// </summary>
+                internal static string Authorized_absence {
+                    get {
+                        return ResourceManager.GetString("Authorized absence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روز.
+                /// </summary>
+                internal static string Day {
+                    get {
+                        return ResourceManager.GetString("Day", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت دستی تردد.
+                /// </summary>
+                internal static string Manual_traffic_registration {
+                    get {
+                        return ResourceManager.GetString("Manual traffic registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریب غیبت روزانه.
+                /// </summary>
+                internal static string Daily_absence_rate {
+                    get {
+                        return ResourceManager.GetString("Daily absence rate", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایـان.
+                /// </summary>
+                internal static string the_end {
+                    get {
+                        return ResourceManager.GetString("the end", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دریافت فعال ساز دستگاه ها.
+                /// </summary>
+                internal static string Get_devices_activator {
+                    get {
+                        return ResourceManager.GetString("Get devices activator", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخچه.
+                /// </summary>
+                internal static string History {
+                    get {
+                        return ResourceManager.GetString("History", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعجیل مجـاز.
+                /// </summary>
+                internal static string Haste_is_allowed {
+                    get {
+                        return ResourceManager.GetString("Haste is allowed", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیم قوانین روزهای شیفت.
+                /// </summary>
+                internal static string Set_the_rules_of_shift_days {
+                    get {
+                        return ResourceManager.GetString("Set the rules of shift days", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام.
+                /// </summary>
+                internal static string name {
+                    get {
+                        return ResourceManager.GetString("name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعداد تردد مجاز در روز.
+                /// </summary>
+                internal static string Number_of_traffic_allowed_per_day {
+                    get {
+                        return ResourceManager.GetString("Number of traffic allowed per day", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پورت سریال.
+                /// </summary>
+                internal static string Serial_port {
+                    get {
+                        return ResourceManager.GetString("Serial port", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to قانون حضور استراحت.
+                /// </summary>
+                internal static string Law_of_presence_of_rest {
+                    get {
+                        return ResourceManager.GetString("Law of presence of rest", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شیفت نامنظم به صورت جدولی.
+                /// </summary>
+                internal static string Irregular_shift_in_tabular_form {
+                    get {
+                        return ResourceManager.GetString("Irregular shift in tabular form", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کل حضور مجاز.
+                /// </summary>
+                internal static string Total_authorized_attendance {
+                    get {
+                        return ResourceManager.GetString("Total authorized attendance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اگر این مقدار.
+                /// </summary>
+                internal static string If_this_value {
+                    get {
+                        return ResourceManager.GetString("If this value", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات.
+                /// </summary>
+                internal static string Settings {
+                    get {
+                        return ResourceManager.GetString("Settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خرین دسترسی.
+                /// </summary>
+                internal static string Buy_access {
+                    get {
+                        return ResourceManager.GetString("Buy access", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار.
+                /// </summary>
+                internal static string Overtime {
+                    get {
+                        return ResourceManager.GetString("Overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to وضعیت.
+                /// </summary>
+                internal static string Condition {
+                    get {
+                        return ResourceManager.GetString("Condition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to یک روز کامل کاری.
+                /// </summary>
+                internal static string A_full_working_day {
+                    get {
+                        return ResourceManager.GetString("A full working day", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل اضافه کار قبل وقت.
+                /// </summary>
+                internal static string Minimum_overtime_ahead_of_time {
+                    get {
+                        return ResourceManager.GetString("Minimum overtime ahead of time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to در صورتی که هیچ واحد سازمانی را انتخاب نکنید اضافه کار تنظیم شده به کل پرسنل سازمان  تعلق می گیرد.
+                /// </summary>
+                internal static string If_you_do_not_select_any_organizational_unit,_the_adjusted_overtime_will_be_assigned_to_all_personnel_of_the_organization {
+                    get {
+                        return ResourceManager.GetString("If you do not select any organizational unit, the adjusted overtime will be assigned to all personnel of the organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ شروع چرخش.
+                /// </summary>
+                internal static string Rotation_start_date {
+                    get {
+                        return ResourceManager.GetString("Rotation start date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت ماموریت.
+                /// </summary>
+                internal static string Mission_registration {
+                    get {
+                        return ResourceManager.GetString("Mission registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب مدیریت واحد های مجاز دستگاه.
+                /// </summary>
+                internal static string Select_the_management_of_the_authorized_units_of_the_device {
+                    get {
+                        return ResourceManager.GetString("Select the management of the authorized units of the device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تـا شماره کارت.
+                /// </summary>
+                internal static string to_the_card_number {
+                    get {
+                        return ResourceManager.GetString("to the card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص شیفت به پرسنل.
+                /// </summary>
+                internal static string Assigning_shifts_to_personnel {
+                    get {
+                        return ResourceManager.GetString("Assigning shifts to personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دی.
+                /// </summary>
+                internal static string January {
+                    get {
+                        return ResourceManager.GetString("January", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مورد استفاده.
+                /// </summary>
+                internal static string used {
+                    get {
+                        return ResourceManager.GetString("used", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت شروع.
+                /// </summary>
+                internal static string start_time {
+                    get {
+                        return ResourceManager.GetString("start time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جدید.
+                /// </summary>
+                internal static string New {
+                    get {
+                        return ResourceManager.GetString("New", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to توضیحـات.
+                /// </summary>
+                internal static string Explanations {
+                    get {
+                        return ResourceManager.GetString("Explanations", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال.
+                /// </summary>
+                internal static string Modal_start {
+                    get {
+                        return ResourceManager.GetString("Modal start", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال لیست تردد های ثبت نشده.
+                /// </summary>
+                internal static string End_of_modal_list_of_unregistered_traffic {
+                    get {
+                        return ResourceManager.GetString("End of modal list of unregistered traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تغییر نوع تردد.
+                /// </summary>
+                internal static string Change_the_type_of_traffic {
+                    get {
+                        return ResourceManager.GetString("Change the type of traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت زمان باز بودن در.
+                /// </summary>
+                internal static string Opening_time {
+                    get {
+                        return ResourceManager.GetString("Opening time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روز تعطیل است.
+                /// </summary>
+                internal static string It_is_a_holiday {
+                    get {
+                        return ResourceManager.GetString("It is a holiday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماموریت با حقوق ساعتی.
+                /// </summary>
+                internal static string Mission_with_hourly_pay {
+                    get {
+                        return ResourceManager.GetString("Mission with hourly pay", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کاهش.
+                /// </summary>
+                internal static string Decrease {
+                    get {
+                        return ResourceManager.GetString("Decrease", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دستگاه.
+                /// </summary>
+                internal static string device {
+                    get {
+                        return ResourceManager.GetString("device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دوشنبه.
+                /// </summary>
+                internal static string Monday {
+                    get {
+                        return ResourceManager.GetString("Monday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ تردد.
+                /// </summary>
+                internal static string Date_of_traffic {
+                    get {
+                        return ResourceManager.GetString("Date of traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ایمپورت مرخصی از فایل اکسل.
+                /// </summary>
+                internal static string Import_leave_from_Excel_file {
+                    get {
+                        return ResourceManager.GetString("Import leave from Excel file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هیچ رکوردی موجود نیست.
+                /// </summary>
+                internal static string No_records_available {
+                    get {
+                        return ResourceManager.GetString("No records available", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاخیر غیر مجاز روزانه.
+                /// </summary>
+                internal static string Unauthorized_daily_delay {
+                    get {
+                        return ResourceManager.GetString("Unauthorized daily delay", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ورودی.
+                /// </summary>
+                internal static string Entrance {
+                    get {
+                        return ResourceManager.GetString("Entrance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا.
+                /// </summary>
+                internal static string until_the {
+                    get {
+                        return ResourceManager.GetString("until the", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خطا در فراخوانی اطلاعات تردد.
+                /// </summary>
+                internal static string Error_in_calling_traffic_information {
+                    get {
+                        return ResourceManager.GetString("Error in calling traffic information", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خروج.
+                /// </summary>
+                internal static string Exit {
+                    get {
+                        return ResourceManager.GetString("Exit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعداد روز.
+                /// </summary>
+                internal static string number_of_days {
+                    get {
+                        return ResourceManager.GetString("number of days", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to باشد ظاهر جدید صفحه افزایش و کاهش اضافه کار نمایش داده می شود.
+                /// </summary>
+                internal static string The_new_appearance_of_the_overtime_increment_and_decrement_page_will_be_displayed {
+                    get {
+                        return ResourceManager.GetString("The new appearance of the overtime increment and decrement page will be displayed", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنل واحد.
+                /// </summary>
+                internal static string Unit_personnel {
+                    get {
+                        return ResourceManager.GetString("Unit personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت کارکرد.
+                /// </summary>
+                internal static string Functional_management {
+                    get {
+                        return ResourceManager.GetString("Functional management", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to باز کردن در.
+                /// </summary>
+                internal static string open_the_door {
+                    get {
+                        return ResourceManager.GetString("open the door", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to قانون حضور.
+                /// </summary>
+                internal static string law_of_presence {
+                    get {
+                        return ResourceManager.GetString("law of presence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کپی   کارمندان.
+                /// </summary>
+                internal static string Copy_of_employees {
+                    get {
+                        return ResourceManager.GetString("Copy of employees", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت ورود.
+                /// </summary>
+                internal static string entrance_time {
+                    get {
+                        return ResourceManager.GetString("entrance time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام و نام خانوادگی کاربر.
+                /// </summary>
+                internal static string User_name_and_surname {
+                    get {
+                        return ResourceManager.GetString("User name and surname", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب.
+                /// </summary>
+                internal static string Selection {
+                    get {
+                        return ResourceManager.GetString("Selection", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to رمز.
+                /// </summary>
+                internal static string password {
+                    get {
+                        return ResourceManager.GetString("password", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع ثبت شیفت نامنظم.
+                /// </summary>
+                internal static string Irregular_shift_registration_type {
+                    get {
+                        return ResourceManager.GetString("Irregular shift registration type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا ساعت.
+                /// </summary>
+                internal static string until {
+                    get {
+                        return ResourceManager.GetString("until", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مشخصات کاربر.
+                /// </summary>
+                internal static string User_profile {
+                    get {
+                        return ResourceManager.GetString("User profile", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از شماره کارت.
+                /// </summary>
+                internal static string From_the_card_number {
+                    get {
+                        return ResourceManager.GetString("From the card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـوع تعطیلی.
+                /// </summary>
+                internal static string Kind_of_holiday {
+                    get {
+                        return ResourceManager.GetString("Kind of holiday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فروردین.
+                /// </summary>
+                internal static string farvardin {
+                    get {
+                        return ResourceManager.GetString("farvardin", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب واحد.
+                /// </summary>
+                internal static string Select_unit {
+                    get {
+                        return ResourceManager.GetString("Select unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت اضافه کار اجباری.
+                /// </summary>
+                internal static string Mandatory_overtime {
+                    get {
+                        return ResourceManager.GetString("Mandatory overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انصراف.
+                /// </summary>
+                internal static string opt_out {
+                    get {
+                        return ResourceManager.GetString("opt out", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تاریـخ.
+                /// </summary>
+                internal static string from_history {
+                    get {
+                        return ResourceManager.GetString("from history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عــادی.
+                /// </summary>
+                internal static string normal {
+                    get {
+                        return ResourceManager.GetString("normal", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سلف سرویس.
+                /// </summary>
+                internal static string Self_service {
+                    get {
+                        return ResourceManager.GetString("Self service", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت تردد.
+                /// </summary>
+                internal static string traffic_hours {
+                    get {
+                        return ResourceManager.GetString("traffic hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف دستگاه.
+                /// </summary>
+                internal static string Device_definition {
+                    get {
+                        return ResourceManager.GetString("Device definition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شـروع.
+                /// </summary>
+                internal static string start {
+                    get {
+                        return ResourceManager.GetString("start", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سازمانی.
+                /// </summary>
+                internal static string organizational {
+                    get {
+                        return ResourceManager.GetString("organizational", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماموریت از کارکرد کسر شود.
+                /// </summary>
+                internal static string Deduct_the_mission_from_the_function {
+                    get {
+                        return ResourceManager.GetString("Deduct the mission from the function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سال.
+                /// </summary>
+                internal static string Year {
+                    get {
+                        return ResourceManager.GetString("Year", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات استراحت.
+                /// </summary>
+                internal static string Rest_settings {
+                    get {
+                        return ResourceManager.GetString("Rest settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فیلد تا پرسنل را پر کنید.
+                /// </summary>
+                internal static string Fill_in_the_personnel_field {
+                    get {
+                        return ResourceManager.GetString("Fill in the personnel field", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عملیات تردد روز.
+                /// </summary>
+                internal static string Daily_traffic_operation {
+                    get {
+                        return ResourceManager.GetString("Daily traffic operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پهنای باند.
+                /// </summary>
+                internal static string Bandwidth {
+                    get {
+                        return ResourceManager.GetString("Bandwidth", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فصل.
+                /// </summary>
+                internal static string Season {
+                    get {
+                        return ResourceManager.GetString("Season", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی لیست واحد سازمانی.
+                /// </summary>
+                internal static string Updating_the_list_of_organizational_units {
+                    get {
+                        return ResourceManager.GetString("Updating the list of organizational units", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مرخصی سازمانی.
+                /// </summary>
+                internal static string Organizational_leave_code {
+                    get {
+                        return ResourceManager.GetString("Organizational leave code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی حادثه از کارکرد کسر شود.
+                /// </summary>
+                internal static string Accident_leave_should_be_deducted_from_work {
+                    get {
+                        return ResourceManager.GetString("Accident leave should be deducted from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت یک.
+                /// </summary>
+                internal static string Rest_one {
+                    get {
+                        return ResourceManager.GetString("Rest one", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ویرایش تردد.
+                /// </summary>
+                internal static string Edit_traffic {
+                    get {
+                        return ResourceManager.GetString("Edit traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تک تردد.
+                /// </summary>
+                internal static string single_traffic {
+                    get {
+                        return ResourceManager.GetString("single traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب پرسنل.
+                /// </summary>
+                internal static string Selection_of_personnel {
+                    get {
+                        return ResourceManager.GetString("Selection of personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مانده اضافه کار اختصاص یافته منفی اعمال نشود.
+                /// </summary>
+                internal static string Do_not_apply_negative_overtime_balance {
+                    get {
+                        return ResourceManager.GetString("Do not apply negative overtime balance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع مرخصی.
+                /// </summary>
+                internal static string Type_of_leave {
+                    get {
+                        return ResourceManager.GetString("Type of leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر کسر کسرکار از اضافه کار و مرخصی استحقاقی.
+                /// </summary>
+                internal static string Maximum_deduction_of_overtime_and_paid_leave {
+                    get {
+                        return ResourceManager.GetString("Maximum deduction of overtime and paid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حضور در بازه استراحت.
+                /// </summary>
+                internal static string Attending_the_rest_period {
+                    get {
+                        return ResourceManager.GetString("Attending the rest period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to درس فیزیکی.
+                /// </summary>
+                internal static string Physical_lesson {
+                    get {
+                        return ResourceManager.GetString("Physical lesson", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت جزیی.
+                /// </summary>
+                internal static string Partial_registration {
+                    get {
+                        return ResourceManager.GetString("Partial registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عملکرد.
+                /// </summary>
+                internal static string Function {
+                    get {
+                        return ResourceManager.GetString("Function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فاصله بروزرسانی به دقیقه.
+                /// </summary>
+                internal static string Update_interval_in_minutes {
+                    get {
+                        return ResourceManager.GetString("Update interval in minutes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی  لیست دستگاه.
+                /// </summary>
+                internal static string Update_device_list {
+                    get {
+                        return ResourceManager.GetString("Update device list", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد غیبت مجاز.
+                /// </summary>
+                internal static string Authorized_absence_code {
+                    get {
+                        return ResourceManager.GetString("Authorized absence code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات قانون حضور موظفی.
+                /// </summary>
+                internal static string Mandatory_attendance_law_settings {
+                    get {
+                        return ResourceManager.GetString("Mandatory attendance law settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا کد.
+                /// </summary>
+                internal static string up_to_the_code {
+                    get {
+                        return ResourceManager.GetString("up to the code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مرخصی.
+                /// </summary>
+                internal static string Leave_code {
+                    get {
+                        return ResourceManager.GetString("Leave code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پورت.
+                /// </summary>
+                internal static string Port_number {
+                    get {
+                        return ResourceManager.GetString("Port number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمان ورود.
+                /// </summary>
+                internal static string arrival_time {
+                    get {
+                        return ResourceManager.GetString("arrival time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بارگذاری تردد انبوه از اکسل.
+                /// </summary>
+                internal static string Load_bulk_traffic_from_Excel {
+                    get {
+                        return ResourceManager.GetString("Load bulk traffic from Excel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ش.
+                /// </summary>
+                internal static string Sh {
+                    get {
+                        return ResourceManager.GetString("Sh", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تغییر ترددهای پرسنل.
+                /// </summary>
+                internal static string Change_of_personnel_traffic {
+                    get {
+                        return ResourceManager.GetString("Change of personnel traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو.
+                /// </summary>
+                internal static string Search {
+                    get {
+                        return ResourceManager.GetString("Search", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شناسه  عکس تردد ارسالی.
+                /// </summary>
+                internal static string ID_of_the_submitted_traffic_photo {
+                    get {
+                        return ResourceManager.GetString("ID of the submitted traffic photo", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ.
+                /// </summary>
+                internal static string History {
+                    get {
+                        return ResourceManager.GetString("History", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریب اضافه کار در روز تعطیل.
+                /// </summary>
+                internal static string Overtime_rate_on_holidays {
+                    get {
+                        return ResourceManager.GetString("Overtime rate on holidays", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد ملی.
+                /// </summary>
+                internal static string National_Code {
+                    get {
+                        return ResourceManager.GetString("National Code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تک پرسنل.
+                /// </summary>
+                internal static string single_personnel {
+                    get {
+                        return ResourceManager.GetString("single personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استفاده شود.
+                /// </summary>
+                internal static string to_be_used {
+                    get {
+                        return ResourceManager.GetString("to be used", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تخصیص شیفت.
+                /// </summary>
+                internal static string shift_assignment {
+                    get {
+                        return ResourceManager.GetString("shift assignment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر اضافه کار قبل وقت.
+                /// </summary>
+                internal static string Maximum_overtime_ahead_of_time {
+                    get {
+                        return ResourceManager.GetString("Maximum overtime ahead of time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت استراحت اضافه کار.
+                /// </summary>
+                internal static string Overtime_rest_period {
+                    get {
+                        return ResourceManager.GetString("Overtime rest period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش ترددهای حذف شده.
+                /// </summary>
+                internal static string Show_deleted_traffic {
+                    get {
+                        return ResourceManager.GetString("Show deleted traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چهارشنبه.
+                /// </summary>
+                internal static string Wednesday {
+                    get {
+                        return ResourceManager.GetString("Wednesday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت مرخصی.
+                /// </summary>
+                internal static string Vacation_period {
+                    get {
+                        return ResourceManager.GetString("Vacation period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بدون حقوق روزانه.
+                /// </summary>
+                internal static string No_daily_salary {
+                    get {
+                        return ResourceManager.GetString("No daily salary", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخچه تردد.
+                /// </summary>
+                internal static string Traffic_history {
+                    get {
+                        return ResourceManager.GetString("Traffic history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مجوز اضافه کار.
+                /// </summary>
+                internal static string Overtime_permit {
+                    get {
+                        return ResourceManager.GetString("Overtime permit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مرخصی استعلاجی.
+                /// </summary>
+                internal static string Sick_leave_code {
+                    get {
+                        return ResourceManager.GetString("Sick leave code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابستان.
+                /// </summary>
+                internal static string Summer {
+                    get {
+                        return ResourceManager.GetString("Summer", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو براساس.
+                /// </summary>
+                internal static string search_by {
+                    get {
+                        return ResourceManager.GetString("search by", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت شـروع.
+                /// </summary>
+                internal static string start_time {
+                    get {
+                        return ResourceManager.GetString("start time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت اضافه کار.
+                /// </summary>
+                internal static string overtime_break {
+                    get {
+                        return ResourceManager.GetString("overtime break", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات قانون حضور.
+                /// </summary>
+                internal static string Presence_rule_settings {
+                    get {
+                        return ResourceManager.GetString("Presence rule settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعجیل مجاز از کارکرد کسر شود.
+                /// </summary>
+                internal static string Haste_is_allowed_to_be_deducted_from_the_performance {
+                    get {
+                        return ResourceManager.GetString("Haste is allowed to be deducted from the performance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حضور و غیاب.
+                /// </summary>
+                internal static string presence_and_absence {
+                    get {
+                        return ResourceManager.GetString("presence and absence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حذف مرخصی و ماموریت.
+                /// </summary>
+                internal static string Remove_leave_and_mission {
+                    get {
+                        return ResourceManager.GetString("Remove leave and mission", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنلی یافت نشد.
+                /// </summary>
+                internal static string No_personnel_found {
+                    get {
+                        return ResourceManager.GetString("No personnel found", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ذخیره به صورت کلی.
+                /// </summary>
+                internal static string Save_as_general {
+                    get {
+                        return ResourceManager.GetString("Save as general", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت تردد انبوه بر اساس شیفت.
+                /// </summary>
+                internal static string Registration_of_mass_traffic_based_on_shift {
+                    get {
+                        return ResourceManager.GetString("Registration of mass traffic based on shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فایل اکسل بارگذاری شد.
+                /// </summary>
+                internal static string The_Excel_file_has_been_loaded {
+                    get {
+                        return ResourceManager.GetString("The Excel file has been loaded", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بارگذاری مجدد.
+                /// </summary>
+                internal static string reload {
+                    get {
+                        return ResourceManager.GetString("reload", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد پرسنل.
+                /// </summary>
+                internal static string Personnel_code {
+                    get {
+                        return ResourceManager.GetString("Personnel code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد دستگاه.
+                /// </summary>
+                internal static string Device_code {
+                    get {
+                        return ResourceManager.GetString("Device code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to های.
+                /// </summary>
+                internal static string Hi {
+                    get {
+                        return ResourceManager.GetString("Hi", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام سازمان.
+                /// </summary>
+                internal static string Name_of_the_organization {
+                    get {
+                        return ResourceManager.GetString("Name of the organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل مدت مرخصی.
+                /// </summary>
+                internal static string Minimum_leave_period {
+                    get {
+                        return ResourceManager.GetString("Minimum leave period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعطیلات قراردادی تقویم اعمال شود.
+                /// </summary>
+                internal static string Contractual_calendar_holidays_apply {
+                    get {
+                        return ResourceManager.GetString("Contractual calendar holidays apply", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لطفا صبر کنید.
+                /// </summary>
+                internal static string please_wait {
+                    get {
+                        return ResourceManager.GetString("please wait", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره کارت مراجعه کننده.
+                /// </summary>
+                internal static string Client_card_number {
+                    get {
+                        return ResourceManager.GetString("Client card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت اضافه کار.
+                /// </summary>
+                internal static string overtime_hours {
+                    get {
+                        return ResourceManager.GetString("overtime hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نی.
+                /// </summary>
+                internal static string straw {
+                    get {
+                        return ResourceManager.GetString("straw", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از تـاریخ.
+                /// </summary>
+                internal static string from_history {
+                    get {
+                        return ResourceManager.GetString("from history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حذف.
+                /// </summary>
+                internal static string Delete {
+                    get {
+                        return ResourceManager.GetString("Delete", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تردد ها.
+                /// </summary>
+                internal static string traffic {
+                    get {
+                        return ResourceManager.GetString("traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کسورات.
+                /// </summary>
+                internal static string Deductions {
+                    get {
+                        return ResourceManager.GetString("Deductions", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت تغییرات.
+                /// </summary>
+                internal static string Hour_changes {
+                    get {
+                        return ResourceManager.GetString("Hour changes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مرخصی حادثه.
+                /// </summary>
+                internal static string accident_leave_code {
+                    get {
+                        return ResourceManager.GetString("accident leave code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نحوه تغییر.
+                /// </summary>
+                internal static string How_to_change {
+                    get {
+                        return ResourceManager.GetString("How to change", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ورود و خروج.
+                /// </summary>
+                internal static string Arrivals_and_Departures {
+                    get {
+                        return ResourceManager.GetString("Arrivals and Departures", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات قانون حضور در ماه رمضان.
+                /// </summary>
+                internal static string Settings_of_the_law_of_attendance_in_the_month_of_Ramadan {
+                    get {
+                        return ResourceManager.GetString("Settings of the law of attendance in the month of Ramadan", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریب کسرکار.
+                /// </summary>
+                internal static string Unemployment_rate {
+                    get {
+                        return ResourceManager.GetString("Unemployment rate", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روز استثنا.
+                /// </summary>
+                internal static string exception_day {
+                    get {
+                        return ResourceManager.GetString("exception day", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام دوبین.
+                /// </summary>
+                internal static string Dubin's_name {
+                    get {
+                        return ResourceManager.GetString("Dubin's name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شهریور.
+                /// </summary>
+                internal static string Shahrivar {
+                    get {
+                        return ResourceManager.GetString("Shahrivar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مرخصی بدون حقوق.
+                /// </summary>
+                internal static string Leave_code_without_pay {
+                    get {
+                        return ResourceManager.GetString("Leave code without pay", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد گروه کاری.
+                /// </summary>
+                internal static string Workgroup_code {
+                    get {
+                        return ResourceManager.GetString("Workgroup code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام شرکت.
+                /// </summary>
+                internal static string Company_Name {
+                    get {
+                        return ResourceManager.GetString("Company Name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت عادی از کارکرد کسر شود.
+                /// </summary>
+                internal static string Deduct_normal_rest_from_work {
+                    get {
+                        return ResourceManager.GetString("Deduct normal rest from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اعمال بر روی.
+                /// </summary>
+                internal static string Apply_on {
+                    get {
+                        return ResourceManager.GetString("Apply on", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزهای تقــویم.
+                /// </summary>
+                internal static string Calendar_days {
+                    get {
+                        return ResourceManager.GetString("Calendar days", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی مدیریتی به پرسنل واحد.
+                /// </summary>
+                internal static string Administrative_leave_to_unit_personnel {
+                    get {
+                        return ResourceManager.GetString("Administrative leave to unit personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام گروه کاری.
+                /// </summary>
+                internal static string The_name_of_the_working_group {
+                    get {
+                        return ResourceManager.GetString("The name of the working group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت عادی.
+                /// </summary>
+                internal static string normal_rest {
+                    get {
+                        return ResourceManager.GetString("normal rest", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to یکشنبه.
+                /// </summary>
+                internal static string Sunday {
+                    get {
+                        return ResourceManager.GetString("Sunday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاخیر مجاز ورود.
+                /// </summary>
+                internal static string Allowed_entry_delay {
+                    get {
+                        return ResourceManager.GetString("Allowed entry delay", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جهت نمایش اطلاعات سازمان و واحد و سال و ماه مورد نظر را مشخص کنید.
+                /// </summary>
+                internal static string To_display_information_about_the_organization_and_unit,_specify_the_desired_year_and_month {
+                    get {
+                        return ResourceManager.GetString("To display information about the organization and unit, specify the desired year and month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست تردد های ثبت نشده.
+                /// </summary>
+                internal static string List_of_unregistered_traffic {
+                    get {
+                        return ResourceManager.GetString("List of unregistered traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مسیر ارتباط با بانک اطلاعاتی.
+                /// </summary>
+                internal static string The_connection_path_with_the_database {
+                    get {
+                        return ResourceManager.GetString("The connection path with the database", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فایل.
+                /// </summary>
+                internal static string file {
+                    get {
+                        return ResourceManager.GetString("file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعطیل قراردادی.
+                /// </summary>
+                internal static string contractual_holiday {
+                    get {
+                        return ResourceManager.GetString("contractual holiday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بان.
+                /// </summary>
+                internal static string Ban {
+                    get {
+                        return ResourceManager.GetString("Ban", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمستان.
+                /// </summary>
+                internal static string winter {
+                    get {
+                        return ResourceManager.GetString("winter", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداقل اضافه کار بعد وقت.
+                /// </summary>
+                internal static string Minimum_overtime_after_hours {
+                    get {
+                        return ResourceManager.GetString("Minimum overtime after hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی بدون حقوق از کارکرد کسر شود.
+                /// </summary>
+                internal static string Deduct_unpaid_leave_from_work {
+                    get {
+                        return ResourceManager.GetString("Deduct unpaid leave from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سه شنبه.
+                /// </summary>
+                internal static string Tuesday {
+                    get {
+                        return ResourceManager.GetString("Tuesday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تــاریـخ.
+                /// </summary>
+                internal static string History {
+                    get {
+                        return ResourceManager.GetString("History", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت تردد انبوه دستی.
+                /// </summary>
+                internal static string Manual_mass_traffic_registration {
+                    get {
+                        return ResourceManager.GetString("Manual mass traffic registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره دستگاه.
+                /// </summary>
+                internal static string Device_number {
+                    get {
+                        return ResourceManager.GetString("Device number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ ساعت اضافه کار.
+                /// </summary>
+                internal static string The_amount_of_overtime_hours {
+                    get {
+                        return ResourceManager.GetString("The amount of overtime hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضـافه کــار.
+                /// </summary>
+                internal static string Extra_work {
+                    get {
+                        return ResourceManager.GetString("Extra work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع ثبت تاریخ.
+                /// </summary>
+                internal static string Date_record_type {
+                    get {
+                        return ResourceManager.GetString("Date record type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مبلغ اضافه کار.
+                /// </summary>
+                internal static string Overtime_amount {
+                    get {
+                        return ResourceManager.GetString("Overtime amount", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ارباب رجوع.
+                /// </summary>
+                internal static string customer {
+                    get {
+                        return ResourceManager.GetString("customer", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت تردد جدید.
+                /// </summary>
+                internal static string Register_new_traffic {
+                    get {
+                        return ResourceManager.GetString("Register new traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره پرسنلی.
+                /// </summary>
+                internal static string User_ID,_Personnel_ID {
+                    get {
+                        return ResourceManager.GetString("User ID, Personnel ID", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گزارش کاردکس مرخصی.
+                /// </summary>
+                internal static string Cardex_leave_report {
+                    get {
+                        return ResourceManager.GetString("Cardex leave report", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار محسوب شود.
+                /// </summary>
+                internal static string considered_overtime {
+                    get {
+                        return ResourceManager.GetString("considered overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیرفعال.
+                /// </summary>
+                internal static string Inactive {
+                    get {
+                        return ResourceManager.GetString("Inactive", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to موظفـی.
+                /// </summary>
+                internal static string Obligatory {
+                    get {
+                        return ResourceManager.GetString("Obligatory", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع غیبت مجاز.
+                /// </summary>
+                internal static string Allowed_absence_function {
+                    get {
+                        return ResourceManager.GetString("Allowed absence function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت انبوه ترددهای پرسنل.
+                /// </summary>
+                internal static string Mass_registration_of_personnel_traffic {
+                    get {
+                        return ResourceManager.GetString("Mass registration of personnel traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دوره کارکرد.
+                /// </summary>
+                internal static string period_of_operation {
+                    get {
+                        return ResourceManager.GetString("period of operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع مرخصی سازمانی.
+                /// </summary>
+                internal static string Corporate_leave_function {
+                    get {
+                        return ResourceManager.GetString("Corporate leave function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کردن کارمند به گروه.
+                /// </summary>
+                internal static string Add_employee_to_group {
+                    get {
+                        return ResourceManager.GetString("Add employee to group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماموريت روزانه.
+                /// </summary>
+                internal static string Daily_mission {
+                    get {
+                        return ResourceManager.GetString("Daily mission", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت استراحت کار عادی.
+                /// </summary>
+                internal static string Normal_work_break_period {
+                    get {
+                        return ResourceManager.GetString("Normal work break period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش.
+                /// </summary>
+                internal static string the_show {
+                    get {
+                        return ResourceManager.GetString("the show", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر اضافه کار بعد وقت.
+                /// </summary>
+                internal static string Maximum_overtime_after_time {
+                    get {
+                        return ResourceManager.GetString("Maximum overtime after time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نحوه اتصال به دستگاه.
+                /// </summary>
+                internal static string How_to_connect_to_the_device {
+                    get {
+                        return ResourceManager.GetString("How to connect to the device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریب تعجیل.
+                /// </summary>
+                internal static string Acceleration_factor {
+                    get {
+                        return ResourceManager.GetString("Acceleration factor", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تقویم.
+                /// </summary>
+                internal static string Calendar {
+                    get {
+                        return ResourceManager.GetString("Calendar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کـد دستگاه.
+                /// </summary>
+                internal static string Device_code {
+                    get {
+                        return ResourceManager.GetString("Device code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی.
+                /// </summary>
+                internal static string Leave {
+                    get {
+                        return ResourceManager.GetString("Leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر جبران تاخیر اول وقت از اضافه کار و مرخصی استحقاقی.
+                /// </summary>
+                internal static string Maximum_compensation_for_the_first_time_delay_from_overtime_and_paid_leave {
+                    get {
+                        return ResourceManager.GetString("Maximum compensation for the first time delay from overtime and paid leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از طریق فایل.
+                /// </summary>
+                internal static string through_the_file {
+                    get {
+                        return ResourceManager.GetString("through the file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی به یک پرسنل.
+                /// </summary>
+                internal static string Leave_to_a_staff_member {
+                    get {
+                        return ResourceManager.GetString("Leave to a staff member", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مشخصات.
+                /// </summary>
+                internal static string Specifications {
+                    get {
+                        return ResourceManager.GetString("Specifications", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ترتیبی.
+                /// </summary>
+                internal static string in_order {
+                    get {
+                        return ResourceManager.GetString("in order", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات شیفت.
+                /// </summary>
+                internal static string Shift_settings {
+                    get {
+                        return ResourceManager.GetString("Shift settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to وضعیت دستگاه ها.
+                /// </summary>
+                internal static string Device_status {
+                    get {
+                        return ResourceManager.GetString("Device status", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بهمن.
+                /// </summary>
+                internal static string Avalanche {
+                    get {
+                        return ResourceManager.GetString("Avalanche", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا ساعت حضور.
+                /// </summary>
+                internal static string Until_the_time_of_attendance {
+                    get {
+                        return ResourceManager.GetString("Until the time of attendance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بهار.
+                /// </summary>
+                internal static string Spring {
+                    get {
+                        return ResourceManager.GetString("Spring", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سازمان.
+                /// </summary>
+                internal static string Organization {
+                    get {
+                        return ResourceManager.GetString("Organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استحقاقی روزانه.
+                /// </summary>
+                internal static string Daily_allowance {
+                    get {
+                        return ResourceManager.GetString("Daily allowance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت زمان استراحت در روز تعطیل کسر شود.
+                /// </summary>
+                internal static string Deduct_the_rest_period_on_the_day_off {
+                    get {
+                        return ResourceManager.GetString("Deduct the rest period on the day off", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ترددی.
+                /// </summary>
+                internal static string traffic {
+                    get {
+                        return ResourceManager.GetString("traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماموریت.
+                /// </summary>
+                internal static string Mission {
+                    get {
+                        return ResourceManager.GetString("Mission", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گرید روزهای کاری قانون حضور.
+                /// </summary>
+                internal static string Grade_of_working_days_of_attendance_law {
+                    get {
+                        return ResourceManager.GetString("Grade of working days of attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنل انتخابی.
+                /// </summary>
+                internal static string Selected_personnel {
+                    get {
+                        return ResourceManager.GetString("Selected personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پورت.
+                /// </summary>
+                internal static string port {
+                    get {
+                        return ResourceManager.GetString("port", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره کارت.
+                /// </summary>
+                internal static string card_number {
+                    get {
+                        return ResourceManager.GetString("card number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خواندن اطلاعات از دستگاه های دیگر.
+                /// </summary>
+                internal static string Read_information_from_other_devices {
+                    get {
+                        return ResourceManager.GetString("Read information from other devices", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی استحقاقی روزانه.
+                /// </summary>
+                internal static string Paid_daily_leave {
+                    get {
+                        return ResourceManager.GetString("Paid daily leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت کلی.
+                /// </summary>
+                internal static string General_registration {
+                    get {
+                        return ResourceManager.GetString("General registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت.
+                /// </summary>
+                internal static string Record {
+                    get {
+                        return ResourceManager.GetString("Record", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام خانوادگی.
+                /// </summary>
+                internal static string last_name {
+                    get {
+                        return ResourceManager.GetString("last name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ پایان.
+                /// </summary>
+                internal static string end_date {
+                    get {
+                        return ResourceManager.GetString("end date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام گروه.
+                /// </summary>
+                internal static string The_name_of_the_group {
+                    get {
+                        return ResourceManager.GetString("The name of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تاریـخ.
+                /// </summary>
+                internal static string until_date {
+                    get {
+                        return ResourceManager.GetString("until date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات  حضور و تقویم.
+                /// </summary>
+                internal static string Attendance_and_calendar_settings {
+                    get {
+                        return ResourceManager.GetString("Attendance and calendar settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام و نام خانوادگی پرسنل.
+                /// </summary>
+                internal static string Names_and_surnames_of_personnel {
+                    get {
+                        return ResourceManager.GetString("Names and surnames of personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شرکت.
+                /// </summary>
+                internal static string Company {
+                    get {
+                        return ResourceManager.GetString("Company", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار قبل وقت نیاز به مجوز دارد.
+                /// </summary>
+                internal static string Overtime_requires_permission_in_advance {
+                    get {
+                        return ResourceManager.GetString("Overtime requires permission in advance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماه.
+                /// </summary>
+                internal static string Month {
+                    get {
+                        return ResourceManager.GetString("Month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مانده ماه قبل برای ماه قبل.
+                /// </summary>
+                internal static string Balance_of_the_previous_month_for_the_previous_month {
+                    get {
+                        return ResourceManager.GetString("Balance of the previous month for the previous month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع استخدام.
+                /// </summary>
+                internal static string type_of_employment {
+                    get {
+                        return ResourceManager.GetString("type of employment", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام دستگاه.
+                /// </summary>
+                internal static string Device_name {
+                    get {
+                        return ResourceManager.GetString("Device name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت اضافه کار از کارکرد کسر شود.
+                /// </summary>
+                internal static string Overtime_rest_should_be_deducted_from_work {
+                    get {
+                        return ResourceManager.GetString("Overtime rest should be deducted from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو در قانون حضور.
+                /// </summary>
+                internal static string Search_in_the_law_of_presence {
+                    get {
+                        return ResourceManager.GetString("Search in the law of presence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تردد.
+                /// </summary>
+                internal static string traffic {
+                    get {
+                        return ResourceManager.GetString("traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دریافت کد.
+                /// </summary>
+                internal static string Get_the_code {
+                    get {
+                        return ResourceManager.GetString("Get the code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to یک شنبه.
+                /// </summary>
+                internal static string a_saturday {
+                    get {
+                        return ResourceManager.GetString("a saturday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت زمان های غیرفعال بودن دستگاه.
+                /// </summary>
+                internal static string Manage_device_downtime {
+                    get {
+                        return ResourceManager.GetString("Manage device downtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بازگشت.
+                /// </summary>
+                internal static string coming_back {
+                    get {
+                        return ResourceManager.GetString("coming back", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شناسه داده ارسالی.
+                /// </summary>
+                internal static string ID_of_the_data_sent {
+                    get {
+                        return ResourceManager.GetString("ID of the data sent", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ از.
+                /// </summary>
+                internal static string Date_of {
+                    get {
+                        return ResourceManager.GetString("Date of", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to طول دوره چرخش.
+                /// </summary>
+                internal static string The_length_of_the_rotation_period {
+                    get {
+                        return ResourceManager.GetString("The length of the rotation period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت سه.
+                /// </summary>
+                internal static string Rest_three {
+                    get {
+                        return ResourceManager.GetString("Rest three", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیبت مجاز از کارکرد کسر شود.
+                /// </summary>
+                internal static string Allowed_absence_to_be_deducted_from_work {
+                    get {
+                        return ResourceManager.GetString("Allowed absence to be deducted from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چک کردن وضعیت فعال سازی.
+                /// </summary>
+                internal static string Check_activation_status {
+                    get {
+                        return ResourceManager.GetString("Check activation status", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزانـه.
+                /// </summary>
+                internal static string daily {
+                    get {
+                        return ResourceManager.GetString("daily", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ایاب و ذهاب تعلق گیرد.
+                /// </summary>
+                internal static string To_be_paid_back_and_forth {
+                    get {
+                        return ResourceManager.GetString("To be paid back and forth", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمات قانون حضور ترددی.
+                /// </summary>
+                internal static string Traffic_presence_law_settings {
+                    get {
+                        return ResourceManager.GetString("Traffic presence law settings", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی روزانه بر اساس.
+                /// </summary>
+                internal static string Daily_leave_based_on {
+                    get {
+                        return ResourceManager.GetString("Daily leave based on", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخاب کنید.
+                /// </summary>
+                internal static string Select {
+                    get {
+                        return ResourceManager.GetString("Select", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان مودال.
+                /// </summary>
+                internal static string Modal_ending {
+                    get {
+                        return ResourceManager.GetString("Modal ending", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to درس.
+                /// </summary>
+                internal static string Lesson {
+                    get {
+                        return ResourceManager.GetString("Lesson", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شماره سریال.
+                /// </summary>
+                internal static string Serial_number {
+                    get {
+                        return ResourceManager.GetString("Serial number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف گروه کاری.
+                /// </summary>
+                internal static string Definition_of_working_group {
+                    get {
+                        return ResourceManager.GetString("Definition of working group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو و انتخاب پرسنل.
+                /// </summary>
+                internal static string Search_and_selection_of_personnel {
+                    get {
+                        return ResourceManager.GetString("Search and selection of personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتقال مانده.
+                /// </summary>
+                internal static string balance_transfer {
+                    get {
+                        return ResourceManager.GetString("balance transfer", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گروه.
+                /// </summary>
+                internal static string group {
+                    get {
+                        return ResourceManager.GetString("group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هر دو.
+                /// </summary>
+                internal static string both {
+                    get {
+                        return ResourceManager.GetString("both", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کـد گروه.
+                /// </summary>
+                internal static string Group_code {
+                    get {
+                        return ResourceManager.GetString("Group code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع مرخصی استعلاجی.
+                /// </summary>
+                internal static string Sick_leave_function {
+                    get {
+                        return ResourceManager.GetString("Sick leave function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف شیفت.
+                /// </summary>
+                internal static string Definition_of_shift {
+                    get {
+                        return ResourceManager.GetString("Definition of shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دوره ای.
+                /// </summary>
+                internal static string periodic {
+                    get {
+                        return ResourceManager.GetString("periodic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دوربین.
+                /// </summary>
+                internal static string Camera {
+                    get {
+                        return ResourceManager.GetString("Camera", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مهر.
+                /// </summary>
+                internal static string stamp {
+                    get {
+                        return ResourceManager.GetString("stamp", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع اتصال.
+                /// </summary>
+                internal static string Connection_type {
+                    get {
+                        return ResourceManager.GetString("Connection type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to میزان.
+                /// </summary>
+                internal static string Level {
+                    get {
+                        return ResourceManager.GetString("Level", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کارکرد ماهانه.
+                /// </summary>
+                internal static string Monthly_performance {
+                    get {
+                        return ResourceManager.GetString("Monthly performance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتقال مانده اضافه کار اختصاص یافته به ماه بعد.
+                /// </summary>
+                internal static string Transferring_the_assigned_overtime_balance_to_the_next_month {
+                    get {
+                        return ResourceManager.GetString("Transferring the assigned overtime balance to the next month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خارج سازمان.
+                /// </summary>
+                internal static string Outside_the_organization {
+                    get {
+                        return ResourceManager.GetString("Outside the organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت خروج.
+                /// </summary>
+                internal static string leaving_hour {
+                    get {
+                        return ResourceManager.GetString("leaving hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع مودال لیست تردد های ثبت نشده.
+                /// </summary>
+                internal static string The_beginning_of_the_modal_list_of_unregistered_traffic {
+                    get {
+                        return ResourceManager.GetString("The beginning of the modal list of unregistered traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گروه کاری مبدا.
+                /// </summary>
+                internal static string Origin_working_group {
+                    get {
+                        return ResourceManager.GetString("Origin working group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فعال سازی دستگاه.
+                /// </summary>
+                internal static string Device_activation {
+                    get {
+                        return ResourceManager.GetString("Device activation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعداد روزی که قصد دارید تردد ثبت شود.
+                /// </summary>
+                internal static string The_number_of_days_you_intend_to_register_the_traffic {
+                    get {
+                        return ResourceManager.GetString("The number of days you intend to register the traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمان ثابت.
+                /// </summary>
+                internal static string fixed_time {
+                    get {
+                        return ResourceManager.GetString("fixed time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش ترددهای بیشتر.
+                /// </summary>
+                internal static string Show_more_traffic {
+                    get {
+                        return ResourceManager.GetString("Show more traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام چاپگر.
+                /// </summary>
+                internal static string Printer_name {
+                    get {
+                        return ResourceManager.GetString("Printer name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to محدوده زمانی درست وارد نشده است.
+                /// </summary>
+                internal static string The_time_range_is_not_entered_correctly {
+                    get {
+                        return ResourceManager.GetString("The time range is not entered correctly", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی استعلاجی از کارکرد کسر شود.
+                /// </summary>
+                internal static string Sick_leave_should_be_deducted_from_work {
+                    get {
+                        return ResourceManager.GetString("Sick leave should be deducted from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست مرخصی های افزایشی و کاهشی.
+                /// </summary>
+                internal static string List_of_increasing_and_decreasing_holidays {
+                    get {
+                        return ResourceManager.GetString("List of increasing and decreasing holidays", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تـاریخ.
+                /// </summary>
+                internal static string until_date {
+                    get {
+                        return ResourceManager.GetString("until date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شیفت اجباری.
+                /// </summary>
+                internal static string Mandatory_shift {
+                    get {
+                        return ResourceManager.GetString("Mandatory shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی لیست قانون حضور.
+                /// </summary>
+                internal static string Updating_the_list_of_attendance_rules {
+                    get {
+                        return ResourceManager.GetString("Updating the list of attendance rules", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت مجوز اضافه کار.
+                /// </summary>
+                internal static string Registration_of_overtime_permit {
+                    get {
+                        return ResourceManager.GetString("Registration of overtime permit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد ماموریت بدون حقوق.
+                /// </summary>
+                internal static string Free_mission_code {
+                    get {
+                        return ResourceManager.GetString("Free mission code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شروع.
+                /// </summary>
+                internal static string Beginning {
+                    get {
+                        return ResourceManager.GetString("Beginning", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرداد.
+                /// </summary>
+                internal static string Mordad {
+                    get {
+                        return ResourceManager.GetString("Mordad", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام و نام خانوادگی.
+                /// </summary>
+                internal static string first_name_and_last_name {
+                    get {
+                        return ResourceManager.GetString("first name and last name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شیفت قبلی.
+                /// </summary>
+                internal static string Previous_shift {
+                    get {
+                        return ResourceManager.GetString("Previous shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تخصیص شیفت به گروه.
+                /// </summary>
+                internal static string Shift_assignment_to_group {
+                    get {
+                        return ResourceManager.GetString("Shift assignment to group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پست سازمانی.
+                /// </summary>
+                internal static string Organizational_position {
+                    get {
+                        return ResourceManager.GetString("Organizational position", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اردیبهشت.
+                /// </summary>
+                internal static string Ordibehesht {
+                    get {
+                        return ResourceManager.GetString("Ordibehesht", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت پایان.
+                /// </summary>
+                internal static string end_time {
+                    get {
+                        return ResourceManager.GetString("end time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مقـدار حق شیفت.
+                /// </summary>
+                internal static string Amount_of_shift_fee {
+                    get {
+                        return ResourceManager.GetString("Amount of shift fee", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ماموریت با حقوق روزانه.
+                /// </summary>
+                internal static string Mission_with_daily_salary {
+                    get {
+                        return ResourceManager.GetString("Mission with daily salary", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت کننده سند.
+                /// </summary>
+                internal static string Document_registrar {
+                    get {
+                        return ResourceManager.GetString("Document registrar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تـا پرسنل.
+                /// </summary>
+                internal static string to_personnel {
+                    get {
+                        return ResourceManager.GetString("to personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نام قانون حضور.
+                /// </summary>
+                internal static string The_name_of_the_attendance_rule {
+                    get {
+                        return ResourceManager.GetString("The name of the attendance rule", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حذف تردد.
+                /// </summary>
+                internal static string Remove_traffic {
+                    get {
+                        return ResourceManager.GetString("Remove traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جمعه.
+                /// </summary>
+                internal static string Friday {
+                    get {
+                        return ResourceManager.GetString("Friday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش تاریخچه شیفت های گروه.
+                /// </summary>
+                internal static string Display_the_history_of_group_shifts {
+                    get {
+                        return ResourceManager.GetString("Display the history of group shifts", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه.
+                /// </summary>
+                internal static string addition {
+                    get {
+                        return ResourceManager.GetString("addition", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مـدل.
+                /// </summary>
+                internal static string model {
+                    get {
+                        return ResourceManager.GetString("model", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بازه انقضای کاربران.
+                /// </summary>
+                internal static string Expiration_period_of_users {
+                    get {
+                        return ResourceManager.GetString("Expiration period of users", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا ساعت اضافه کار واحد.
+                /// </summary>
+                internal static string up_to_one_overtime_hour {
+                    get {
+                        return ResourceManager.GetString("up to one overtime hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پنج شنبه.
+                /// </summary>
+                internal static string Thursday {
+                    get {
+                        return ResourceManager.GetString("Thursday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to انتخابی.
+                /// </summary>
+                internal static string selective {
+                    get {
+                        return ResourceManager.GetString("selective", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to به.
+                /// </summary>
+                internal static string To {
+                    get {
+                        return ResourceManager.GetString("To", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کپی مدیریت گروه کاری.
+                /// </summary>
+                internal static string Workgroup_management_copy {
+                    get {
+                        return ResourceManager.GetString("Workgroup management copy", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار تعطیل مجاز.
+                /// </summary>
+                internal static string Holiday_overtime_allowed {
+                    get {
+                        return ResourceManager.GetString("Holiday overtime allowed", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر مدت مرخصی.
+                /// </summary>
+                internal static string Maximum_leave_period {
+                    get {
+                        return ResourceManager.GetString("Maximum leave period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت تردد ها.
+                /// </summary>
+                internal static string Traffic_management {
+                    get {
+                        return ResourceManager.GetString("Traffic management", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to راهنما.
+                /// </summary>
+                internal static string Guide {
+                    get {
+                        return ResourceManager.GetString("Guide", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیر فعال.
+                /// </summary>
+                internal static string Inactive {
+                    get {
+                        return ResourceManager.GetString("Inactive", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی قانون حضور.
+                /// </summary>
+                internal static string Update_attendance_rules {
+                    get {
+                        return ResourceManager.GetString("Update attendance rules", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فیلتر  نمایش جدول کارکرد.
+                /// </summary>
+                internal static string Function_table_display_filter {
+                    get {
+                        return ResourceManager.GetString("Function table display filter", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریبت غیبت روزانه.
+                /// </summary>
+                internal static string Daily_absence_rate {
+                    get {
+                        return ResourceManager.GetString("Daily absence rate", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از کد.
+                /// </summary>
+                internal static string from_the_code {
+                    get {
+                        return ResourceManager.GetString("from the code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمان انتقال.
+                /// </summary>
+                internal static string transfer_time {
+                    get {
+                        return ResourceManager.GetString("transfer time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریب تاخیر.
+                /// </summary>
+                internal static string Delay_factor {
+                    get {
+                        return ResourceManager.GetString("Delay factor", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نمایش تاریخچه باز شدن در.
+                /// </summary>
+                internal static string Display_the_history_of_opening_the_door {
+                    get {
+                        return ResourceManager.GetString("Display the history of opening the door", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خرداد.
+                /// </summary>
+                internal static string Khordad {
+                    get {
+                        return ResourceManager.GetString("Khordad", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خواندن اطلاعات.
+                /// </summary>
+                internal static string Read_information {
+                    get {
+                        return ResourceManager.GetString("Read information", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعجیل مجاز.
+                /// </summary>
+                internal static string Acceleration_allowed {
+                    get {
+                        return ResourceManager.GetString("Acceleration allowed", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع.
+                /// </summary>
+                internal static string type {
+                    get {
+                        return ResourceManager.GetString("type", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان.
+                /// </summary>
+                internal static string the_end {
+                    get {
+                        return ResourceManager.GetString("the end", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بروزرسانی لیست سازمان.
+                /// </summary>
+                internal static string Organization_list_update {
+                    get {
+                        return ResourceManager.GetString("Organization list update", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to طول قانون حضور.
+                /// </summary>
+                internal static string Length_of_attendance_rule {
+                    get {
+                        return ResourceManager.GetString("Length of attendance rule", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مانده اضافه کار اختصاص یافته منفی اعمال شود.
+                /// </summary>
+                internal static string The_negative_overtime_balance_should_be_applied {
+                    get {
+                        return ResourceManager.GetString("The negative overtime balance should be applied", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاخیر مجاز از کارکرد کسر شود.
+                /// </summary>
+                internal static string Allowable_delay_will_be_deducted_from_the_performance {
+                    get {
+                        return ResourceManager.GetString("Allowable delay will be deducted from the performance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نــام پرسنل.
+                /// </summary>
+                internal static string Personnel_name {
+                    get {
+                        return ResourceManager.GetString("Personnel name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to افزایش.
+                /// </summary>
+                internal static string Increase {
+                    get {
+                        return ResourceManager.GetString("Increase", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پایان  مودال.
+                /// </summary>
+                internal static string Modal_ending {
+                    get {
+                        return ResourceManager.GetString("Modal ending", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کـد گروه کاری.
+                /// </summary>
+                internal static string Working_group_code {
+                    get {
+                        return ResourceManager.GetString("Working group code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از سال.
+                /// </summary>
+                internal static string of_the_year {
+                    get {
+                        return ResourceManager.GetString("of the year", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جبران موظفی با اضافه کار.
+                /// </summary>
+                internal static string Compensating_the_obligation_with_overtime {
+                    get {
+                        return ResourceManager.GetString("Compensating the obligation with overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزهای استثنا.
+                /// </summary>
+                internal static string Exception_days {
+                    get {
+                        return ResourceManager.GetString("Exception days", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عدد یک برای ثبت تردد و عدد صفر برای حذف تردد.
+                /// </summary>
+                internal static string Number_one_to_register_traffic_and_number_zero_to_delete_traffic {
+                    get {
+                        return ResourceManager.GetString("Number one to register traffic and number zero to delete traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تـاریخ.
+                /// </summary>
+                internal static string the_date {
+                    get {
+                        return ResourceManager.GetString("the date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to دقیقه.
+                /// </summary>
+                internal static string minutes {
+                    get {
+                        return ResourceManager.GetString("minutes", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تایید.
+                /// </summary>
+                internal static string confirmation {
+                    get {
+                        return ResourceManager.GetString("confirmation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تنظیمـات بیشتـر قانون حضور.
+                /// </summary>
+                internal static string More_settings_of_attendance_law {
+                    get {
+                        return ResourceManager.GetString("More settings of attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بازیابی تردد.
+                /// </summary>
+                internal static string traffic_recovery {
+                    get {
+                        return ResourceManager.GetString("traffic recovery", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست کلیه پرسنل.
+                /// </summary>
+                internal static string List_of_all_personnel {
+                    get {
+                        return ResourceManager.GetString("List of all personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خطا در بارگذاری فایل اکسل.
+                /// </summary>
+                internal static string Error_loading_Excel_file {
+                    get {
+                        return ResourceManager.GetString("Error loading Excel file", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ورود.
+                /// </summary>
+                internal static string log_in {
+                    get {
+                        return ResourceManager.GetString("log in", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنلی.
+                /// </summary>
+                internal static string personnel {
+                    get {
+                        return ResourceManager.GetString("personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مانده منفی.
+                /// </summary>
+                internal static string negative_balance {
+                    get {
+                        return ResourceManager.GetString("negative balance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شنبه.
+                /// </summary>
+                internal static string Saturday {
+                    get {
+                        return ResourceManager.GetString("Saturday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بدون حقوق.
+                /// </summary>
+                internal static string without_salary {
+                    get {
+                        return ResourceManager.GetString("without salary", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استراحت دو.
+                /// </summary>
+                internal static string rest_two {
+                    get {
+                        return ResourceManager.GetString("rest two", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حالت خواندن.
+                /// </summary>
+                internal static string reading_mode {
+                    get {
+                        return ResourceManager.GetString("reading mode", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کسر کار.
+                /// </summary>
+                internal static string low_time_work {
+                    get {
+                        return ResourceManager.GetString("low time work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص دوربین به دستگاه.
+                /// </summary>
+                internal static string Assign_the_camera_to_the_device {
+                    get {
+                        return ResourceManager.GetString("Assign the camera to the device", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to طول دوره.
+                /// </summary>
+                internal static string Course_length {
+                    get {
+                        return ResourceManager.GetString("Course length", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخچه خروج.
+                /// </summary>
+                internal static string Checkout_history {
+                    get {
+                        return ResourceManager.GetString("Checkout history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت مرخصی.
+                /// </summary>
+                internal static string Leave_registration {
+                    get {
+                        return ResourceManager.GetString("Leave registration", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کسر کار از اضافه کار مجاز کسر شود.
+                /// </summary>
+                internal static string Deduct_the_work_from_the_authorized_overtime {
+                    get {
+                        return ResourceManager.GetString("Deduct the work from the authorized overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نـام قانون حضور.
+                /// </summary>
+                internal static string The_name_of_the_attendance_law {
+                    get {
+                        return ResourceManager.GetString("The name of the attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شرح مرخصی.
+                /// </summary>
+                internal static string Leave_description {
+                    get {
+                        return ResourceManager.GetString("Leave description", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ضریب اضافه کار.
+                /// </summary>
+                internal static string Overtime_rate {
+                    get {
+                        return ResourceManager.GetString("Overtime rate", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ اعمال مرخصی.
+                /// </summary>
+                internal static string Date_of_application_of_leave {
+                    get {
+                        return ResourceManager.GetString("Date of application of leave", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to حداکثر اضافه كار.
+                /// </summary>
+                internal static string Maximum_overtime {
+                    get {
+                        return ResourceManager.GetString("Maximum overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فعال سازی دستگاه ها.
+                /// </summary>
+                internal static string Activation_of_devices {
+                    get {
+                        return ResourceManager.GetString("Activation of devices", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کنترل دسترسی.
+                /// </summary>
+                internal static string Access_control {
+                    get {
+                        return ResourceManager.GetString("Access control", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع تردد.
+                /// </summary>
+                internal static string Type_of_traffic {
+                    get {
+                        return ResourceManager.GetString("Type of traffic", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمان استراحت  در ماه رمضان.
+                /// </summary>
+                internal static string Rest_time_in_Ramadan {
+                    get {
+                        return ResourceManager.GetString("Rest time in Ramadan", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعطیل رسمی.
+                /// </summary>
+                internal static string Public_holiday {
+                    get {
+                        return ResourceManager.GetString("Public holiday", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا ساعت اضافه کار پرسنل.
+                /// </summary>
+                internal static string up_to_staff_overtime_hours {
+                    get {
+                        return ResourceManager.GetString("up to staff overtime hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت حضـور.
+                /// </summary>
+                internal static string attendance_hour {
+                    get {
+                        return ResourceManager.GetString("attendance hour", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تقویم تعطیلات.
+                /// </summary>
+                internal static string Holiday_calendar {
+                    get {
+                        return ResourceManager.GetString("Holiday calendar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عملیات تردد ساعت.
+                /// </summary>
+                internal static string Hour_traffic_operation {
+                    get {
+                        return ResourceManager.GetString("Hour traffic operation", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاخیر مجـاز.
+                /// </summary>
+                internal static string Allowed_delay {
+                    get {
+                        return ResourceManager.GetString("Allowed delay", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to فقط برای ایران خودرو نمایش داده شود.
+                /// </summary>
+                internal static string Shown_only_for_Iran_Khodro {
+                    get {
+                        return ResourceManager.GetString("Shown only for Iran Khodro", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to داخل سازمان.
+                /// </summary>
+                internal static string Inside_the_organization {
+                    get {
+                        return ResourceManager.GetString("Inside the organization", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع ماموریت بدون حقوق.
+                /// </summary>
+                internal static string Unpaid_mission_function {
+                    get {
+                        return ResourceManager.GetString("Unpaid mission function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدت.
+                /// </summary>
+                internal static string Period {
+                    get {
+                        return ResourceManager.GetString("Period", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to زمان خروج.
+                /// </summary>
+                internal static string departure_time {
+                    get {
+                        return ResourceManager.GetString("departure time", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ساعت اضافه کار واحد.
+                /// </summary>
+                internal static string Unit_overtime_hours {
+                    get {
+                        return ResourceManager.GetString("Unit overtime hours", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to خروجی.
+                /// </summary>
+                internal static string output {
+                    get {
+                        return ResourceManager.GetString("output", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to در صورت عدم انجام موظفی کسر کار تعلق بگیرد.
+                /// </summary>
+                internal static string In_case_of_non-fulfillment_of_the_obligation,_the_work_deduction_will_be_deducted {
+                    get {
+                        return ResourceManager.GetString("In case of non-fulfillment of the obligation, the work deduction will be deducted", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سریال دستگاه.
+                /// </summary>
+                internal static string Device_serial_number {
+                    get {
+                        return ResourceManager.GetString("Device serial number", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مدیریت واحد های مجاز دستگاه.
+                /// </summary>
+                internal static string Management_of_authorized_device_units {
+                    get {
+                        return ResourceManager.GetString("Management of authorized device units", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هر دو لیست.
+                /// </summary>
+                internal static string Both_lists {
+                    get {
+                        return ResourceManager.GetString("Both lists", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کل اضافه کار مجاز.
+                /// </summary>
+                internal static string Total_overtime_allowed {
+                    get {
+                        return ResourceManager.GetString("Total overtime allowed", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست کارمندان گروه.
+                /// </summary>
+                internal static string List_of_employees_of_the_group {
+                    get {
+                        return ResourceManager.GetString("List of employees of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعریف قانون حضور.
+                /// </summary>
+                internal static string Definition_of_attendance_law {
+                    get {
+                        return ResourceManager.GetString("Definition of attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع ساعت.
+                /// </summary>
+                internal static string Type_of_watch {
+                    get {
+                        return ResourceManager.GetString("Type of watch", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کاری.
+                /// </summary>
+                internal static string overtime {
+                    get {
+                        return ResourceManager.GetString("overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to غیبت غیرمجاز.
+                /// </summary>
+                internal static string Unauthorized_absence {
+                    get {
+                        return ResourceManager.GetString("Unauthorized absence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا سال.
+                /// </summary>
+                internal static string until_the_year {
+                    get {
+                        return ResourceManager.GetString("until the year", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از ساعت اضافه کار پرسنل.
+                /// </summary>
+                internal static string From_overtime_hours_of_personnel {
+                    get {
+                        return ResourceManager.GetString("From overtime hours of personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to مرخصی استحقاقی از کارکرد کسر شود.
+                /// </summary>
+                internal static string Paid_leave_should_be_deducted_from_work {
+                    get {
+                        return ResourceManager.GetString("Paid leave should be deducted from work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جستجو در شیفت نامنظم.
+                /// </summary>
+                internal static string Irregular_shift_search {
+                    get {
+                        return ResourceManager.GetString("Irregular shift search", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از ساعت حضور.
+                /// </summary>
+                internal static string From_the_time_of_attendance {
+                    get {
+                        return ResourceManager.GetString("From the time of attendance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to استفاده نشود.
+                /// </summary>
+                internal static string Do_not_use {
+                    get {
+                        return ResourceManager.GetString("Do not use", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پارکینگ.
+                /// </summary>
+                internal static string Parking {
+                    get {
+                        return ResourceManager.GetString("Parking", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ذخیره.
+                /// </summary>
+                internal static string Store {
+                    get {
+                        return ResourceManager.GetString("Store", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گشت و نگهبانی.
+                /// </summary>
+                internal static string patrol_and_guard {
+                    get {
+                        return ResourceManager.GetString("patrol and guard", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از ساعت اضافه کار واحد.
+                /// </summary>
+                internal static string From_the_overtime_hours_of_the_unit {
+                    get {
+                        return ResourceManager.GetString("From the overtime hours of the unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to توضیحات.
+                /// </summary>
+                internal static string Description {
+                    get {
+                        return ResourceManager.GetString("Description", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اضافه کار نیاز به مجوز دارد.
+                /// </summary>
+                internal static string Overtime_requires_a_permit {
+                    get {
+                        return ResourceManager.GetString("Overtime requires a permit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع مرخصی حادثه.
+                /// </summary>
+                internal static string Accident_leave_function {
+                    get {
+                        return ResourceManager.GetString("Accident leave function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اختصاص گروه کاری.
+                /// </summary>
+                internal static string Assignment_of_work_group {
+                    get {
+                        return ResourceManager.GetString("Assignment of work group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to از مانده مرخصی کسر شود.
+                /// </summary>
+                internal static string be_deducted_from_the_leave_balance {
+                    get {
+                        return ResourceManager.GetString("be deducted from the leave balance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت نوع تعطیلی.
+                /// </summary>
+                internal static string Record_the_type_of_closure {
+                    get {
+                        return ResourceManager.GetString("Record the type of closure", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع اضافه کار.
+                /// </summary>
+                internal static string Type_of_overtime {
+                    get {
+                        return ResourceManager.GetString("Type of overtime", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تسویه مانده مرخصی.
+                /// </summary>
+                internal static string Settlement_of_leave_balance {
+                    get {
+                        return ResourceManager.GetString("Settlement of leave balance", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پرسنل.
+                /// </summary>
+                internal static string Personnel {
+                    get {
+                        return ResourceManager.GetString("Personnel", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخچه ورود.
+                /// </summary>
+                internal static string Login_history {
+                    get {
+                        return ResourceManager.GetString("Login history", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شیفت بعدی.
+                /// </summary>
+                internal static string Next_shift {
+                    get {
+                        return ResourceManager.GetString("Next shift", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تابع ماموریت باحقوق.
+                /// </summary>
+                internal static string Authorized_mission_function {
+                    get {
+                        return ResourceManager.GetString("Authorized mission function", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ردیف.
+                /// </summary>
+                internal static string Row {
+                    get {
+                        return ResourceManager.GetString("Row", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to عدم انتقال مانده اضافه کار اختصاص یافته به ماه بعد.
+                /// </summary>
+                internal static string Failure_to_transfer_the_balance_of_overtime_assigned_to_the_next_month {
+                    get {
+                        return ResourceManager.GetString("Failure to transfer the balance of overtime assigned to the next month", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نــام.
+                /// </summary>
+                internal static string the_name {
+                    get {
+                        return ResourceManager.GetString("the name", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تقویم اعمال شود.
+                /// </summary>
+                internal static string Apply_calendar {
+                    get {
+                        return ResourceManager.GetString("Apply calendar", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to اعمال.
+                /// </summary>
+                internal static string actions {
+                    get {
+                        return ResourceManager.GetString("actions", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نــام و نــام خانوادگی.
+                /// </summary>
+                internal static string Name_and_surname {
+                    get {
+                        return ResourceManager.GetString("Name and surname", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد مرخصی استحقاقی.
+                /// </summary>
+                internal static string Entitled_leave_code {
+                    get {
+                        return ResourceManager.GetString("Entitled leave code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to می باشد.
+                /// </summary>
+                internal static string is {
+                    get {
+                        return ResourceManager.GetString("is", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to در صورتی که هیچ واحد سازمانی را انتخاب نکنید مرخصی تنظیم شده به کل پرسنل واحد سازمانی  تعلق می گیرد.
+                /// </summary>
+                internal static string If_you_do_not_select_any_organizational_unit,_the_set_leave_will_be_granted_to_all_personnel_of_the_organizational_unit {
+                    get {
+                        return ResourceManager.GetString("If you do not select any organizational unit, the set leave will be granted to all personnel of the organizational unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to نوع قانون حضور.
+                /// </summary>
+                internal static string Type_of_attendance_rule {
+                    get {
+                        return ResourceManager.GetString("Type of attendance rule", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to پیش نمایش.
+                /// </summary>
+                internal static string Preview {
+                    get {
+                        return ResourceManager.GetString("Preview", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to واحد.
+                /// </summary>
+                internal static string the_unit {
+                    get {
+                        return ResourceManager.GetString("the unit", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to گزارش مورد نظر هیچ رکوردی ندارد.
+                /// </summary>
+                internal static string The_desired_report_has_no_records {
+                    get {
+                        return ResourceManager.GetString("The desired report has no records", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to درصد.
+                /// </summary>
+                internal static string Percentage {
+                    get {
+                        return ResourceManager.GetString("Percentage", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to بازه زمانی.
+                /// </summary>
+                internal static string timespan {
+                    get {
+                        return ResourceManager.GetString("timespan", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست اختصاص های اضافه کار.
+                /// </summary>
+                internal static string List_of_overtime_assignments {
+                    get {
+                        return ResourceManager.GetString("List of overtime assignments", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ریال.
+                /// </summary>
+                internal static string Rials {
+                    get {
+                        return ResourceManager.GetString("Rials", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to چاپ.
+                /// </summary>
+                internal static string print {
+                    get {
+                        return ResourceManager.GetString("print", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تا تـاریـخ.
+                /// </summary>
+                internal static string until_date {
+                    get {
+                        return ResourceManager.GetString("until date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to لیست کارمند های گروه.
+                /// </summary>
+                internal static string List_of_employees_of_the_group {
+                    get {
+                        return ResourceManager.GetString("List of employees of the group", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to شب کاری.
+                /// </summary>
+                internal static string night_work {
+                    get {
+                        return ResourceManager.GetString("night work", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to جابه جایی قانون حضور پرسنل.
+                /// </summary>
+                internal static string Transfer_of_personnel_attendance_law {
+                    get {
+                        return ResourceManager.GetString("Transfer of personnel attendance law", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to سیستم نیز به عنوان همان مدل در نظر گرفته می شود.
+                /// </summary>
+                internal static string The_system_is_also_considered_as_the_same_model {
+                    get {
+                        return ResourceManager.GetString("The system is also considered as the same model", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to روزانه.
+                /// </summary>
+                internal static string Daily {
+                    get {
+                        return ResourceManager.GetString("Daily", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to کد پرسنلی.
+                /// </summary>
+                internal static string Personnel_Code {
+                    get {
+                        return ResourceManager.GetString("Personnel Code", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to هردو.
+                /// </summary>
+                internal static string both {
+                    get {
+                        return ResourceManager.GetString("both", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تاریخ شروع.
+                /// </summary>
+                internal static string start_date {
+                    get {
+                        return ResourceManager.GetString("start date", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to ثبت غیبت مجاز.
+                /// </summary>
+                internal static string Registration_of_authorized_absence {
+                    get {
+                        return ResourceManager.GetString("Registration of authorized absence", resourceCulture);
+                    }
+        }
+/// <summary>
+                ///   Looks up a localized string similar to تعجیل مجاز خروج.
+                /// </summary>
+                internal static string Allowed_acceleration_of_departure {
+                    get {
+                        return ResourceManager.GetString("Allowed acceleration of departure", resourceCulture);
+                    }
+        }

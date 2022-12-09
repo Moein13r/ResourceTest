@@ -1,0 +1,1856 @@
+{
+    "Words": [
+        {
+            "Persian": "پایان مودال انتخاب خودرو",
+            "English": "End of vehicle selection modal"
+        },
+        {
+            "Persian": "پایان مودال جستجوی غذاهای رزرو شده",
+            "English": "End of reserved food search modal"
+        },
+        {
+            "Persian": "چاپ کلی",
+            "English": "general print"
+        },
+        {
+            "Persian": "نــام",
+            "English": "the name"
+        },
+        {
+            "Persian": "در حال خدمت",
+            "English": "Serving"
+        },
+        {
+            "Persian": "رنگ خودرو",
+            "English": "car color"
+        },
+        {
+            "Persian": "مبلغ کسر کار ساعتی",
+            "English": "Hourly deduction amount"
+        },
+        {
+            "Persian": "اطلاعات تکمیلی",
+            "English": "Further information"
+        },
+        {
+            "Persian": "شخصی سازی",
+            "English": "Personalization"
+        },
+        {
+            "Persian": "تعریف رستوران",
+            "English": "Definition of restaurant"
+        },
+        {
+            "Persian": "تعریف سهمیه",
+            "English": "Quota definition"
+        },
+        {
+            "Persian": "پایان مودال نمایش پرسنلی که به پایان تاریخ قرارداد نزدیک میشوند",
+            "English": "The end of the modal shows the personnel who are approaching the end of the contract date"
+        },
+        {
+            "Persian": "نمایش پرسنلی که تا هفته آینده قرارداد آنها تمام می شود",
+            "English": "Showing the personnel whose contracts will expire next week"
+        },
+        {
+            "Persian": "مجوز",
+            "English": "License"
+        },
+        {
+            "Persian": "جستجوی غذاهای رزرو شده",
+            "English": "Search for reserved dishes"
+        },
+        {
+            "Persian": "سازمان",
+            "English": "Organization"
+        },
+        {
+            "Persian": "شرح غیبت",
+            "English": "Description of absence"
+        },
+        {
+            "Persian": "انتخاب پرسنل",
+            "English": "Selection of personnel"
+        },
+        {
+            "Persian": "انتخاب محل ماموریت",
+            "English": "Choose a mission location"
+        },
+        {
+            "Persian": "ماهانه براساس کسرکار ثابت",
+            "English": "Monthly based on fixed deduction"
+        },
+        {
+            "Persian": "میزان شارژ پرسنل جاری",
+            "English": "Current personnel charge"
+        },
+        {
+            "Persian": "ماهانه بر اساس کسر کار محاسباتی",
+            "English": "Monthly based on computing work deduction"
+        },
+        {
+            "Persian": "شرح ماموریت",
+            "English": "Mission description"
+        },
+        {
+            "Persian": "غیبت مجاز",
+            "English": "Authorized absence"
+        },
+        {
+            "Persian": "تاریخ آخرین بروزرسانی",
+            "English": "Date of last update"
+        },
+        {
+            "Persian": "قانون حضور روز",
+            "English": "Day Attendance Law"
+        },
+        {
+            "Persian": "پنجشنبه",
+            "English": "Thursday"
+        },
+        {
+            "Persian": "مذهب",
+            "English": "Religion"
+        },
+        {
+            "Persian": "برحسب ساعت",
+            "English": "by the hour"
+        },
+        {
+            "Persian": "پایـان",
+            "English": "the end"
+        },
+        {
+            "Persian": "برای مشتری خاص خودش نمایش داده شود فقط",
+            "English": "To be displayed only for its own specific customer"
+        },
+        {
+            "Persian": "رزومه",
+            "English": "CV"
+        },
+        {
+            "Persian": "شماره موبایل صاحب خودرو",
+            "English": "Car owner's mobile number"
+        },
+        {
+            "Persian": "دوره آموزشی",
+            "English": "training course"
+        },
+        {
+            "Persian": "ثبت مرخصی مدیریتی برای پرسنل واحد",
+            "English": "Registration of administrative leave for unit personnel"
+        },
+        {
+            "Persian": "گروه خونی",
+            "English": "blood type"
+        },
+        {
+            "Persian": "مانده",
+            "English": "remaining"
+        },
+        {
+            "Persian": "مشمول تعطیل کاری می شود",
+            "English": "Subject to work holiday"
+        },
+        {
+            "Persian": "شروع مودال ذخیره اطلاعات تکمیلی پارکینگ",
+            "English": "Start the modal to store additional parking information"
+        },
+        {
+            "Persian": "شماره بیمه",
+            "English": "insurance number"
+        },
+        {
+            "Persian": "پایان مودال اختصاص شیفت آسان",
+            "English": "Easy shift assignment modal end"
+        },
+        {
+            "Persian": "ثبت مجوز اضافه کار برای پرسنل انتخابی",
+            "English": "Registration of overtime permits for selected personnel"
+        },
+        {
+            "Persian": "کدملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "هزینه ایاب ذهاب",
+            "English": "Round trip fee"
+        },
+        {
+            "Persian": "محمد",
+            "English": "Muhammad"
+        },
+        {
+            "Persian": "ثبت سوابق کاری برای پرسنل انتخابی",
+            "English": "Registration of work records for selected personnel"
+        },
+        {
+            "Persian": "شروع مودال  جستجوی غذاهای رزرو شده",
+            "English": "Start the reserved food search modal"
+        },
+        {
+            "Persian": "ثبت سوابق سرویس حمل و نقل برای پرسنل انتخابی",
+            "English": "Registration of transport service records for selected personnel"
+        },
+        {
+            "Persian": "زمان آخرین بروز رسانی",
+            "English": "Time of last update"
+        },
+        {
+            "Persian": "ثبت سوابق همکاری برای یک پرسنل",
+            "English": "Registration of cooperation records for a personnel"
+        },
+        {
+            "Persian": "مزایا",
+            "English": "Advantages"
+        },
+        {
+            "Persian": "عکس پرسنلی",
+            "English": "personal photo"
+        },
+        {
+            "Persian": "امضا",
+            "English": "Signature"
+        },
+        {
+            "Persian": "تاریخ پایان عضویت",
+            "English": "Membership end date"
+        },
+        {
+            "Persian": "از",
+            "English": "From"
+        },
+        {
+            "Persian": "پرسنلی یافت نشد",
+            "English": "No personnel found"
+        },
+        {
+            "Persian": "مالیات صفر",
+            "English": "Zero tax"
+        },
+        {
+            "Persian": "شماره ارجاع",
+            "English": "Reference"
+        },
+        {
+            "Persian": "عنوان شهر",
+            "English": "The title of the city"
+        },
+        {
+            "Persian": "جدید",
+            "English": "New"
+        },
+        {
+            "Persian": "نـوع استخدام",
+            "English": "Employment type"
+        },
+        {
+            "Persian": "مرخصی",
+            "English": "Leave"
+        },
+        {
+            "Persian": "معلق",
+            "English": "suspended"
+        },
+        {
+            "Persian": "قانون حضور سه شنبه",
+            "English": "Tuesday attendance rule"
+        },
+        {
+            "Persian": "وضعیت",
+            "English": "Condition"
+        },
+        {
+            "Persian": "وعده غذایی",
+            "English": "Meal"
+        },
+        {
+            "Persian": "ماموریت",
+            "English": "Mission"
+        },
+        {
+            "Persian": "ردیف",
+            "English": "Row"
+        },
+        {
+            "Persian": "نام صاحب خودرو",
+            "English": "Name of the car owner"
+        },
+        {
+            "Persian": "از ساعت",
+            "English": "from the hour"
+        },
+        {
+            "Persian": "تحصیلی",
+            "English": "educational"
+        },
+        {
+            "Persian": "انتخاب دوره آموزشی",
+            "English": "Choosing a training course"
+        },
+        {
+            "Persian": "ثبت سوابق سرویس حمل و نقل مدیریتی برای پرسنل واحد",
+            "English": "Registration of administrative transportation service records for unit personnel"
+        },
+        {
+            "Persian": "میزان غیبت مجاز",
+            "English": "The amount of absence allowed"
+        },
+        {
+            "Persian": "ثبت حکم پرسنلی برای پرسنل انتخابی",
+            "English": "Registration of personnel orders for selected personnel"
+        },
+        {
+            "Persian": "فعال",
+            "English": "active"
+        },
+        {
+            "Persian": "مبلغ اضافه کاری",
+            "English": "Overtime amount"
+        },
+        {
+            "Persian": "بازنشسته",
+            "English": "Retired"
+        },
+        {
+            "Persian": "بروزرسانی لیست واحد سازمانی",
+            "English": "Updating the list of organizational units"
+        },
+        {
+            "Persian": "ثبت سوابق آموزشی برای پرسنل انتخابی",
+            "English": "Registration of training records for selected personnel"
+        },
+        {
+            "Persian": "جستجوی ژتون",
+            "English": "Token search"
+        },
+        {
+            "Persian": "مشخصات",
+            "English": "Specifications"
+        },
+        {
+            "Persian": "ثبت حکم پرسنلی",
+            "English": "Registration of personnel orders"
+        },
+        {
+            "Persian": "استخدام",
+            "English": "Recruitment"
+        },
+        {
+            "Persian": "ثبت سوابق آموزشی برای یک پرسنل",
+            "English": "Registration of training records for a personnel"
+        },
+        {
+            "Persian": "نوع استخدام",
+            "English": "type of employment"
+        },
+        {
+            "Persian": "ارسال ایمیل",
+            "English": "send mail"
+        },
+        {
+            "Persian": "کد مرخصی",
+            "English": "Leave code"
+        },
+        {
+            "Persian": "انتخاب",
+            "English": "Selection"
+        },
+        {
+            "Persian": "کد ملی",
+            "English": "National Code"
+        },
+        {
+            "Persian": "نمایش پرسنلی که قرارداد یکساله دارند و  تا پایان ماه جاری قرارداد آنها تمام می شود",
+            "English": "Display of personnel who have a one-year contract and their contracts expire by the end of this month"
+        },
+        {
+            "Persian": "درصد تعطیل کاری",
+            "English": "The percentage of work holidays"
+        },
+        {
+            "Persian": "دریافت فایل",
+            "English": "download file"
+        },
+        {
+            "Persian": "ثبت سوابق آموزشی",
+            "English": "Registration of educational records"
+        },
+        {
+            "Persian": "شماره پرسنلی",
+            "English": "User ID, Personnel ID"
+        },
+        {
+            "Persian": "حقوق روزانه",
+            "English": "daily wages"
+        },
+        {
+            "Persian": "جداسازی با",
+            "English": "separation with"
+        },
+        {
+            "Persian": "روز",
+            "English": "Day"
+        },
+        {
+            "Persian": "همکاری",
+            "English": "Cooperation"
+        },
+        {
+            "Persian": "جدول بیمه",
+            "English": "Insurance table"
+        },
+        {
+            "Persian": "از تاریخ اجرا",
+            "English": "From the date of implementation"
+        },
+        {
+            "Persian": "رستوران",
+            "English": "Restaurant"
+        },
+        {
+            "Persian": "ایمپورت پرسنل از فایل",
+            "English": "Import personnel from file"
+        },
+        {
+            "Persian": "پایان مودال ذخیره اطلاعات تکمیلی پارکینگ",
+            "English": "End of the modal to store additional parking information"
+        },
+        {
+            "Persian": "بروزرسانی قانون حضور",
+            "English": "Update attendance rules"
+        },
+        {
+            "Persian": "کد شهر",
+            "English": "city ​​code"
+        },
+        {
+            "Persian": "بروزرسانی نوع مرخصی",
+            "English": "Update leave type"
+        },
+        {
+            "Persian": "نوع غیبت",
+            "English": "type of absence"
+        },
+        {
+            "Persian": "قد",
+            "English": "height"
+        },
+        {
+            "Persian": "مدرک تحصیلی",
+            "English": "degree of education"
+        },
+        {
+            "Persian": "برنامه هفتگی",
+            "English": "Weekly Schedule"
+        },
+        {
+            "Persian": "هردو",
+            "English": "both"
+        },
+        {
+            "Persian": "ملیت",
+            "English": "Nationality"
+        },
+        {
+            "Persian": "ماهانه بر اساس کسر کار ثابت",
+            "English": "Monthly based on fixed work deduction"
+        },
+        {
+            "Persian": "تلفن",
+            "English": "Phone"
+        },
+        {
+            "Persian": "کد شارژ",
+            "English": "Charge code"
+        },
+        {
+            "Persian": "قانون حضور پنج شنبه",
+            "English": "Thursday attendance rule"
+        },
+        {
+            "Persian": "ساعت پایان",
+            "English": "end time"
+        },
+        {
+            "Persian": "انتخاب مذهب",
+            "English": "Choice of religion"
+        },
+        {
+            "Persian": "تاریخ شروع عضویت",
+            "English": "Membership start date"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید مرخصی تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the set leave will be granted to the entire personnel of the organization"
+        },
+        {
+            "Persian": "پنج شنبه",
+            "English": "Thursday"
+        },
+        {
+            "Persian": "نوع غیبت مجاز",
+            "English": "Type of authorized absence"
+        },
+        {
+            "Persian": "برنامه هفتگی غذاها",
+            "English": "Weekly meal plan"
+        },
+        {
+            "Persian": "ماهانه بر اساس کارد ثابت",
+            "English": "Monthly based on fixed card"
+        },
+        {
+            "Persian": "مرد",
+            "English": "Man"
+        },
+        {
+            "Persian": "دستگاه",
+            "English": "device"
+        },
+        {
+            "Persian": "ثبت سوابق آموزشی مدیریتی برای پرسنل واحد",
+            "English": "Registration of management training records for unit personnel"
+        },
+        {
+            "Persian": "محل تولد",
+            "English": "place of birth"
+        },
+        {
+            "Persian": "نمایش پرسنل نزدیک به اتمام قرارداد",
+            "English": "Display personnel close to the end of the contract"
+        },
+        {
+            "Persian": "تایید",
+            "English": "confirmation"
+        },
+        {
+            "Persian": "داخل سازمان",
+            "English": "Inside the organization"
+        },
+        {
+            "Persian": "ساعت شـروع",
+            "English": "start time"
+        },
+        {
+            "Persian": "مبلغ کسر ساعتی",
+            "English": "Hourly deduction amount"
+        },
+        {
+            "Persian": "سهم کارمند",
+            "English": "Employee share"
+        },
+        {
+            "Persian": "واحد سازمانی",
+            "English": "Organizational Unit"
+        },
+        {
+            "Persian": "شروع مودال شارژ پارکینگ",
+            "English": "The start of the parking lot charging modal"
+        },
+        {
+            "Persian": "ثبت سوابق کاری برای یک پرسنل",
+            "English": "Registration of work records for a personnel"
+        },
+        {
+            "Persian": "متن اس ام اس",
+            "English": "SMS text"
+        },
+        {
+            "Persian": "ثبت سوابق آدرس برای پرسنل انتخابی",
+            "English": "Registration of address records for selected personnel"
+        },
+        {
+            "Persian": "شروع مودال انتخاب خودرو",
+            "English": "Start the vehicle selection modal"
+        },
+        {
+            "Persian": "سهم سازمان",
+            "English": "Share of the organization"
+        },
+        {
+            "Persian": "نوع مالیات",
+            "English": "Tax type"
+        },
+        {
+            "Persian": "نیاز به مجوز اضافه کار قبل وقت",
+            "English": "Overtime permit required ahead of time"
+        },
+        {
+            "Persian": "آدرس داخل شرکت",
+            "English": "Address inside the company"
+        },
+        {
+            "Persian": "کد ماموریت",
+            "English": "Mission code"
+        },
+        {
+            "Persian": "پرسنلی",
+            "English": "personnel"
+        },
+        {
+            "Persian": "ایستگاه",
+            "English": "Station"
+        },
+        {
+            "Persian": "ثبت ماموریت برای پرسنل انتخابی",
+            "English": "Mission registration for selected personnel"
+        },
+        {
+            "Persian": "شروع مودال اختصاص پست سازمانی",
+            "English": "Start of organizational post assignment modal"
+        },
+        {
+            "Persian": "کاری",
+            "English": "work"
+        },
+        {
+            "Persian": "شنبه",
+            "English": "Saturday"
+        },
+        {
+            "Persian": "پایان مودال راهنما ارسال اکسل حقوق و دستمزد",
+            "English": "End of the modal guide for sending Excel payroll"
+        },
+        {
+            "Persian": "ثبت سوابق استخدام برای پرسنل انتخابی",
+            "English": "Registration of employment records for selected personnel"
+        },
+        {
+            "Persian": "شروع مودال راهنما ارسال ایمیل",
+            "English": "Start the email sending help module"
+        },
+        {
+            "Persian": "ثبت غیبت مجاز مدیریتی برای پرسنل واحد",
+            "English": "Registration of authorized administrative absence for unit personnel"
+        },
+        {
+            "Persian": "شماره حساب بانکی",
+            "English": "Bank account number"
+        },
+        {
+            "Persian": "ارسال پیامک",
+            "English": "send SMS"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق کاری تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the adjusted work records will be assigned to all the personnel of the organization"
+        },
+        {
+            "Persian": "پایه",
+            "English": "the base"
+        },
+        {
+            "Persian": "توضیحـات",
+            "English": "Explanations"
+        },
+        {
+            "Persian": "درصد کسر کار ساعتی",
+            "English": "Hourly deduction percentage"
+        },
+        {
+            "Persian": "نام کاربری",
+            "English": "user name"
+        },
+        {
+            "Persian": "وضعیت تاهل",
+            "English": "marital status"
+        },
+        {
+            "Persian": "تاریخ تولد",
+            "English": "Date of birth"
+        },
+        {
+            "Persian": "ثبت سوابق همکاری",
+            "English": "Registration of cooperation records"
+        },
+        {
+            "Persian": "تاریخ پایان",
+            "English": "end date"
+        },
+        {
+            "Persian": "سه شنبه",
+            "English": "Tuesday"
+        },
+        {
+            "Persian": "ثبت ماموریت مدیریتی برای پرسنل واحد",
+            "English": "Registration of management mission for unit personnel"
+        },
+        {
+            "Persian": "ذخیره",
+            "English": "Store"
+        },
+        {
+            "Persian": "آموزشی",
+            "English": "educational"
+        },
+        {
+            "Persian": "تعریف چارت سازمانی",
+            "English": "Definition of organizational chart"
+        },
+        {
+            "Persian": "هفته بعد",
+            "English": "Next Week"
+        },
+        {
+            "Persian": "درصد ماموریت",
+            "English": "Mission percentage"
+        },
+        {
+            "Persian": "تعریف نوع حکم پرسنلی",
+            "English": "Definition of the type of personnel order"
+        },
+        {
+            "Persian": "مبلغ ماموریت ساعتی",
+            "English": "Hourly mission amount"
+        },
+        {
+            "Persian": "تلفن همراه",
+            "English": "Cellular phone"
+        },
+        {
+            "Persian": "ثبت سوابق همکاری مدیریتی برای پرسنل واحد",
+            "English": "Record management cooperation records for unit personnel"
+        },
+        {
+            "Persian": "تاریخ پایان قرارداد",
+            "English": "Contract end date"
+        },
+        {
+            "Persian": "توضیحات",
+            "English": "Description"
+        },
+        {
+            "Persian": "پایان مودال اختصاص پست سازمانی",
+            "English": "End of organizational post assignment modal"
+        },
+        {
+            "Persian": "شماره همراه",
+            "English": "mobile number"
+        },
+        {
+            "Persian": "فردی",
+            "English": "Individual"
+        },
+        {
+            "Persian": "تا",
+            "English": "until the"
+        },
+        {
+            "Persian": "پایان مودال جستجو پرسنل",
+            "English": "End of personnel search modal"
+        },
+        {
+            "Persian": "اختصاص پست سازمانی",
+            "English": "Assignment of organizational post"
+        },
+        {
+            "Persian": "محاسبات مانده مرخصی",
+            "English": "Leave balance calculations"
+        },
+        {
+            "Persian": "ساعتی بر اساس کارکرد ثابت",
+            "English": "hourly based on constant operation"
+        },
+        {
+            "Persian": "شماره پیگیری",
+            "English": "Issue Tracking"
+        },
+        {
+            "Persian": "تا تـاریـخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "پایان مودال اطلاعات حقوق و دستمزد",
+            "English": "End of Salary Information Modal"
+        },
+        {
+            "Persian": "انتخاب مخلفات غذا",
+            "English": "Choice of side dishes"
+        },
+        {
+            "Persian": "هفته قبل",
+            "English": "last week"
+        },
+        {
+            "Persian": "ثبت سوابق تحصیلی برای یک پرسنل",
+            "English": "Registration of educational records for a personnel"
+        },
+        {
+            "Persian": "انتخاب خودرو",
+            "English": "Car selection"
+        },
+        {
+            "Persian": "ثبت سوابق آدرس",
+            "English": "Register address records"
+        },
+        {
+            "Persian": "کد پرسنلی",
+            "English": "Personnel Code"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید ماموریت تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the set mission will be assigned to the entire personnel of the organization"
+        },
+        {
+            "Persian": "شروع  مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "انتخاب مخلفات",
+            "English": "Choice of side dishes"
+        },
+        {
+            "Persian": "ثبت سوابق آدرس مدیریتی برای پرسنل واحد",
+            "English": "Registering management address records for unit personnel"
+        },
+        {
+            "Persian": "مبلغ کارکرد ساعتی",
+            "English": "Hourly work amount"
+        },
+        {
+            "Persian": "پایان مودال شارژ پارکینگ",
+            "English": "End of modal parking charge"
+        },
+        {
+            "Persian": "از پرسنل",
+            "English": "From personnel"
+        },
+        {
+            "Persian": "تا پرسنل",
+            "English": "up to personnel"
+        },
+        {
+            "Persian": "مدیر",
+            "English": "the manager"
+        },
+        {
+            "Persian": "خودرو",
+            "English": "car"
+        },
+        {
+            "Persian": "ثبت سوابق سلامت برای یک پرسنل",
+            "English": "Registration of health records for a personnel"
+        },
+        {
+            "Persian": "لیست مجوزهای اضافه کار",
+            "English": "List of overtime permits"
+        },
+        {
+            "Persian": "امیری",
+            "English": "Amiri"
+        },
+        {
+            "Persian": "رسمی",
+            "English": "Official"
+        },
+        {
+            "Persian": "انتخاب دین",
+            "English": "Choice of religion"
+        },
+        {
+            "Persian": "ثبت سوابق استخدام مدیریتی برای پرسنل واحد",
+            "English": "Registration of managerial employment records for unit personnel"
+        },
+        {
+            "Persian": "بر اساس قانون حضور",
+            "English": "According to the attendance law"
+        },
+        {
+            "Persian": "درصد تعطیلی کار",
+            "English": "The percentage of work closure"
+        },
+        {
+            "Persian": "غیرفعال",
+            "English": "Inactive"
+        },
+        {
+            "Persian": "ثبت ماموریت برای یک پرسنل",
+            "English": "Mission registration for a personnel"
+        },
+        {
+            "Persian": "نام خودرو",
+            "English": "car name"
+        },
+        {
+            "Persian": "کد هوشمند",
+            "English": "Smart code"
+        },
+        {
+            "Persian": "باحقوق",
+            "English": "with rights"
+        },
+        {
+            "Persian": "نوع مرخصی",
+            "English": "Type of leave"
+        },
+        {
+            "Persian": "شماره فیش",
+            "English": "receipt number"
+        },
+        {
+            "Persian": "از تـاریخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "متن ایمیل",
+            "English": "E-mail text"
+        },
+        {
+            "Persian": "آدرس",
+            "English": "Address"
+        },
+        {
+            "Persian": "پرسنل",
+            "English": "Personnel"
+        },
+        {
+            "Persian": "نــام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "نوع ژتون",
+            "English": "Token type"
+        },
+        {
+            "Persian": "نسبت",
+            "English": "Ratio"
+        },
+        {
+            "Persian": "شماره تلفن های آزاد",
+            "English": "Free phone numbers"
+        },
+        {
+            "Persian": "عدم انتخاب",
+            "English": "lack of choice"
+        },
+        {
+            "Persian": "ایمپورت پرسنل از دیتابیس",
+            "English": "Import personnel from the database"
+        },
+        {
+            "Persian": "تعلق می گیرد",
+            "English": "is awarded"
+        },
+        {
+            "Persian": "محل صدور",
+            "English": "Place of Issue"
+        },
+        {
+            "Persian": "ی",
+            "English": "Y"
+        },
+        {
+            "Persian": "فیش",
+            "English": "the receipt"
+        },
+        {
+            "Persian": "نام",
+            "English": "name"
+        },
+        {
+            "Persian": "شماره کارت",
+            "English": "card number"
+        },
+        {
+            "Persian": "ثبت مجوز اضافه کار مدیریتی برای پرسنل واحد",
+            "English": "Registration of management overtime permits for unit personnel"
+        },
+        {
+            "Persian": "سرویس",
+            "English": "service"
+        },
+        {
+            "Persian": "تولیدی",
+            "English": "productive"
+        },
+        {
+            "Persian": "بدون حقوق",
+            "English": "without salary"
+        },
+        {
+            "Persian": "پایان مودال جستجو",
+            "English": "End of search modal"
+        },
+        {
+            "Persian": "یک شنبه",
+            "English": "a saturday"
+        },
+        {
+            "Persian": "تاریخ آخرین بروز رسانی",
+            "English": "Date of last update"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق آموزشی تنظیم شده به کل پرسنل",
+            "English": "If you do not select any organizational unit, educational records are set for all personnel"
+        },
+        {
+            "Persian": "نیازی به این دکمه فعلا نیست",
+            "English": "There is no need for this button at this time"
+        },
+        {
+            "Persian": "شروع مودال تعریف اطلاعات تکمیلی",
+            "English": "Start modal definition additional information"
+        },
+        {
+            "Persian": "بروزرسانی  لیست وعده غذایی",
+            "English": "Update the meal list"
+        },
+        {
+            "Persian": "بروزرسانی نوع حکم پرسنلی",
+            "English": "Updating the type of personnel order"
+        },
+        {
+            "Persian": "نوع سابقه کاری",
+            "English": "Type of work history"
+        },
+        {
+            "Persian": "کسورات",
+            "English": "Deductions"
+        },
+        {
+            "Persian": "کارت آزاد",
+            "English": "free card"
+        },
+        {
+            "Persian": "رتبه",
+            "English": "rank"
+        },
+        {
+            "Persian": "تاریخ لغو رزرو",
+            "English": "Reservation cancellation date"
+        },
+        {
+            "Persian": "گروه",
+            "English": "group"
+        },
+        {
+            "Persian": "شروع مودال راهنما ارسال اکسل حقوق و دستمزد",
+            "English": "Start the modal help to send Excel payroll"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید حکم پرسنلی تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the adjusted personnel order will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "ثبت مرخصی برای پرسنل انتخابی",
+            "English": "Registration of leave for selected personnel"
+        },
+        {
+            "Persian": "تعریف قانون حضور",
+            "English": "Definition of attendance law"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق سرویس حمل و نقل تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the transport service records set will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "بیمه صفر",
+            "English": "Zero insurance"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق آموزشی تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the educational records set will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "ثبت سوابق تحصیلی برای پرسنل انتخابی",
+            "English": "Registration of educational records for selected personnel"
+        },
+        {
+            "Persian": "ساعت",
+            "English": "the watch"
+        },
+        {
+            "Persian": "جستجو و انتخاب کاربر",
+            "English": "User search and selection"
+        },
+        {
+            "Persian": "تاریخ",
+            "English": "History"
+        },
+        {
+            "Persian": "شروع مودال",
+            "English": "Modal start"
+        },
+        {
+            "Persian": "قیمت کل",
+            "English": "Total price"
+        },
+        {
+            "Persian": "انتخاب غذا",
+            "English": "Choice of food"
+        },
+        {
+            "Persian": "باقیمانده شارژ",
+            "English": "Remaining charge"
+        },
+        {
+            "Persian": "راهنما",
+            "English": "Guide"
+        },
+        {
+            "Persian": "ندارد",
+            "English": "does not have"
+        },
+        {
+            "Persian": "کل شارژ",
+            "English": "Total charge"
+        },
+        {
+            "Persian": "قانون حضور چهارشنبه",
+            "English": "Wednesday attendance rule"
+        },
+        {
+            "Persian": "نوع حکم پرسنلی",
+            "English": "Type of personnel order"
+        },
+        {
+            "Persian": "سال",
+            "English": "Year"
+        },
+        {
+            "Persian": "استان",
+            "English": "State"
+        },
+        {
+            "Persian": "بروزرسانی  لیست رستوران",
+            "English": "Updating the restaurant list"
+        },
+        {
+            "Persian": "جدول مالیات",
+            "English": "Tax table"
+        },
+        {
+            "Persian": "روز فروش",
+            "English": "sale day"
+        },
+        {
+            "Persian": "فایل",
+            "English": "file"
+        },
+        {
+            "Persian": "تاریخ ازدواج",
+            "English": "Date of marriage"
+        },
+        {
+            "Persian": "مبلغ تعطیل کاری",
+            "English": "Holiday amount"
+        },
+        {
+            "Persian": "شروع مودال اطلاعات حقوق و دستمزد",
+            "English": "Start the Salary Information Modal"
+        },
+        {
+            "Persian": "تاریخ شروع",
+            "English": "start date"
+        },
+        {
+            "Persian": "چهارشنبه",
+            "English": "Wednesday"
+        },
+        {
+            "Persian": "انتخاب وضیعت خدمت",
+            "English": "Select service status"
+        },
+        {
+            "Persian": "ذخیره از دیتابیس سندپرداز",
+            "English": "Save from the Sandpardaz database"
+        },
+        {
+            "Persian": "شماره تلفن ثابت",
+            "English": "landline number"
+        },
+        {
+            "Persian": "انـواع ماموریت",
+            "English": "Types of missions"
+        },
+        {
+            "Persian": "تعریف کاربران",
+            "English": "Define users"
+        },
+        {
+            "Persian": "شروع مودال نمایش پرسنلی که به پایان تاریخ قرارداد نزدیک میشوند",
+            "English": "The start of the modal to display personnel who are approaching the end of the contract date"
+        },
+        {
+            "Persian": "مبلغ نقدی",
+            "English": "Cash amount"
+        },
+        {
+            "Persian": "نوع",
+            "English": "type"
+        },
+        {
+            "Persian": "درصد کسرکار ساعتی",
+            "English": "The percentage of hourly unemployment"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق استخدام تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the adjusted employment records will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق کاری تنظیم شده به کل پرسنل سازمان",
+            "English": "If you do not select any organizational unit, the work records are adjusted to the entire personnel of the organization"
+        },
+        {
+            "Persian": "تعریف کاربر",
+            "English": "User definition"
+        },
+        {
+            "Persian": "مشمول غیبت می شود",
+            "English": "It is subject to absence"
+        },
+        {
+            "Persian": "نسیه",
+            "English": "credit"
+        },
+        {
+            "Persian": "جنسیت",
+            "English": "gender"
+        },
+        {
+            "Persian": "اطلاعات حقوق و دستمزد",
+            "English": "Salary information"
+        },
+        {
+            "Persian": "نمایش پرسنلی که به پایان قرارداد نزدیک هستند",
+            "English": "Show personnel who are close to the end of the contract"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق آدرس تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the set address records will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "ثبت سوابق سلامت برای پرسنل انتخابی",
+            "English": "Registration of health records for selected personnel"
+        },
+        {
+            "Persian": "ثبت سوابق استخدام برای یک پرسنل",
+            "English": "Registration of employment records for a personnel"
+        },
+        {
+            "Persian": "سلامت",
+            "English": "Health"
+        },
+        {
+            "Persian": "تاریخ رزرو",
+            "English": "reservation date"
+        },
+        {
+            "Persian": "کد پرسنل",
+            "English": "Personnel code"
+        },
+        {
+            "Persian": "سمت",
+            "English": "Side"
+        },
+        {
+            "Persian": "شروع مودال  جستجو",
+            "English": "Start the search modal"
+        },
+        {
+            "Persian": "ذخیره اطلاعات تکمیلی پارکینگ",
+            "English": "Save additional parking information"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق سلامت تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the adjusted health records will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "تا تـاریخ",
+            "English": "until date"
+        },
+        {
+            "Persian": "تا ساعت",
+            "English": "until"
+        },
+        {
+            "Persian": "سهمیه",
+            "English": "quota"
+        },
+        {
+            "Persian": "اعتباری",
+            "English": "credit"
+        },
+        {
+            "Persian": "ثبت سوابق سرویس حمل و نقل",
+            "English": "Registration of transport service records"
+        },
+        {
+            "Persian": "جستجوی پرسنل",
+            "English": "Personnel search"
+        },
+        {
+            "Persian": "دین",
+            "English": "Religion"
+        },
+        {
+            "Persian": "ثبت سوابق کاری مدیریتی برای پرسنل واحد",
+            "English": "Record management work records for unit personnel"
+        },
+        {
+            "Persian": "قابل پرداخت",
+            "English": "Payable"
+        },
+        {
+            "Persian": "وضعیت نظام وظیفه",
+            "English": "military service status"
+        },
+        {
+            "Persian": "بروزرسانی  لیست سالن",
+            "English": "Update the hall list"
+        },
+        {
+            "Persian": "علی",
+            "English": "Ali"
+        },
+        {
+            "Persian": "لغو رزروها",
+            "English": "Cancellation of reservations"
+        },
+        {
+            "Persian": "کشور",
+            "English": "Country"
+        },
+        {
+            "Persian": "ثبت حکم پرسنلی برای یک پرسنل",
+            "English": "Registration of a personnel order for a personnel"
+        },
+        {
+            "Persian": "میزان ماموریت",
+            "English": "The extent of the mission"
+        },
+        {
+            "Persian": "انـواع مرخصـی",
+            "English": "Types of leave"
+        },
+        {
+            "Persian": "مشمول کسر کار می شود",
+            "English": "It is subject to work deduction"
+        },
+        {
+            "Persian": "پایان مودال تعریف اطلاعات تکمیلی",
+            "English": "End Modal Definition Additional Information"
+        },
+        {
+            "Persian": "سالن",
+            "English": "Hall"
+        },
+        {
+            "Persian": "حذف",
+            "English": "Delete"
+        },
+        {
+            "Persian": "ثبت سوابق سلامت مدیریتی برای پرسنل واحد",
+            "English": "Registration of administrative health records for unit personnel"
+        },
+        {
+            "Persian": "ایمپورت پرسنل از فایل اکسل",
+            "English": "Import personnel from Excel file"
+        },
+        {
+            "Persian": "شماره پلاک خودرو",
+            "English": "Vehicle license plate number"
+        },
+        {
+            "Persian": "ایمیل",
+            "English": "email"
+        },
+        {
+            "Persian": "ثبت غیبت مجاز برای یک پرسنل",
+            "English": "Registration of authorized absence for a personnel"
+        },
+        {
+            "Persian": "از تـاریـخ",
+            "English": "from history"
+        },
+        {
+            "Persian": "ایاب و ذهاب تعلق گیرد",
+            "English": "To be paid back and forth"
+        },
+        {
+            "Persian": "تلفن ثابت",
+            "English": "Phone"
+        },
+        {
+            "Persian": "تعداد",
+            "English": "Number"
+        },
+        {
+            "Persian": "مرکز آموزشی",
+            "English": "Learning Center"
+        },
+        {
+            "Persian": "واحد محل خدمت",
+            "English": "Service unit"
+        },
+        {
+            "Persian": "نام غذا",
+            "English": "food name"
+        },
+        {
+            "Persian": "تاریخ صدور",
+            "English": "Issue date"
+        },
+        {
+            "Persian": "خاتمه خدمت",
+            "English": "termination of service"
+        },
+        {
+            "Persian": "مبلغ پرداختی",
+            "English": "Amount of money That had to be paid"
+        },
+        {
+            "Persian": "عکس",
+            "English": "Picture"
+        },
+        {
+            "Persian": "پایان مودال همسر و فرزند",
+            "English": "Modal ending of wife and child"
+        },
+        {
+            "Persian": "تاریخ استخدام",
+            "English": "date of employeement"
+        },
+        {
+            "Persian": "مبلغ اضافه کار",
+            "English": "Overtime amount"
+        },
+        {
+            "Persian": "قانون حضور شنبه",
+            "English": "Saturday attendance rule"
+        },
+        {
+            "Persian": "جستجو پرسنل",
+            "English": "Personnel search"
+        },
+        {
+            "Persian": "مبلغ ماموریت روزانه",
+            "English": "Daily mission amount"
+        },
+        {
+            "Persian": "کارشناسی",
+            "English": "Masters"
+        },
+        {
+            "Persian": "شروع مودال ایمپورت پرسنل از فایل",
+            "English": "Start modal to import personnel from file"
+        },
+        {
+            "Persian": "جستجو و انتخاب غذا",
+            "English": "Food search and selection"
+        },
+        {
+            "Persian": "تاریخ شروع قرارداد",
+            "English": "The contract start date"
+        },
+        {
+            "Persian": "ثبت سوابق سرویس حمل و نقل برای یک پرسنل",
+            "English": "Registration of transport service records for a personnel"
+        },
+        {
+            "Persian": "میزان اضافه کار تشویقی ماهانه",
+            "English": "The amount of monthly incentive overtime"
+        },
+        {
+            "Persian": "ثبت سوابق تحصیلی",
+            "English": "Registration of academic records"
+        },
+        {
+            "Persian": "دوشنبه",
+            "English": "Monday"
+        },
+        {
+            "Persian": "ش",
+            "English": "Sh"
+        },
+        {
+            "Persian": "مبلغ",
+            "English": "Amount"
+        },
+        {
+            "Persian": "محل انجام اضافه کار",
+            "English": "Place of overtime"
+        },
+        {
+            "Persian": "وضعیت ازدواج",
+            "English": "marital status"
+        },
+        {
+            "Persian": "شماره کارت همان شماره پرسنلی می باشد",
+            "English": "The card number is the same as the personnel number"
+        },
+        {
+            "Persian": "نام پدر",
+            "English": "father's name"
+        },
+        {
+            "Persian": "بازگشت",
+            "English": "coming back"
+        },
+        {
+            "Persian": "مشمول ماموریت می شود",
+            "English": "It is included in the mission"
+        },
+        {
+            "Persian": "قانون حضور دوشنبه",
+            "English": "Monday attendance rule"
+        },
+        {
+            "Persian": "ارسال به",
+            "English": "Send to"
+        },
+        {
+            "Persian": "شروع مودال  جستجو پرسنل",
+            "English": "Start the personnel search module"
+        },
+        {
+            "Persian": "تا تاریخ اجرا",
+            "English": "Until the implementation date"
+        },
+        {
+            "Persian": "ثبت حکم پرسنلی مدیریتی برای پرسنل واحد",
+            "English": "Registration of management personnel orders for unit personnel"
+        },
+        {
+            "Persian": "میانگین تاخیر مجاز روزانه",
+            "English": "Average daily allowable delay"
+        },
+        {
+            "Persian": "راهنما ارسال اکسل حقوق و دستمزد",
+            "English": "Help sending Excel payroll"
+        },
+        {
+            "Persian": "اطلاعات شارژ پارکینگ",
+            "English": "Parking charge information"
+        },
+        {
+            "Persian": "جستجو",
+            "English": "Search"
+        },
+        {
+            "Persian": "ثبت سوابق کاری",
+            "English": "Registration of work records"
+        },
+        {
+            "Persian": "ماه",
+            "English": "Month"
+        },
+        {
+            "Persian": "ایمپورت حقوق و دستمزد از فایل",
+            "English": "Import payroll from file"
+        },
+        {
+            "Persian": "ماهانه براساس کسرکار محاسباتی",
+            "English": "Monthly based on calculation deduction"
+        },
+        {
+            "Persian": "قانون حضور یکشنبه",
+            "English": "Sunday attendance rule"
+        },
+        {
+            "Persian": "انـواع غیبت مجـاز",
+            "English": "Types of authorized absence"
+        },
+        {
+            "Persian": "از تاریخ",
+            "English": "from"
+        },
+        {
+            "Persian": "بروزرسانی لیست کاربران",
+            "English": "Updating the list of users"
+        },
+        {
+            "Persian": "مشمول اضافه کار می شود",
+            "English": "Subject to overtime"
+        },
+        {
+            "Persian": "پایان خدمت",
+            "English": "the end of service"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق تحصیلی تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the educational records set will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "محل اضافه کار",
+            "English": "Overtime location"
+        },
+        {
+            "Persian": "ایــران",
+            "English": "Iran"
+        },
+        {
+            "Persian": "شهر",
+            "English": "City"
+        },
+        {
+            "Persian": "محل ماموریت",
+            "English": "Mission location"
+        },
+        {
+            "Persian": "نوع محاسبه حقوق",
+            "English": "Type of salary calculation"
+        },
+        {
+            "Persian": "پست سازمانی",
+            "English": "Organizational position"
+        },
+        {
+            "Persian": "نحوه پرداخت",
+            "English": "payment method"
+        },
+        {
+            "Persian": "شماره تلفن های داخلی",
+            "English": "Internal phone numbers"
+        },
+        {
+            "Persian": "دارد",
+            "English": "has it"
+        },
+        {
+            "Persian": "تعلیق از خدمت",
+            "English": "Suspension from service"
+        },
+        {
+            "Persian": "تا تاریخ",
+            "English": "Up to date"
+        },
+        {
+            "Persian": "ثبت سوابق همکاری برای پرسنل انتخابی",
+            "English": "Registration of cooperation records for selected personnel"
+        },
+        {
+            "Persian": "معافیت دائم",
+            "English": "permanent exemption"
+        },
+        {
+            "Persian": "نام دسر",
+            "English": "The name of the dessert"
+        },
+        {
+            "Persian": "شماره پلاک",
+            "English": "Number plates"
+        },
+        {
+            "Persian": "بروزرسانی نوع غیبت",
+            "English": "Update absence type"
+        },
+        {
+            "Persian": "نیاز به مجوز اضافه کار بعد وقت",
+            "English": "Overtime permit required"
+        },
+        {
+            "Persian": "شماره شناسنامه",
+            "English": "Id"
+        },
+        {
+            "Persian": "شروع مودال همسر و فرزند",
+            "English": "Beginning of the spouse and child modal"
+        },
+        {
+            "Persian": "بروزرسانی نوع ماموریت",
+            "English": "Mission Type Update"
+        },
+        {
+            "Persian": "نوع ماموریت",
+            "English": "Type of mission"
+        },
+        {
+            "Persian": "زن",
+            "English": "Female"
+        },
+        {
+            "Persian": "در صورتی که هیچ واحد سازمانی را انتخاب نکنید سوابق همکاری تنظیم شده به کل پرسنل سازمان تعلق می گیرد",
+            "English": "If you do not select any organizational unit, the set cooperation records will be assigned to all personnel of the organization"
+        },
+        {
+            "Persian": "درصد اضافه کار",
+            "English": "Overtime percentage"
+        },
+        {
+            "Persian": "نام و بعد نام خانوادگی",
+            "English": "First name and then last name"
+        },
+        {
+            "Persian": "سازمان تعلق می گیرد",
+            "English": "The organization is awarded"
+        },
+        {
+            "Persian": "درصد غیبت",
+            "English": "Absence percentage"
+        },
+        {
+            "Persian": "پایان مودال",
+            "English": "Modal ending"
+        },
+        {
+            "Persian": "ثبت سوابق آدرس برای یک پرسنل",
+            "English": "Registration of address records for a personnel"
+        },
+        {
+            "Persian": "مشهد",
+            "English": "Mashhad"
+        },
+        {
+            "Persian": "شـروع",
+            "English": "start"
+        },
+        {
+            "Persian": "نوع بیمه",
+            "English": "Type of insurance"
+        },
+        {
+            "Persian": "مبلغ مازاد",
+            "English": "Excess amount"
+        },
+        {
+            "Persian": "شروع مودال جستجو",
+            "English": "Start the search modal"
+        },
+        {
+            "Persian": "میهمان",
+            "English": "Guest"
+        },
+        {
+            "Persian": "برحسب دقیقه",
+            "English": "in minutes"
+        },
+        {
+            "Persian": "پایان مودال راهنما ارسال ایمیل",
+            "English": "End of email send help modal"
+        },
+        {
+            "Persian": "شروع مودال اختصاص شیفت آسان",
+            "English": "Start the easy shift assignment modal"
+        },
+        {
+            "Persian": "ثبت سوابق تحصیلی مدیریتی برای پرسنل واحد",
+            "English": "Registration of management academic records for unit personnel"
+        },
+        {
+            "Persian": "نام خانوادگی",
+            "English": "last name"
+        },
+        {
+            "Persian": "تاریخ اجرا",
+            "English": "Implementation date"
+        },
+        {
+            "Persian": "ثبت غیبت مجاز برای پرسنل انتخابی",
+            "English": "Registration of authorized absence for selected personnel"
+        },
+        {
+            "Persian": "ملبغ ماموریت روزانه",
+            "English": "The content of the daily mission"
+        },
+        {
+            "Persian": "خارج سازمان",
+            "English": "Outside the organization"
+        },
+        {
+            "Persian": "عملیات",
+            "English": "the operation"
+        },
+        {
+            "Persian": "ثبت مجوز اضافه کار برای یک پرسنل",
+            "English": "Registration of overtime permit for a personnel"
+        },
+        {
+            "Persian": "نقدی",
+            "English": "cash"
+        },
+        {
+            "Persian": "ثبت سوابق استخدام",
+            "English": "Registration of employment records"
+        },
+        {
+            "Persian": "حقوق ماهانه",
+            "English": "salary"
+        },
+        {
+            "Persian": "رشته آموزشی",
+            "English": "Educational field"
+        },
+        {
+            "Persian": "وضیعت",
+            "English": "the situation"
+        },
+        {
+            "Persian": "ثبت مرخصی برای یک پرسنل",
+            "English": "Leave registration for a staff member"
+        },
+        {
+            "Persian": "کد غیبت",
+            "English": "Absence code"
+        },
+        {
+            "Persian": "پایان مودال  ایمپورت پرسنل از فایل",
+            "English": "End of the personnel import modal from the file"
+        },
+        {
+            "Persian": "ریال",
+            "English": "Rials"
+        },
+        {
+            "Persian": "دسر",
+            "English": "Dessert"
+        },
+        {
+            "Persian": "وزن",
+            "English": "Weight"
+        },
+        {
+            "Persian": "قانون حضور جمعه",
+            "English": "Friday attendance rule"
+        },
+        {
+            "Persian": "غذا",
+            "English": "Food"
+        },
+        {
+            "Persian": "بروزرسانی  لیست سهمیه",
+            "English": "Update quota list"
+        },
+        {
+            "Persian": "تعریف وعده غذایی",
+            "English": "Definition of meal"
+        },
+        {
+            "Persian": "نام و نام خانوادگی",
+            "English": "first name and last name"
+        },
+        {
+            "Persian": "یکشنبه",
+            "English": "Sunday"
+        },
+        {
+            "Persian": "ثبت سوابق سلامت",
+            "English": "Registering health records"
+        },
+        {
+            "Persian": "جمعه",
+            "English": "Friday"
+        },
+        {
+            "Persian": "مزایا و کسورات حکم پرسنلی",
+            "English": "Benefits and deductions of the personnel order"
+        },
+        {
+            "Persian": "نام خانوادگی پرسنل",
+            "English": "Surname of personnel"
+        },
+        {
+            "Persian": "اختصاص شیفت آسان",
+            "English": "Easy shift assignment"
+        },
+        {
+            "Persian": "عنوان",
+            "English": "Title"
+        },
+        {
+            "Persian": "ارسال اعلانات",
+            "English": "Send notifications"
+        }
+    ]
+}

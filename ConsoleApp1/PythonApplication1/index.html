@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+    href="Style.css"
+    rel="stylesheet"    
+  />
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div style="margin-left: auto;margin-right: auto;">
+        <div class="row">
+
+    <div class="test d-flex align-items-center justify-content-center">
+      <div class="test2 d-flex align-items-center justify-content-center">
+          <div class="test4 d-flex align-items-center justify-content-center">
+            <img class="rotation-handle" style="position: relative;left: 2.25ch; top: 4.5ch;height: 8ch; width: 3ch;"  src="Indicator.png"/>
+            <div style="position: relative;right: 1.5ch;" class="test3 d-flex align-items-center justify-content-center">
+                <div style="color:transparent;" class="test5 d-flex align-items-center justify-content-center">
+                    00
+                </div>
+              </div>
+          </div> 
+            <!-- <div class="test6"></div>        -->
+      </div>
+    </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-sm-6 TimeLabel">
+        <span id="currentTime" class="timeText align-items-center justify-content-center">
+          15:30
+        </span>
+      </div>
+    </div>
+    </div>
+    <div class="row">
+<div class="power-switch" >
+  <input type="checkbox" />
+  <div class="button">
+    <svg class="power-off">
+      <use xlink:href="#line" class="line" />
+      <use xlink:href="#circle" class="circle" />
+    </svg>
+    <svg class="power-on">
+      <use xlink:href="#line" class="line" />
+      <use xlink:href="#circle" class="circle" />
+    </svg>
+    </div>
+  </div>
+  <!-- SVG -->
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" id="line">
+      <line x1="75" y1="34" x2="75" y2="58"/>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" id="circle">
+      <circle cx="75" cy="80" r="35"/>
+    </symbol>
+  </svg>
+</div>
+<div class="row ">
+<div class="col-sm CameraLive" onclick="OpenCamera()">
+  <span onclick="OpenCamera()" class="liveText d-flex justify-content-center align-items-center">
+  لایو دوربین<br>
+  Esp32-cam
+</span>
+</div>
+</div>
+</div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js">
+
+    </script>
+    <script src="Script.js">     
+    </script>
+
+  </body>
+</html>-
+
